@@ -917,9 +917,9 @@
         },
         {
             "name": "Sonance",
-            "version": "0.2.1+1.20.2",
+            "version": "0.3.0+1.20.2",
             "source": "modrinth",
-            "location": "0.2.1+1.20.2",
+            "location": "sonance",
             "authors": [
                 {
                     "name": "mineblock11",
