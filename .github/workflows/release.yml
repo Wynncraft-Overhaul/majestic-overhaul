@@ -1,0 +1,30 @@
+name: "Release modified includes"
+on: push
+jobs:
+  zip_release_include:
+    permissions: "write-all"
+    name: "Zip and release includes"
+    runs-on: "ubuntu-latest"
+    steps:
+      - name: checkout repo
+        uses: actions/checkout@v2.3.4
+      - name: "Zip include"
+        id: zip_include
+        run: |
+          echo "files=$(python3 zip_include.py)" >> $GITHUB_OUTPUT
+      - name: Extract branch name
+        shell: bash
+        run: echo "branch=$(echo ${GITHUB_REF#refs/heads/})" >>$GITHUB_OUTPUT
+        id: extract_branch
+      - name: Get hashes
+        shell: bash
+        run: echo "hashes=$(cat hashes.json)" >>$GITHUB_OUTPUT
+        id: get_hashes
+      - uses: meeDamian/github-release@2.0
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          tag: "${{ steps.extract_branch.outputs.branch }}"
+          files: ${{ steps.zip_include.outputs.files }}
+          body: ${{ steps.get_hashes.outputs.hashes }}
+          allow_override: true
+          gzip: false
