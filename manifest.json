@@ -399,7 +399,7 @@
         },
         {
             "name": "Indium",
-            "version": "1.0.27+mc1.20.1 ",
+            "version": "1.0.27+mc1.20.1",
             "source": "modrinth",
             "location": "indium",
             "authors": [
