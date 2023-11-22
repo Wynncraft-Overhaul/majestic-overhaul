@@ -289,18 +289,6 @@
             ]
         },
         {
-            "name": "Exordium",
-            "version": "1.2.1-1.20.2",
-            "source": "modrinth",
-            "location": "exordium",
-            "authors": [
-                {
-                    "name": "tr7zw",
-                    "link": "https://modrinth.com/user/tr7zw"
-                }
-            ]
-        },
-        {
             "name": "Ukulib",
             "version": "1.0.1+1.20.2",
             "source": "modrinth",
