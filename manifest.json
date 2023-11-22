@@ -1339,6 +1339,30 @@
                     "link": "https://www.youtube.com/@musicalmushroomvillagerfil4539"
                 }
             ]
+        },
+        {
+            "name": "Wynncraft Donjons",
+            "version": "v1.0",
+            "source": "mediafire",
+            "location": "https://www.mediafire.com/file/h5qa4y21rkjotlw/.%25C2%25A76Wynnic_%25C2%25A7eDonjons_v1.0%25C2%25A77CITR.zip/file",
+            "authors": [
+                {
+                    "name": "Rythew",
+                    "link": "https://forums.wynncraft.com/threads/wynncraft-donjons-resource-pack.311610/"
+                }
+            ]
+        },
+        {
+            "name": "Wynnic Fables & Legends",
+            "version": "v1.5",
+            "source": "mediafire",
+            "location": "https://www.mediafire.com/file/6m69j1ja3nyhpmn/.%25C2%25A73Wynnic_%25C2%25A7bFables_%2526_Legends_v1.5_%25C2%25A77CITR.zip/file",
+            "authors": [
+                {
+                    "name": "Rythew",
+                    "link": "https://forums.wynncraft.com/threads/wynncraft-fables-legends-resource-pack.310225/"
+                }
+            ]
         }
     ],
     "include": [],
