@@ -1305,18 +1305,6 @@
             ]
         },
         {
-            "name": "Kios Wynn Models",
-            "version": "archangel",
-            "source": "ddl",
-            "location": "https://forums.wynncraft.com/attachments/kioswynnmodels-archangel-zip.171628/",
-            "authors": [
-                {
-                    "name": "Kiocifer",
-                    "link": "https://www.patreon.com/kiosmodels"
-                }
-            ]
-        },
-        {
             "name": "Water Improved",
             "version": "1.20.1",
             "source": "ddl",
