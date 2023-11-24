@@ -1341,7 +1341,11 @@
             ]
         }
     ],
-    "include": [],
+    "include": [
+        {
+            "location": "resourcepacks/KiosWynnModels-Archangel.zip"
+        }
+    ],
     "features": [
         {
             "id": "auto-third-person",
