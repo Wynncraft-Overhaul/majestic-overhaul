@@ -1361,11 +1361,6 @@
             "id": "autohud",
             "name": "AutoHUD",
             "default": true
-        },
-        {
-            "id": "bobby",
-            "name": "Bobby",
-            "default": true
         }
     ]
 }
