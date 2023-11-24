@@ -26,7 +26,7 @@
         },
         {
             "name": "Iris Shaders",
-            "version": "1.6.9+1.20.2",
+            "version": "1.6.10+1.20.2",
             "source": "modrinth",
             "location": "iris",
             "authors": [
@@ -50,7 +50,7 @@
         },
         {
             "name": "Fabric Language Kotlin",
-            "version": "1.10.10+kotlin.1.9.10",
+            "version": "1.10.15+kotlin.1.9.21",
             "source": "modrinth",
             "location": "fabric-language-kotlin",
             "authors": [
@@ -62,7 +62,7 @@
         },
         {
             "name": "Cloth Config API",
-            "version": "12.0.109+fabric",
+            "version": "12.0.111+fabric",
             "source": "modrinth",
             "location": "cloth-config",
             "authors": [
@@ -86,7 +86,7 @@
         },
         {
             "name": "Architectury API",
-            "version": "10.0.7+fabric",
+            "version": "10.0.16+fabric",
             "source": "modrinth",
             "location": "architectury-api",
             "authors": [
@@ -98,7 +98,7 @@
         },
         {
             "name": "Reese's Sodium Options",
-            "version": "mc1.20.2-1.6.5",
+            "version": "mc1.20.2-1.7.0",
             "source": "modrinth",
             "location": "reeses-sodium-options",
             "authors": [
@@ -110,7 +110,7 @@
         },
         {
             "name": "Sodium Extra",
-            "version": "mc1.20.2-0.5.2",
+            "version": "mc1.20.2-0.5.3",
             "source": "modrinth",
             "location": "sodium-extra",
             "authors": [
@@ -146,7 +146,7 @@
         },
         {
             "name": "ImmediatelyFast",
-            "version": "1.2.5+1.20.2",
+            "version": "1.2.7+1.20.2",
             "source": "modrinth",
             "location": "immediatelyfast",
             "authors": [
@@ -182,7 +182,7 @@
         },
         {
             "name": "Concurrent Chunk Management Engine",
-            "version": "0.2.0+alpha.10.123+1.20.2",
+            "version": "0.2.0+alpha.10.126+1.20.2",
             "source": "modrinth",
             "location": "c2me-fabric",
             "authors": [
@@ -266,7 +266,7 @@
         },
         {
             "name": "Fabric Skyboxes Interop",
-            "version": "mc1.20.2-1.3.5",
+            "version": "mc1.20.2-1.3.6",
             "source": "modrinth",
             "location": "fabricskyboxes-interop",
             "authors": [
@@ -290,7 +290,7 @@
         },
         {
             "name": "Ukulib",
-            "version": "1.0.1+1.20.2",
+            "version": "1.0.2+1.20.2",
             "source": "modrinth",
             "location": "ukulib",
             "authors": [
@@ -326,7 +326,7 @@
         },
         {
             "name": "ModernFix",
-            "version": "5.7.3-beta.1+mc1.20.2-pre3",
+            "version": "5.9.3+mc1.20.2",
             "source": "modrinth",
             "location": "modernfix",
             "authors": [
@@ -351,7 +351,7 @@
         },
         {
             "name": "Particle Rain",
-            "version": "v2.0.7",
+            "version": "v2.0.8",
             "source": "modrinth",
             "location": "particle-rain",
             "authors": [
@@ -436,7 +436,7 @@
         },
         {
             "name": "AutoHUD",
-            "version": "6.2+1.20.2-fabric",
+            "version": "6.4+1.20.2-fabric",
             "source": "modrinth",
             "location": "autohud",
             "authors": [
@@ -473,7 +473,7 @@
         },
         {
             "name": "Yet Another Config Lib",
-            "version": "3.2.1+1.20.2-fabric",
+            "version": "3.3.0-beta.1+1.20.2-fabric",
             "source": "modrinth",
             "location": "yacl",
             "authors": [
@@ -533,7 +533,7 @@
         },
         {
             "name": "Konkrete",
-            "version": "1.6.1-1.20.2-fabric",
+            "version": "1.7.0-2-1.20.2-fabric",
             "source": "modrinth",
             "location": "konkrete",
             "authors": [
@@ -545,7 +545,7 @@
         },
         {
             "name": "Jump Sounds",
-            "version": "1.4.2",
+            "version": "1.4.3",
             "source": "modrinth",
             "location": "jump-sounds",
             "authors": [
@@ -557,7 +557,7 @@
         },
         {
             "name": "Falling Leaves",
-            "version": "1.15.3",
+            "version": "1.15.4",
             "source": "modrinth",
             "location": "fallingleaves",
             "authors": [
@@ -569,7 +569,7 @@
         },
         {
             "name": "Dynamic Crosshair",
-            "version": "7.2+1.20.2-fabric",
+            "version": "7.5+1.20.2-fabric",
             "source": "modrinth",
             "location": "dynamiccrosshair",
             "authors": [
@@ -689,7 +689,7 @@
         },
         {
             "name": "BetterF3",
-            "version": "8.0.0",
+            "version": "8.0.2",
             "source": "modrinth",
             "location": "betterf3",
             "authors": [
@@ -737,7 +737,7 @@
         },
         {
             "name": "Smooth Scroll",
-            "version": "1.6.0",
+            "version": "1.7.1",
             "source": "modrinth",
             "location": "smooth-scroll",
             "authors": [
@@ -1146,7 +1146,7 @@
         },
         {
             "name": "Shoulder Surfing Reloaded",
-            "version": "1.20.1-2.8",
+            "version": "1.20.1-2.8.1",
             "source": "modrinth",
             "location": "shoulder-surfing-reloaded",
             "authors": [
@@ -1170,9 +1170,9 @@
         },
         {
             "name": "Wynnlib",
-            "version": "0.2.14-1.20.2",
+            "version": "0.2.15-1.20.2",
             "source": "ddl",
-            "location": "https://github.com/Commander07/WynnLibFabric/releases/download/0.2.14-1.20.2/wynnlib-0.2.14-1.20.2.jar",
+            "location": "https://github.com/Commander07/WynnLibFabric/releases/download/0.2.15-1.20.2/wynnlib-0.2.15-1.20.2.jar",
             "authors": [
                 {
                     "name": "nbcss",
