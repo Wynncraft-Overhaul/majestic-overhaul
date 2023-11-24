@@ -748,18 +748,6 @@
             ]
         },
         {
-            "name": "Raised",
-            "version": "Fabric-1.20.2-3.0.0",
-            "source": "modrinth",
-            "location": "raised",
-            "authors": [
-                {
-                    "name": "yurisuika",
-                    "link": "https://modrinth.com/user/yurisuika"
-                }
-            ]
-        },
-        {
             "name": "Video Tape",
             "version": "1.2.1",
             "source": "modrinth",
