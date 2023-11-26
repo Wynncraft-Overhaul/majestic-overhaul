@@ -1,6 +1,6 @@
 {
     "manifest_version": 3,
-    "modpack_version": "0.1.1",
+    "modpack_version": "0.1.2",
     "name": "Majestic Overhaul",
     "subtitle": "Immersive Pack",
     "description": "",
@@ -1212,6 +1212,18 @@
                 {
                     "name": "kmaxi",
                     "link": "https://voicesofwynn.com/cast/1"
+                }
+            ]
+        },
+        {
+            "name": "logical-zoom",
+            "version": "0.0.21",
+            "source": "modrinth",
+            "location": "https://voicesofwynn.com/download/47/jar",
+            "authors": [
+                {
+                    "name": "LogicalGeekBoy",
+                    "link": "https://modrinth.com/user/LogicalGeekBoy"
                 }
             ]
         }
