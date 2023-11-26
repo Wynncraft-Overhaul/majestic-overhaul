@@ -6,6 +6,8 @@
     "description": "",
     "icon": true,
     "uuid": "5d97892a51dd4b158625ee991c7643b9",
+    "max_mem": 4096,
+    "java_args": "-XX:+UnlockExperimentalVMOptions -XX:+UseG1GC -XX:G1NewSizePercent=20 -XX:G1ReservePercent=20 -XX:MaxGCPauseMillis=50 -XX:G1HeapRegionSize=32M",
     "loader": {
         "type": "fabric",
         "version": "0.14.24",
@@ -419,8 +421,7 @@
                     "name": "Johni0702",
                     "link": "https://modrinth.com/user/Johni0702"
                 }
-            ],
-            "id": "bobby"
+            ]
         },
         {
             "name": "Better Third Person",
@@ -1318,13 +1319,23 @@
     ],
     "include": [
         {
-            "location": "resourcepacks/KiosWynnModels-Archangel.zip"
+            "location": "resourcepacks/KiosWynnModels-Archangel.zip",
+            "name": "Kios Models",
+            "authors": [
+                {
+                    "name": "Kiocifer",
+                    "link": "https://forums.wynncraft.com/threads/kios-models.288166/"
+                }
+            ]
         },
         {
             "location": "resourcepacks/Non_Intrusive_Spells_2.zip"
         },
         {
             "location": "resourcepacks/FreshAnimations_v1.8.1_2"
+        },
+        {
+            "location": ".bobby"
         }
     ],
     "features": [
