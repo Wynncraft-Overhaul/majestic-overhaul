@@ -1319,6 +1319,12 @@
     "include": [
         {
             "location": "resourcepacks/KiosWynnModels-Archangel.zip"
+        },
+        {
+            "location": "resourcepacks/Non_Intrusive_Spells_2.zip"
+        },
+        {
+            "location": "resourcepacks/FreshAnimations_v1.8.1_2"
         }
     ],
     "features": [
