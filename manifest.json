@@ -1229,10 +1229,10 @@
             ]
         },
         {
-            "name": "logical-zoom",
+            "name": "Logical Zoom",
             "version": "0.0.21",
             "source": "modrinth",
-            "location": "https://voicesofwynn.com/download/47/jar",
+            "location": "logical-zoom",
             "authors": [
                 {
                     "name": "LogicalGeekBoy",
