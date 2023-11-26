@@ -1323,11 +1323,6 @@
     ],
     "features": [
         {
-            "id": "auto-third-person",
-            "name": "Auto Third Person",
-            "default": true
-        },
-        {
             "id": "first-person-model",
             "name": "First Person Model",
             "default": true
