@@ -1341,10 +1341,24 @@
             ]
         },
         {
-            "location": "resourcepacks/Non_Intrustive_Spells_2.zip"
+            "location": "resourcepacks/Non_Intrustive_Spells_2.zip",
+            "name": "Non Intrusive Spells",
+            "authors": [
+                {
+                    "name": "Wynncraft",
+                    "link": "https://wynncraft.com/"
+                }
+            ]
         },
         {
-            "location": "resourcepacks/FreshAnimations_v1.8.1_2.zip"
+            "location": "resourcepacks/FreshAnimations_v1.8.1_2.zip",
+            "name": "Fresh Animations",
+            "authors": [
+                {
+                    "name": "FreshLX",
+                    "link": "https://modrinth.com/user/FreshLX"
+                }
+            ]
         },
         {
             "location": ".bobby"
