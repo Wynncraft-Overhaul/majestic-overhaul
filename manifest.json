@@ -1235,7 +1235,8 @@
             "location": "https://github.com/Commander07/Wynntils-Config-Sharing/releases/download/1.0.0/wynntils-config-sharing-1.0.0.jar",
             "authors": [
                 {
-                    "name": "Commander"
+                    "name": "Commander",
+                    "link": "https://modrinth.com/user/commander"
                 }
             ]
         }
