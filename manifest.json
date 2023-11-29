@@ -1,6 +1,6 @@
 {
     "manifest_version": 3,
-    "modpack_version": "0.1.3",
+    "modpack_version": "0.1.4",
     "name": "Majestic Overhaul",
     "subtitle": "Immersive Pack",
     "description": "",
@@ -1377,6 +1377,9 @@
         },
         {
             "location": "config"
+        },
+        {
+            "location": "options.txt"
         }
     ],
     "features": [
