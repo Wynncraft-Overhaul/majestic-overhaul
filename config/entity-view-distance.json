@@ -1,0 +1,19 @@
+{
+  "CONFIG_VERSION_DONT_TOUCH_THIS": 1,
+  "_comment": "Before changing anything, see https://github.com/Patbox/EntityViewDistance#configuration",
+  "mode": "both",
+  "entityViewDistance": {
+    "minecraft:hopper_minecart": 32,
+    "minecraft:spawner_minecart": 32,
+    "minecraft:villager": 64,
+    "minecraft:armor_stand": 64,
+    "minecraft:tnt_minecart": 32,
+    "minecraft:item_frame": 32,
+    "minecraft:chest_minecart": 32,
+    "minecraft:furnace_minecart": 32,
+    "minecraft:command_block_minecart": 32,
+    "minecraft:item_display": 32,
+    "minecraft:item": 32,
+    "minecraft:shulker": 0
+  }
+}

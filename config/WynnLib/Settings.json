@@ -1,0 +1,102 @@
+{
+  "durability": true,
+  "emerald_pouch_bar": true,
+  "consumable_charge": false,
+  "skill_point_override": true,
+  "item_color": false,
+  "pouch_lock": true,
+  "major_id_analyze": true,
+  "analyze_mode": true,
+  "side_indicator": false,
+  "icon_indicator": true,
+  "starred_item_protect": true,
+  "icon_indicator_x": 0,
+  "icon_indicator_y": 0,
+  "side_indicator_x": 0,
+  "side_indicator_y": 0,
+  "matchers": {
+    "ITEM_TIER_MYTHIC": {
+      "color": 11141290,
+      "protected": true
+    },
+    "ITEM_TIER_FABLED": {
+      "color": 16733525,
+      "protected": false
+    },
+    "ITEM_TIER_LEGENDARY": {
+      "color": 5636095,
+      "protected": false
+    },
+    "ITEM_TIER_RARE": {
+      "color": 16733695,
+      "protected": false
+    },
+    "ITEM_TIER_UNIQUE": {
+      "color": 16777045,
+      "protected": false
+    },
+    "ITEM_TIER_SET": {
+      "color": 5635925,
+      "protected": false
+    },
+    "ITEM_TIER_NORMAL": {
+      "color": 16777215,
+      "protected": false
+    },
+    "ITEM_TIER_CRAFTED": {
+      "color": 43690,
+      "protected": false
+    },
+    "INGREDIENT_STAR_0": {
+      "color": 5592405
+    },
+    "INGREDIENT_STAR_1": {
+      "color": 16777045
+    },
+    "INGREDIENT_STAR_2": {
+      "color": 16733695
+    },
+    "INGREDIENT_STAR_3": {
+      "color": 5636095
+    },
+    "MATERIAL_STAR_1": {
+      "color": 16777045
+    },
+    "MATERIAL_STAR_2": {
+      "color": 16733695
+    },
+    "MATERIAL_STAR_3": {
+      "color": 5636095
+    },
+    "POWDER_TIER_I": {
+      "color": 16777215
+    },
+    "POWDER_TIER_II": {
+      "color": 16777045
+    },
+    "POWDER_TIER_III": {
+      "color": 16733695
+    },
+    "POWDER_TIER_IV": {
+      "color": 5636095
+    },
+    "POWDER_TIER_V": {
+      "color": 16733525
+    },
+    "POWDER_TIER_VI": {
+      "color": 11141290
+    },
+    "EMERALD_BASIC": {
+      "color": 13889987
+    },
+    "EMERALD_BLOCK": {
+      "color": 6805333
+    },
+    "EMERALD_LIQUID": {
+      "color": 3582778
+    }
+  },
+  "indicators": {},
+  "locked": [],
+  "keys": []
+}

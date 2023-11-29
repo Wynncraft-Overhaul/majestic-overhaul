@@ -1,0 +1,52 @@
+{
+	// If false block outlines will not be visible
+	"highlightBlocks": false,
+	// Setting will toggle all of the HUD
+	"removeHud": false,
+	// If true the hand will be invisible
+	"removeHand": false,
+	"Autosave": true,
+	"ChatHud": true,
+	"PlayerList": true,
+	"DebugHud": true,
+	"ScoreBoard": true,
+	"StatusEffectOverlay": true,
+	"SpectatorHud": false,
+	"SpectatorMenu": false,
+	"HeldItemTooltip": false,
+	"MountJumpbar": true,
+	"MountHealth": false,
+	"BossBar": true,
+	// Health hearts
+	"HpBar": true,
+	// HP bar X offset
+	"HpXOffset": 0,
+	// HP bar Y offset
+	"HpYOffset": 0,
+	// Armor points
+	"ArmorBar": false,
+	// Armor bar X offset
+	"ArmorXOffset": 0,
+	// Armor bar Y offset
+	"ArmorYOffset": 0,
+	// Oxygen bar
+	"AirBar": true,
+	// Air bar X offset
+	"AirXOffset": 0,
+	// Air bar Y offset
+	"AirYOffset": 0,
+	// Hunger bar
+	"HungerBar": true,
+	// Hunger bar X offset
+	"FoodXOffset": 0,
+	// Hunger bar Y offset
+	"FoodYOffset": 0,
+	"SpyglassOverlay": true,
+	"PortalOverlay": true,
+	// Frost Overlay, Pumkin head, etc...
+	"OtherOverlays": true,
+	"Vignette": true,
+	"ExpBar": true,
+	"Crosshairs": true,
+	"HotBar": true
+}
