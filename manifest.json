@@ -1,6 +1,6 @@
 {
     "manifest_version": 3,
-    "modpack_version": "0.1.4",
+    "modpack_version": "0.1.5",
     "name": "Majestic Overhaul",
     "subtitle": "Immersive Pack",
     "description": "",
@@ -786,7 +786,7 @@
         },
         {
             "name": "Serverpack Priority",
-            "version": "1.0.1-1.20.2",
+            "version": "1.0.2-1.20.2",
             "source": "modrinth",
             "location": "serverpack-priority",
             "authors": [
