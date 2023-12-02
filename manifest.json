@@ -361,7 +361,7 @@
                     "link": "https://modrinth.com/user/tr7zw"
                 }
             ],
-            "Id": "first-person-model"
+            "id": "first-person-model"
         },
         {
             "name": "Particle Rain",

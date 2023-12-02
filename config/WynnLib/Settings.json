@@ -1,6 +1,6 @@
 {
-  "durability": true,
-  "emerald_pouch_bar": true,
+  "durability": false,
+  "emerald_pouch_bar": false,
   "consumable_charge": false,
   "skill_point_override": true,
   "item_color": false,
