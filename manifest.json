@@ -1,6 +1,6 @@
 {
     "manifest_version": 3,
-    "modpack_version": "0.1.6",
+    "modpack_version": "0.1.7",
     "name": "Majestic Overhaul",
     "subtitle": "Immersive Pack",
     "description": "",
@@ -1281,18 +1281,6 @@
             ]
         },
         {
-            "name": "Motschen's Better Leaves",
-            "version": "7.2",
-            "source": "modrinth",
-            "location": "better-leaves",
-            "authors": [
-                {
-                    "name": "Motschen",
-                    "link": "https://modrinth.com/user/Motschen"
-                }
-            ]
-        },
-        {
             "name": "Quiet Thunder",
             "version": "1.14.4",
             "source": "ddl",
@@ -1392,7 +1380,8 @@
             "location": "config"
         },
         {
-            "location": "options.txt"
+            "location": "options.txt",
+            "id": "options-txt"
         }
     ],
     "features": [
@@ -1409,6 +1398,12 @@
         {
             "id": "bobby-file",
             "name": "bobby-file",
+            "default": true,
+            "hidden": true
+        },
+        {
+            "id": "options-txt",
+            "name": "options-txt",
             "default": true,
             "hidden": true
         }
