@@ -1,6 +1,6 @@
 {
     "manifest_version": 3,
-    "modpack_version": "0.1.5",
+    "modpack_version": "0.1.6",
     "name": "Majestic Overhaul",
     "subtitle": "Immersive Pack",
     "description": "",
@@ -1239,6 +1239,18 @@
                     "link": "https://modrinth.com/user/commander"
                 }
             ]
+        },
+        {
+            "name": "MacOS Input Fixes",
+            "version": "1.6",
+            "source": "modrinth",
+            "location": "macos-input-fixes",
+            "authors": [
+                {
+                    "name": "hamarb123",
+                    "link": "https://modrinth.com/user/hamarb123"
+                }
+            ]
         }
     ],
     "shaderpacks": [
@@ -1373,7 +1385,8 @@
             ]
         },
         {
-            "location": ".bobby"
+            "location": ".bobby",
+            "id": "bobby-file"
         },
         {
             "location": "config"
@@ -1392,6 +1405,12 @@
             "id": "autohud",
             "name": "AutoHUD",
             "default": true
+        },
+        {
+            "id": "bobby-file",
+            "name": "bobby-file",
+            "default": true,
+            "hidden": true
         }
     ]
 }

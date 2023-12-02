@@ -6,7 +6,7 @@
   "item_color": false,
   "pouch_lock": true,
   "major_id_analyze": true,
-  "analyze_mode": true,
+  "analyze_mode": false,
   "side_indicator": false,
   "icon_indicator": true,
   "starred_item_protect": true,
