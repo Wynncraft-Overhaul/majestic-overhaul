@@ -1,6 +1,6 @@
 {
     "manifest_version": 3,
-    "modpack_version": "0.1.8",
+    "modpack_version": "0.2.0",
     "name": "Majestic Overhaul",
     "subtitle": "Immersive Pack",
     "description": "",
@@ -1428,7 +1428,7 @@
             "location": "shaderpacks/ComplementaryUnbound_r5.0.1.zip.txt"
         },
         {
-            "location": "ComplementaryUnbound_r5.0.1__EuphoriaPatches_1.0.1.txt",
+            "location": "shaderpacks/ComplementaryUnbound_r5.0.1__EuphoriaPatches_1.0.1.txt",
             "id": "euphoria-patches"
         }
     ],
