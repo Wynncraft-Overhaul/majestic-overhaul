@@ -1,6 +1,6 @@
 {
     "manifest_version": 3,
-    "modpack_version": "0.1.7",
+    "modpack_version": "0.1.8",
     "name": "Majestic Overhaul",
     "subtitle": "Immersive Pack",
     "description": "",
@@ -1251,6 +1251,35 @@
                     "link": "https://modrinth.com/user/hamarb123"
                 }
             ]
+        },
+        {
+            "name": "Sun and Moon Celestial Configuration",
+            "version": "1.0.0-fabric-1.20.2",
+            "source": "ddl",
+            "location": "https://github.com/Commander07/Celestial-Configuration/releases/download/1.20.2%2Ffabric%2F1.0.0/celesteconfig-1.0.0-fabric-1.20.2.jar",
+            "authors": [
+                {
+                    "name": "InfernalStudios",
+                    "link": "https://modrinth.com/user/InfernalStudios"
+                }
+            ]
+        },
+        {
+            "name": "Euphoria Patches",
+            "version": "0.1.2-fabric",
+            "source": "modrinth",
+            "location": "euphoria-patches",
+            "authors": [
+                {
+                    "name": "SpacEagle17",
+                    "link": "https://modrinth.com/user/SpacEagle17"
+                },
+                {
+                    "name": "isuewo",
+                    "link": "https://modrinth.com/user/isuewo"
+                }
+            ],
+            "id": "euphoria-patches"
         }
     ],
     "shaderpacks": [
@@ -1339,6 +1368,18 @@
                     "link": "https://forums.wynncraft.com/threads/wynncraft-fables-legends-resource-pack.310225/"
                 }
             ]
+        },
+        {
+            "name": "Hyper Realistic Sky",
+            "version": "1.13",
+            "source": "modrinth",
+            "location": "hyper-realistic-sky",
+            "authors": [
+                {
+                    "name": "UsernameGeri",
+                    "link": "https://modrinth.com/user/UsernameGeri"
+                }
+            ]
         }
     ],
     "include": [
@@ -1382,6 +1423,13 @@
         {
             "location": "options.txt",
             "id": "options-txt"
+        },
+        {
+            "location": "shaderpacks/ComplementaryUnbound_r5.0.1.zip.txt"
+        },
+        {
+            "location": "ComplementaryUnbound_r5.0.1__EuphoriaPatches_1.0.1.txt",
+            "id": "euphoria-patches"
         }
     ],
     "features": [
@@ -1400,6 +1448,11 @@
             "name": "bobby-file",
             "default": true,
             "hidden": true
+        },
+        {
+            "id": "euphoria-patches",
+            "name": "Euphoria Patches",
+            "default": true
         },
         {
             "id": "options-txt",
