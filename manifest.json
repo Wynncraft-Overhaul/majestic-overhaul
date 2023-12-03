@@ -1436,12 +1436,14 @@
         {
             "id": "first-person-model",
             "name": "First Person Model",
-            "default": true
+            "default": true,
+            "description": "Adds the player model into the first person view"
         },
         {
             "id": "autohud",
             "name": "AutoHUD",
-            "default": true
+            "default": true,
+            "description": "Hides the HUD when not in use"
         },
         {
             "id": "bobby-file",
@@ -1452,7 +1454,8 @@
         {
             "id": "euphoria-patches",
             "name": "Euphoria Patches",
-            "default": true
+            "default": true,
+            "description": "Adds extra shader settings, which can be slightly more demanding on performance"
         },
         {
             "id": "options-txt",
