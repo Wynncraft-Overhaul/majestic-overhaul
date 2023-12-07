@@ -1,6 +1,6 @@
 {
     "manifest_version": 3,
-    "modpack_version": "0.2.3",
+    "modpack_version": "0.2.4",
     "name": "Majestic Overhaul",
     "subtitle": "Immersive Pack",
     "description": "",
@@ -23,6 +23,18 @@
                 {
                     "name": "modmuss50",
                     "link": "https://modrinth.com/user/modmuss50"
+                }
+            ]
+        },
+        {
+            "name": "Sound Physics Remastered",
+            "version": "fabric-1.20.2-1.2.1",
+            "source": "modrinth",
+            "location": "sound-physics-remastered",
+            "authors": [
+                {
+                    "name": "henkelmax",
+                    "link": "https://modrinth.com/user/henkelmax"
                 }
             ]
         },
