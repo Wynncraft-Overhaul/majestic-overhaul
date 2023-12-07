@@ -1,6 +1,6 @@
 {
     "manifest_version": 3,
-    "modpack_version": "0.2.2",
+    "modpack_version": "0.2.3",
     "name": "Majestic Overhaul",
     "subtitle": "Immersive Pack",
     "description": "",
@@ -149,8 +149,8 @@
         {
             "name": "Physics Mod",
             "version": "3.0.10",
-            "source": "modrinth",
-            "location": "physicsmod",
+            "source": "ddl",
+            "location": "https://cdn.modrinth.com/data/Xy8aRQKS/versions/dBxi3s11/physics-mod-3.0.10-mc-1.20.2-fabric.jar",
             "authors": [
                 {
                     "name": "haubna",
