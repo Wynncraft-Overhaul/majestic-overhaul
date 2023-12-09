@@ -1,6 +1,6 @@
 {
     "manifest_version": 3,
-    "modpack_version": "0.2.4",
+    "modpack_version": "0.2.5",
     "name": "Majestic Overhaul",
     "subtitle": "Immersive Pack",
     "description": "",
@@ -1278,7 +1278,7 @@
         },
         {
             "name": "Euphoria Patches",
-            "version": "0.1.2-fabric",
+            "version": "0.2.0-fabric",
             "source": "modrinth",
             "location": "euphoria-patches",
             "authors": [
@@ -1297,7 +1297,7 @@
     "shaderpacks": [
         {
             "name": "Complementary Unbound",
-            "version": "r5.0.1",
+            "version": "r5.1.1",
             "source": "modrinth",
             "location": "complementary-unbound",
             "authors": [
@@ -1437,10 +1437,10 @@
             "id": "options-txt"
         },
         {
-            "location": "shaderpacks/ComplementaryUnbound_r5.0.1.zip.txt"
+            "location": "shaderpacks/ComplementaryUnbound_r5.1.1.zip.txt"
         },
         {
-            "location": "shaderpacks/ComplementaryUnbound_r5.0.1__EuphoriaPatches_1.0.1.txt",
+            "location": "shaderpacks/ComplementaryUnbound_r5.1.1__EuphoriaPatches_1.1.txt",
             "id": "euphoria-patches"
         }
     ],
