@@ -1,6 +1,6 @@
 {
     "manifest_version": 3,
-    "modpack_version": "0.3.0",
+    "modpack_version": "0.3.1",
     "name": "Majestic Overhaul",
     "subtitle": "Immersive Pack",
     "description": "",
@@ -1146,9 +1146,9 @@
         },
         {
             "name": "Wynnlib",
-            "version": "0.2.15-1.20.2",
+            "version": "0.2.16-1.20.2",
             "source": "ddl",
-            "location": "https://github.com/Commander07/WynnLibFabric/releases/download/0.2.15-1.20.2/wynnlib-0.2.15-1.20.2.jar",
+            "location": "https://github.com/Commander07/WynnLibFabric/releases/download/0.2.16-1.20.2/wynnlib-0.2.16-1.20.2.jar",
             "authors": [
                 {
                     "name": "nbcss",
@@ -1406,7 +1406,7 @@
             ]
         },
         {
-            "location": "resourcepacks/Non_Intrustive_Spells_2.zip",
+            "location": "resourcepacks/Non_Intrustive_Spells.zip",
             "name": "Non Intrusive Spells",
             "authors": [
                 {
@@ -1416,7 +1416,7 @@
             ]
         },
         {
-            "location": "resourcepacks/FreshAnimations_v1.8.1_2.zip",
+            "location": "resourcepacks/FreshAnimations_v1.8.1.zip",
             "name": "Fresh Animations",
             "authors": [
                 {
@@ -1440,7 +1440,7 @@
             "location": "shaderpacks/ComplementaryUnbound_r5.1.1.zip.txt"
         },
         {
-            "location": "shaderpacks/ComplementaryUnbound_r5.1.1__EuphoriaPatches_1.1.txt",
+            "location": "shaderpacks/ComplementaryUnbound_r5.1.1 + EuphoriaPatches_1.1.txt",
             "id": "euphoria-patches"
         }
     ],
