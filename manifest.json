@@ -1,6 +1,6 @@
 {
     "manifest_version": 3,
-    "modpack_version": "0.2.5",
+    "modpack_version": "0.3.0",
     "name": "Majestic Overhaul",
     "subtitle": "Immersive Pack",
     "description": "",
@@ -618,7 +618,7 @@
         },
         {
             "name": "Wynntils",
-            "version": "v0.0.4-beta.82",
+            "version": "v1.0.5",
             "source": "modrinth",
             "location": "wynntils",
             "authors": [
@@ -643,8 +643,8 @@
         {
             "name": "Searchables",
             "version": "1.0.3",
-            "source": "modrinth",
-            "location": "searchables",
+            "source": "ddl",
+            "location": "https://cdn.modrinth.com/data/fuuu3xnx/versions/gcqBz3gR/Searchables-fabric-1.20.2-1.0.16.jar",
             "authors": [
                 {
                     "name": "jaredlll08",
@@ -667,8 +667,8 @@
         {
             "name": "Controlling",
             "version": "13.0.1",
-            "source": "modrinth",
-            "location": "controlling",
+            "source": "ddl",
+            "location": "https://cdn.modrinth.com/data/xv94TkTM/versions/mD6hNm9W/Controlling-fabric-1.20.2-13.0.6.jar",
             "authors": [
                 {
                     "name": "jaredlll08",
@@ -745,18 +745,6 @@
                 {
                     "name": "commander",
                     "link": "https://modrinth.com/user/commander"
-                }
-            ]
-        },
-        {
-            "name": "Smooth Scroll",
-            "version": "1.7.1",
-            "source": "modrinth",
-            "location": "smooth-scroll",
-            "authors": [
-                {
-                    "name": "SmajloSlovakian",
-                    "link": "https://modrinth.com/user/SmajloSlovakian"
                 }
             ]
         },
@@ -877,6 +865,18 @@
                 {
                     "name": "Sollace",
                     "link": "https://modrinth.com/user/Sollace"
+                }
+            ]
+        },
+        {
+            "name": "Nvidium",
+            "version": "0.2.5-beta",
+            "source": "modrinth",
+            "location": "nvidium",
+            "authors": [
+                {
+                    "name": "cortex",
+                    "link": "https://modrinth.com/user/cortex"
                 }
             ]
         },
