@@ -1,6 +1,6 @@
 {
     "manifest_version": 3,
-    "modpack_version": "0.3.1",
+    "modpack_version": "0.3.2",
     "name": "Majestic Overhaul",
     "subtitle": "Immersive Pack",
     "description": "",
@@ -10,7 +10,7 @@
     "java_args": "-XX:+UnlockExperimentalVMOptions -XX:+UseG1GC -XX:G1NewSizePercent=20 -XX:G1ReservePercent=20 -XX:MaxGCPauseMillis=50 -XX:G1HeapRegionSize=32M",
     "loader": {
         "type": "fabric",
-        "version": "0.15.0",
+        "version": "0.15.1",
         "minecraft_version": "1.20.2"
     },
     "mods": [
@@ -1359,25 +1359,25 @@
         },
         {
             "name": "Wynncraft Donjons",
-            "version": "v1.0",
-            "source": "mediafire",
-            "location": "https://www.mediafire.com/file/h5qa4y21rkjotlw/.%25C2%25A76Wynnic_%25C2%25A7eDonjons_v1.0%25C2%25A77CITR.zip/file",
+            "version": "DJN2",
+            "source": "modrinth",
+            "location": "wynncraft-donjons",
             "authors": [
                 {
                     "name": "Rythew",
-                    "link": "https://forums.wynncraft.com/threads/wynncraft-donjons-resource-pack.311610/"
+                    "link": "https://modrinth.com/user/Rythew"
                 }
             ]
         },
         {
             "name": "Wynnic Fables & Legends",
-            "version": "v1.5",
-            "source": "mediafire",
-            "location": "https://www.mediafire.com/file/6m69j1ja3nyhpmn/.%25C2%25A73Wynnic_%25C2%25A7bFables_%2526_Legends_v1.5_%25C2%25A77CITR.zip/file",
+            "version": "FLC7",
+            "source": "modrinth",
+            "location": "wynncraft-fables-legends",
             "authors": [
                 {
                     "name": "Rythew",
-                    "link": "https://forums.wynncraft.com/threads/wynncraft-fables-legends-resource-pack.310225/"
+                    "link": "https://modrinth.com/user/Rythew"
                 }
             ]
         },
