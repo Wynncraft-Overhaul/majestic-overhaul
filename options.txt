@@ -44,7 +44,7 @@ ao:true
 prioritizeChunkUpdates:0
 biomeBlendRadius:1
 renderClouds:"true"
-resourcePacks:["vanilla","fabric","server","presencefootsteps:default_sound_pack","file/cubic-sun-moon-v1-7a.zip","file/.§6Wynnic §eDonjons v1.2 §7CITR.zip","file/.§3Wynnic §bFables \u0026 Legends v1.7 §7CITR.zip","file/QuietThunder.zip","file/KiosWynnModels-Archangel.zip","file/Fungal Pack 2.0 ORCH 1.19.3.zip","file/FreshAnimations_v1.8.1.zip","file/Better-Leaves-7.2-1.19+.zip","file/Water%2BImproved.zip"]
+resourcePacks:["vanilla","fabric","server","presencefootsteps:default_sound_pack","file/cubic-sun-moon-v1-7a.zip","file/.§6Wynnic §eDonjons v1.2 §7CITR.zip","file/.§3Wynnic §bFables \u0026 Legends v1.7 §7CITR.zip","file/QuietThunder.zip","file/KiosWynnModels-Archangel.zip","file/Fungal Pack 3.0 ORCHESTRA.zip","file/FreshAnimations_v1.8.1.zip","file/Better-Leaves-7.2-1.19+.zip","file/Water%2BImproved.zip"]
 incompatibleResourcePacks:[]
 lastServer:
 lang:en_us
