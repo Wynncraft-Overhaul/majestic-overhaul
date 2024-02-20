@@ -1,6 +1,6 @@
 {
     "manifest_version": 3,
-    "modpack_version": "0.3.2",
+    "modpack_version": "0.4.0",
     "name": "Majestic Overhaul",
     "subtitle": "Immersive Pack",
     "description": "",
@@ -143,18 +143,6 @@
                 {
                     "name": "spottedleaf",
                     "link": "https://modrinth.com/user/spottedleaf"
-                }
-            ]
-        },
-        {
-            "name": "Flow",
-            "version": "1.2.1+1.20.2",
-            "source": "modrinth",
-            "location": "flow",
-            "authors": [
-                {
-                    "name": "mineblock11",
-                    "link": "https://modrinth.com/user/mineblock11"
                 }
             ]
         },
@@ -1218,9 +1206,9 @@
         },
         {
             "name": "Voices of Wynn",
-            "version": "1.6",
+            "version": "1.7.1",
             "source": "ddl",
-            "location": "https://voicesofwynn.com/download/47/jar",
+            "location": "https://voicesofwynn.com/download/49/jar",
             "authors": [
                 {
                     "name": "kmaxi",
@@ -1347,9 +1335,9 @@
         },
         {
             "name": "Fungal Orchestral Pack",
-            "version": "1",
+            "version": "3.0",
             "source": "ddl",
-            "location": "https://drive.google.com/uc?export=download&id=1dpvucliBRweCmruQ54Rq4DMS3eW50_S6",
+            "location": "https://drive.usercontent.google.com/download?id=1uhGELAC323ooyk8jMZr-v93sk9tr54AM",
             "authors": [
                 {
                     "name": "VillagerFilms",
