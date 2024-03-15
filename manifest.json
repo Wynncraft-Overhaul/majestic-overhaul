@@ -461,18 +461,6 @@
             "id": "autohud"
         },
         {
-            "name": "Ambient Environment",
-            "version": "12.0.0.2",
-            "source": "modrinth",
-            "location": "ambient-environment",
-            "authors": [
-                {
-                    "name": "jaredflll08",
-                    "link": "https://modrinth.com/user/jaredlll08"
-                }
-            ]
-        },
-        {
             "name": "Debugify",
             "version": "1.20.2+1.0",
             "source": "modrinth",
@@ -541,18 +529,6 @@
                 {
                     "name": "keksuccino",
                     "link": "https://modrinth.com/user/keksuccino"
-                }
-            ]
-        },
-        {
-            "name": "Jump Sounds",
-            "version": "1.4.3",
-            "source": "modrinth",
-            "location": "jump-sounds",
-            "authors": [
-                {
-                    "name": "I_am_Merp",
-                    "link": "https://modrinth.com/user/I_am_Merp"
                 }
             ]
         },
@@ -669,18 +645,6 @@
             "version": "2.11.2",
             "source": "modrinth",
             "location": "creativecore",
-            "authors": [
-                {
-                    "name": "creativemd",
-                    "link": "https://modrinth.com/user/creativemd"
-                }
-            ]
-        },
-        {
-            "name": "EnhancedVisuals",
-            "version": "1.6.8",
-            "source": "modrinth",
-            "location": "enhancedvisuals",
             "authors": [
                 {
                     "name": "creativemd",
@@ -1366,18 +1330,6 @@
                 {
                     "name": "Rythew",
                     "link": "https://modrinth.com/user/Rythew"
-                }
-            ]
-        },
-        {
-            "name": "Hyper Realistic Sky",
-            "version": "1.13",
-            "source": "modrinth",
-            "location": "hyper-realistic-sky",
-            "authors": [
-                {
-                    "name": "UsernameGeri",
-                    "link": "https://modrinth.com/user/UsernameGeri"
                 }
             ]
         }
