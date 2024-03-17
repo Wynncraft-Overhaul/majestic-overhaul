@@ -1,6 +1,6 @@
 {
     "manifest_version": 3,
-    "modpack_version": "0.4.2",
+    "modpack_version": "0.4.3",
     "name": "Majestic Overhaul",
     "subtitle": "Immersive Pack",
     "description": "",
@@ -1332,6 +1332,18 @@
                     "link": "https://modrinth.com/user/Rythew"
                 }
             ]
+        },
+        {
+            "name": "Fresh Animations",
+            "version": "1.9",
+            "source": "modrinth",
+            "location": "fresh-animations",
+            "authors": [
+                {
+                    "name": "FreshLX",
+                    "link": "https://modrinth.com/user/FreshLX"
+                }
+            ]
         }
     ],
     "include": [
@@ -1356,14 +1368,7 @@
             ]
         },
         {
-            "location": "resourcepacks/FreshAnimations_v1.8.1.zip",
-            "name": "Fresh Animations",
-            "authors": [
-                {
-                    "name": "FreshLX",
-                    "link": "https://modrinth.com/user/FreshLX"
-                }
-            ]
+            "location": "resourcepacks/Wynnic_Mobs_Overwrite.zip"
         },
         {
             "location": ".bobby",
