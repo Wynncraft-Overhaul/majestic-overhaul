@@ -1,6 +1,6 @@
 {
     "manifest_version": 3,
-    "modpack_version": "0.4.4",
+    "modpack_version": "0.5.0",
     "name": "Majestic Overhaul",
     "subtitle": "Immersive Pack",
     "description": "",
@@ -1387,6 +1387,16 @@
         {
             "location": "shaderpacks/ComplementaryUnbound_r5.1.1 + EuphoriaPatches_1.1.txt",
             "id": "euphoria-patches"
+        },
+        {
+            "location": "mods/Improved.Animations-fabric-1.20.1-1.0.2.jar",
+            "name": "Improved Animations",
+            "authors": [
+                {
+                    "name": "Team Alpha",
+                    "link": "https://github.com/Project-Alphaa"
+                }
+            ]
         }
     ],
     "features": [
