@@ -1,6 +1,6 @@
 {
     "manifest_version": 3,
-    "modpack_version": "0.5.0",
+    "modpack_version": "0.5.1",
     "name": "Majestic Overhaul",
     "subtitle": "Immersive Pack",
     "description": "",
@@ -582,7 +582,7 @@
         },
         {
             "name": "Wynntils",
-            "version": "v1.0.5",
+            "version": "v1.1.5",
             "source": "modrinth",
             "location": "wynntils",
             "authors": [
