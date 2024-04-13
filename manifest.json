@@ -690,8 +690,106 @@
             ]
         }
     ],
-    "shaderpacks": [],
-    "resourcepacks": [],
+    "shaderpacks": [
+        {
+            "name": "Complementary Unbound",
+            "version": "r5.1.1",
+            "source": "modrinth",
+            "location": "complementary-unbound",
+            "authors": [
+                {
+                    "name": "EminGT",
+                    "link": "https://modrinth.com/user/EminGT"
+                }
+            ]
+        }
+    ],
+    "resourcepacks": [
+        {
+            "name": "Cubic Sun & Moon",
+            "version": "1.7",
+            "source": "modrinth",
+            "location": "cubic-sun-moon",
+            "authors": [
+                {
+                    "name": "JoeFly",
+                    "link": "https://modrinth.com/user/JoeFly"
+                }
+            ]
+        },
+        {
+            "name": "Quiet Thunder",
+            "version": "1.14.4",
+            "source": "ddl",
+            "location": "https://mediafilez.forgecdn.net/files/2799/600/QuietThunder.zip",
+            "authors": [
+                {
+                    "name": "thefear900",
+                    "link": "https://legacy.curseforge.com/members/thefear900"
+                }
+            ]
+        },
+        {
+            "name": "Water Improved",
+            "version": "1.20.1",
+            "source": "ddl",
+            "location": "https://mediafilez.forgecdn.net/files/4584/788/Water%2BImproved.zip",
+            "authors": [
+                {
+                    "name": "hottubbug",
+                    "link": "https://legacy.curseforge.com/members/hottubbug"
+                }
+            ]
+        },
+        {
+            "name": "Fungal Orchestral Pack",
+            "version": "3.0",
+            "source": "ddl",
+            "location": "https://drive.usercontent.google.com/download?id=1uhGELAC323ooyk8jMZr-v93sk9tr54AM",
+            "authors": [
+                {
+                    "name": "VillagerFilms",
+                    "link": "https://www.youtube.com/@musicalmushroomvillagerfil4539"
+                }
+            ]
+        },
+        {
+            "name": "Wynncraft Donjons",
+            "version": "DJN2",
+            "source": "modrinth",
+            "location": "wynncraft-donjons",
+            "authors": [
+                {
+                    "name": "Rythew",
+                    "link": "https://modrinth.com/user/Rythew"
+                }
+            ]
+        },
+        {
+            "name": "Wynnic Fables & Legends",
+            "version": "FLC7",
+            "source": "modrinth",
+            "location": "wynncraft-fables-legends",
+            "authors": [
+                {
+                    "name": "Rythew",
+                    "link": "https://modrinth.com/user/Rythew"
+                }
+            ]
+        },
+        {
+            "name": "Fresh Animations",
+            "version": "1.9",
+            "source": "modrinth",
+            "location": "fresh-animations",
+            "authors": [
+                {
+                    "name": "FreshLX",
+                    "link": "https://modrinth.com/user/FreshLX"
+                }
+            ]
+        }
+    ],
     "include": [
         {
             "location": ".bobby",
@@ -703,6 +801,35 @@
         {
             "location": "options.txt",
             "id": "options-txt"
+        },
+        {
+            "location": "shaderpacks/ComplementaryUnbound_r5.1.1.zip.txt"
+        },
+        {
+            "location": "resourcepacks/Non_Intrustive_Spells.zip",
+            "name": "Non Intrusive Spells",
+            "authors": [
+                {
+                    "name": "Wynncraft",
+                    "link": "https://wynncraft.com/"
+                }
+            ]
+        },
+        {
+            "location": "resourcepacks/KiosWynnModels-Archangel.zip",
+            "name": "Kios Models",
+            "authors": [
+                {
+                    "name": "Kiocifer",
+                    "link": "https://forums.wynncraft.com/threads/kios-models.288166/"
+                }
+            ]
+        },
+        {
+            "location": "resourcepacks/Wynncraft_Overhaul_Panorama.zip"
+        },
+        {
+            "location": "resourcepacks/Wynnic_Landscapes_Remastered.zip"
         }
     ],
     "features": [
