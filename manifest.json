@@ -1404,6 +1404,7 @@
         {
             "location": "mods/Improved.Animations-fabric-1.20.1-1.0.2.jar",
             "name": "Improved Animations",
+            "id": "improved-animations",
             "authors": [
                 {
                     "name": "Team Alpha",
@@ -1443,6 +1444,12 @@
             "name": "Voices of Wynn",
             "default": true,
             "description": "Adds voice acting to NPCs"
+        },
+        {
+            "id": "improved-animations",
+            "name": "Improved Animations",
+            "default": true,
+            "description": "Adds new animations to the player"
         },
         {
             "id": "bobby-file",
