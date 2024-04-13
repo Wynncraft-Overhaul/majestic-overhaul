@@ -837,19 +837,19 @@
             "id": "fuy-gg",
             "name": "fuy.gg",
             "default": true,
-            "description": "PLACEHOLDER"
+            "description": "Quality of life guild war features for Wynn."
         },
         {
             "id": "wynntils",
             "name": "Wynntils",
             "default": true,
-            "description": "PLACEHOLDER"
+            "description": "Quality of life features for Wynn: minimap, item statistics & more."
         },
         {
             "id": "wynnlib",
             "name": "Wynnlib",
             "default": true,
-            "description": "PLACEHOLDER"
+            "description": "Quality of life features for Wynn: item dictionary & more."
         },
         {
             "id": "bobby-file",
