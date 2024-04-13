@@ -1,7 +1,7 @@
 {
     "manifest_version": 3,
-    "modpack_version": "0.1.0",
-    "name": "Majestic Overhaul",
+    "modpack_version": "0.1.1",
+    "name": "Majestic Overhaul Performance Pack",
     "subtitle": "Performance Pack",
     "description": "",
     "icon": true,
@@ -686,6 +686,18 @@
                 {
                     "name": "modmuss50",
                     "link": "https://modrinth.com/user/modmuss50"
+                }
+            ]
+        },
+        {
+            "name": "Architectury API",
+            "version": "10.0.16+fabric",
+            "source": "modrinth",
+            "location": "architectury-api",
+            "authors": [
+                {
+                    "name": "MaxNeedsSnacks",
+                    "link": "https://modrinth.com/user/MaxNeedsSnacks"
                 }
             ]
         }
