@@ -44,7 +44,7 @@ ao:true
 prioritizeChunkUpdates:0
 biomeBlendRadius:1
 renderClouds:"true"
-resourcePacks:["vanilla","fabric","server"]
+resourcePacks:["vanilla","fabric","server","file/Wynncraft_Overhaul_Panorama.zip","file/Wynnic_Mobs_Overwrite.zip","file/Fungal Pack 3.0 ORCHESTRA.zip"]
 incompatibleResourcePacks:[]
 lastServer:
 lang:en_us
