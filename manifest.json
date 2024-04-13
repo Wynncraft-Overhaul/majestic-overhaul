@@ -713,14 +713,14 @@
             "description": "PLACEHOLDER"
         },
         {
-            "id": "Wynntils",
-            "name": "wynntils",
+            "id": "wynntils",
+            "name": "Wynntils",
             "default": true,
             "description": "PLACEHOLDER"
         },
         {
-            "id": "Wynnlib",
-            "name": "wynnlib",
+            "id": "wynnlib",
+            "name": "Wynnlib",
             "default": true,
             "description": "PLACEHOLDER"
         },
