@@ -826,7 +826,14 @@
             ]
         },
         {
-            "location": "resourcepacks/Wynncraft_Overhaul_Panorama.zip"
+            "location": "resourcepacks/Wynncraft_Overhaul_Panorama.zip",
+            "name": "Wynncraft Overhaul Panorama",
+            "authors": [
+                {
+                    "name": "Elysium",
+                    "link": "https://www.youtube.com/@elysium_music"
+                }
+            ]
         },
         {
             "location": "resourcepacks/Wynnic_Landscapes_Remastered.zip"
