@@ -1,6 +1,6 @@
 {
     "manifest_version": 3,
-    "modpack_version": "0.5.1",
+    "modpack_version": "0.6.0",
     "name": "Majestic Overhaul",
     "subtitle": "Immersive Pack",
     "description": "",
@@ -582,7 +582,7 @@
         },
         {
             "name": "Wynntils",
-            "version": "v1.1.5",
+            "version": "v1.1.11",
             "source": "modrinth",
             "location": "wynntils",
             "authors": [
@@ -1171,6 +1171,7 @@
         {
             "name": "Voices of Wynn",
             "version": "1.7.1",
+            "id": "vow",
             "source": "ddl",
             "location": "https://voicesofwynn.com/download/49/jar",
             "authors": [
@@ -1244,6 +1245,18 @@
                 }
             ],
             "id": "euphoria-patches"
+        },
+        {
+            "name": "fuy.gg",
+            "version": "1.3.7",
+            "source": "modrinth",
+            "location": "fuy_gg",
+            "authors": [
+                {
+                    "name": "https://modrinth.com/user/Essentuan",
+                    "link": "Essentuan"
+                }
+            ]
         }
     ],
     "shaderpacks": [
@@ -1397,6 +1410,19 @@
                     "link": "https://github.com/Project-Alphaa"
                 }
             ]
+        },
+        {
+            "location": "resourcepacks/Wynncraft_Overhaul_Panorama.zip",
+            "name": "Wynncraft Overhaul Panorama",
+            "authors": [
+                {
+                    "name": "Elysium",
+                    "link": "https://www.youtube.com/@elysium_music"
+                }
+            ]
+        },
+        {
+            "location": "resourcepacks/Wynnic_Landscapes_Remastered.zip"
         }
     ],
     "features": [
@@ -1411,6 +1437,12 @@
             "name": "AutoHUD",
             "default": true,
             "description": "Hides the HUD when not in use"
+        },
+        {
+            "id": "vow",
+            "name": "Voices of Wynn",
+            "default": true,
+            "description": "Adds voice acting to NPCs"
         },
         {
             "id": "bobby-file",
