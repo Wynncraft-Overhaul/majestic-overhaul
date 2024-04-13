@@ -690,6 +690,8 @@
             ]
         }
     ],
+    "shaderpacks": [],
+    "resourcepacks": [],
     "include": [
         {
             "location": ".bobby",
