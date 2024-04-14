@@ -1,6 +1,6 @@
 {
     "manifest_version": 3,
-    "modpack_version": "0.6.0",
+    "modpack_version": "0.6.1",
     "name": "Majestic Overhaul",
     "subtitle": "Immersive Pack",
     "description": "",
@@ -323,18 +323,6 @@
                 {
                     "name": "lucko",
                     "link": "https://modrinth.com/user/lucko"
-                }
-            ]
-        },
-        {
-            "name": "Chat Heads",
-            "version": "0.10.25",
-            "source": "modrinth",
-            "location": "chat-heads",
-            "authors": [
-                {
-                    "name": "dzwdz",
-                    "link": "https://modrinth.com/user/dzwdz"
                 }
             ]
         },
