@@ -1,6 +1,6 @@
 {
     "manifest_version": 3,
-    "modpack_version": "0.6.1",
+    "modpack_version": "0.6.2",
     "name": "Majestic Overhaul",
     "subtitle": "Immersive Pack",
     "description": "",
@@ -1271,18 +1271,6 @@
                 {
                     "name": "JoeFly",
                     "link": "https://modrinth.com/user/JoeFly"
-                }
-            ]
-        },
-        {
-            "name": "Quiet Thunder",
-            "version": "1.14.4",
-            "source": "ddl",
-            "location": "https://mediafilez.forgecdn.net/files/2799/600/QuietThunder.zip",
-            "authors": [
-                {
-                    "name": "thefear900",
-                    "link": "https://legacy.curseforge.com/members/thefear900"
                 }
             ]
         },
