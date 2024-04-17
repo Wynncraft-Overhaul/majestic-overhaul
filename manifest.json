@@ -1,6 +1,6 @@
 {
     "manifest_version": 3,
-    "modpack_version": "0.1.1",
+    "modpack_version": "0.1.2",
     "name": "Majestic Overhaul Performance Pack",
     "subtitle": "Performance Pack",
     "description": "",
@@ -620,6 +620,7 @@
         {
             "name": "Wynntils Config Sharing",
             "version": "1.0.0",
+            "id": "wynntils",
             "source": "ddl",
             "location": "https://github.com/Commander07/Wynntils-Config-Sharing/releases/download/1.0.0/wynntils-config-sharing-1.0.0.jar",
             "authors": [
