@@ -1436,7 +1436,7 @@
         {
             "id": "improved-animations",
             "name": "Improved Animations",
-            "default": true,
+            "default": false,
             "description": "Adds new animations to the player"
         },
         {
