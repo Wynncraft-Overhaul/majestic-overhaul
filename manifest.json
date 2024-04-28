@@ -1233,18 +1233,6 @@
                 }
             ],
             "id": "euphoria-patches"
-        },
-        {
-            "name": "fuy.gg",
-            "version": "1.3.7",
-            "source": "modrinth",
-            "location": "fuy_gg",
-            "authors": [
-                {
-                    "name": "https://modrinth.com/user/Essentuan",
-                    "link": "Essentuan"
-                }
-            ]
         }
     ],
     "shaderpacks": [
