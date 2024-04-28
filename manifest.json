@@ -1406,7 +1406,7 @@
         {
             "id": "first-person-model",
             "name": "First Person Model",
-            "default": true,
+            "default": false,
             "description": "Adds the player model into the first person view"
         },
         {
