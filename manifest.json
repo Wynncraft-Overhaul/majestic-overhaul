@@ -841,12 +841,6 @@
     ],
     "features": [
         {
-            "id": "fuy-gg",
-            "name": "fuy.gg",
-            "default": true,
-            "description": "Quality of life guild war features for Wynn."
-        },
-        {
             "id": "wynntils",
             "name": "Wynntils",
             "default": true,
