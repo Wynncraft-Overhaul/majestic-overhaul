@@ -3,7 +3,7 @@
     "modpack_version": "0.6.1",
     "name": "Majestic Overhaul",
     "subtitle": "Immersive Pack",
-    "description": "",
+    "description": "<p style=\"font-size: 1.4em;margin-top: 0;\">Optional mods:</p>",
     "icon": true,
     "uuid": "5d97892a51dd4b158625ee991c7643b9",
     "max_mem": 4096,
