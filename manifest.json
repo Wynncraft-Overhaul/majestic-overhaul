@@ -654,6 +654,18 @@
             ]
         },
         {
+            "name": "Better Fps - Render distance[Fabric]",
+            "version": "1.20.1-4.0",
+            "source": "ddl",
+            "location": "https://mediafilez.forgecdn.net/files/4780/901/betterfpsdist-fabric-1.20.1-4.0.jar",
+            "authors": [
+                {
+                    "name": "someaddon",
+                    "link": "https://legacy.curseforge.com/members/someaddon"
+                }
+            ]
+        },
+        {
             "name": "Yet Another Config Lib",
             "version": "3.3.0-beta.1+1.20.2-fabric",
             "source": "modrinth",
