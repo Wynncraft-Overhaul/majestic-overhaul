@@ -173,8 +173,8 @@
         {
             "name": "Not Enough Animations",
             "version": "1.7.3",
-            "source": "modrinth",
-            "location": "not-enough-animations",
+            "source": "ddl",
+            "location": "https://cdn.modrinth.com/data/MPCX6s5C/versions/91p7VH3Z/notenoughanimations-fabric-1.7.3-mc1.20.2.jar",
             "authors": [
                 {
                     "name": "tr7zw",
@@ -185,8 +185,8 @@
         {
             "name": "3D Skin Layers",
             "version": "1.6.4",
-            "source": "modrinth",
-            "location": "3dskinlayers",
+            "source": "ddl",
+            "location": "https://cdn.modrinth.com/data/zV5r3pPn/versions/islywdJl/skinlayers3d-fabric-1.6.4-mc1.20.2.jar",
             "authors": [
                 {
                     "name": "tr7zw",
@@ -209,8 +209,8 @@
         {
             "name": "Entity Texture Features",
             "version": "6.0.1",
-            "source": "modrinth",
-            "location": "entitytexturefeatures",
+            "source": "ddl",
+            "location": "https://cdn.modrinth.com/data/BVzZfTc1/versions/n97nAS3C/entity_texture_features_fabric_1.20.2-6.0.1.jar",
             "authors": [
                 {
                     "name": "Traben",
@@ -257,8 +257,8 @@
         {
             "name": "Entity Model Features",
             "version": "2.0.2",
-            "source": "modrinth",
-            "location": "entity-model-features",
+            "source": "ddl",
+            "location": "https://cdn.modrinth.com/data/4I1XuqiY/versions/g2i5i750/entity_model_features_fabric_1.20.2-2.0.2.jar",
             "authors": [
                 {
                     "name": "Traben",
@@ -269,8 +269,8 @@
         {
             "name": "Wavey Capes",
             "version": "1.4.6",
-            "source": "modrinth",
-            "location": "wavey-capes",
+            "source": "ddl",
+            "location": "https://cdn.modrinth.com/data/kYuIpRLv/versions/2ygyomuG/waveycapes-fabric-1.4.6-mc1.20.2.jar",
             "authors": [
                 {
                     "name": "tr7zw",
@@ -341,8 +341,8 @@
         {
             "name": "First Person Model",
             "version": "2.3.4",
-            "source": "modrinth",
-            "location": "first-person-model",
+            "source": "ddl",
+            "location": "https://cdn.modrinth.com/data/H5XMjpHi/versions/Spixvo41/firstperson-fabric-2.3.4-mc1.20.2.jar",
             "authors": [
                 {
                     "name": "tr7zw",
@@ -919,8 +919,8 @@
         {
             "name": "Iceberg",
             "version": "1.1.18",
-            "source": "modrinth",
-            "location": "iceberg",
+            "source": "ddl",
+            "location": "https://cdn.modrinth.com/data/5faXoLqX/versions/snRtsUWd/Iceberg-1.20.2-fabric-1.1.18.jar",
             "authors": [
                 {
                     "name": "Grend",
