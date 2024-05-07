@@ -1,6 +1,6 @@
 {
     "manifest_version": 3,
-    "modpack_version": "0.6.1",
+    "modpack_version": "0.6.2",
     "name": "Majestic Overhaul",
     "subtitle": "Immersive Pack",
     "description": "<p style=\"font-size: 1.4em;margin-top: 0;\">Optional mods:</p>",
@@ -10,13 +10,13 @@
     "java_args": "-XX:+UnlockExperimentalVMOptions -XX:+UseG1GC -XX:G1NewSizePercent=20 -XX:G1ReservePercent=20 -XX:MaxGCPauseMillis=50 -XX:G1HeapRegionSize=32M",
     "loader": {
         "type": "fabric",
-        "version": "0.15.1",
+        "version": "0.15.11",
         "minecraft_version": "1.20.2"
     },
     "mods": [
         {
             "name": "Fabric API",
-            "version": "0.90.7+1.20.2",
+            "version": "0.91.6+1.20.2",
             "source": "modrinth",
             "location": "fabric-api",
             "authors": [
@@ -28,7 +28,7 @@
         },
         {
             "name": "Sound Physics Remastered",
-            "version": "fabric-1.20.2-1.3.0",
+            "version": "fabric-1.20.2-1.3.1",
             "source": "modrinth",
             "location": "sound-physics-remastered",
             "authors": [
@@ -40,7 +40,7 @@
         },
         {
             "name": "Iris Shaders",
-            "version": "1.6.10+1.20.2",
+            "version": "1.6.14+1.20.2",
             "source": "modrinth",
             "location": "iris",
             "authors": [
@@ -52,7 +52,7 @@
         },
         {
             "name": "Sodium",
-            "version": "mc1.20.2-0.5.3",
+            "version": "mc1.20.2-0.5.5",
             "source": "modrinth",
             "location": "sodium",
             "authors": [
@@ -64,7 +64,7 @@
         },
         {
             "name": "Fabric Language Kotlin",
-            "version": "1.10.15+kotlin.1.9.21",
+            "version": "1.10.19+kotlin.1.9.23",
             "source": "modrinth",
             "location": "fabric-language-kotlin",
             "authors": [
@@ -76,7 +76,7 @@
         },
         {
             "name": "Cloth Config API",
-            "version": "12.0.111+fabric",
+            "version": "12.0.119+fabric",
             "source": "modrinth",
             "location": "cloth-config",
             "authors": [
@@ -88,7 +88,7 @@
         },
         {
             "name": "Entity Culling",
-            "version": "1.6.2-1.20.2",
+            "version": "1.6.3-1.20.2",
             "source": "modrinth",
             "location": "entityculling",
             "authors": [
@@ -100,7 +100,7 @@
         },
         {
             "name": "Architectury API",
-            "version": "10.0.16+fabric",
+            "version": "10.1.20+fabric",
             "source": "modrinth",
             "location": "architectury-api",
             "authors": [
@@ -148,9 +148,9 @@
         },
         {
             "name": "Physics Mod",
-            "version": "3.0.10",
+            "version": "3.0.11",
             "source": "ddl",
-            "location": "https://cdn.modrinth.com/data/Xy8aRQKS/versions/dBxi3s11/physics-mod-3.0.10-mc-1.20.2-fabric.jar",
+            "location": "https://cdn.modrinth.com/data/Xy8aRQKS/versions/CDOVHr40/physics-mod-3.0.11-mc-1.20.2-fabric.jar",
             "authors": [
                 {
                     "name": "haubna",
@@ -160,7 +160,7 @@
         },
         {
             "name": "ImmediatelyFast",
-            "version": "1.2.7+1.20.2",
+            "version": "1.2.14+1.20.4-fabric",
             "source": "modrinth",
             "location": "immediatelyfast",
             "authors": [
@@ -172,7 +172,7 @@
         },
         {
             "name": "Not Enough Animations",
-            "version": "1.6.4-1.20.2",
+            "version": "1.7.3",
             "source": "modrinth",
             "location": "not-enough-animations",
             "authors": [
@@ -184,7 +184,7 @@
         },
         {
             "name": "3D Skin Layers",
-            "version": "1.5.6-1.20.2",
+            "version": "1.6.4",
             "source": "modrinth",
             "location": "3dskinlayers",
             "authors": [
@@ -196,7 +196,7 @@
         },
         {
             "name": "Concurrent Chunk Management Engine",
-            "version": "0.2.0+alpha.10.126+1.20.2",
+            "version": "0.2.0+alpha.11.24+1.20.2",
             "source": "modrinth",
             "location": "c2me-fabric",
             "authors": [
@@ -208,7 +208,7 @@
         },
         {
             "name": "Entity Texture Features",
-            "version": "4.6.1",
+            "version": "6.0.1",
             "source": "modrinth",
             "location": "entitytexturefeatures",
             "authors": [
@@ -232,7 +232,7 @@
         },
         {
             "name": "Forge Config API Port",
-            "version": "v9.0.0-1.20.2-Fabric",
+            "version": "v20.2.6-1.20.2-Fabric",
             "source": "modrinth",
             "location": "forge-config-api-port",
             "authors": [
@@ -244,7 +244,7 @@
         },
         {
             "name": "More Chat History",
-            "version": "mc1.19.1-1.1.1",
+            "version": "1.3.0",
             "source": "modrinth",
             "location": "morechathistory",
             "authors": [
@@ -256,7 +256,7 @@
         },
         {
             "name": "Entity Model Features",
-            "version": "1.1.0",
+            "version": "2.0.2",
             "source": "modrinth",
             "location": "entity-model-features",
             "authors": [
@@ -268,7 +268,7 @@
         },
         {
             "name": "Wavey Capes",
-            "version": "1.4.1",
+            "version": "1.4.6",
             "source": "modrinth",
             "location": "wavey-capes",
             "authors": [
@@ -328,7 +328,7 @@
         },
         {
             "name": "ModernFix",
-            "version": "5.9.3+mc1.20.2",
+            "version": "5.10.1+mc1.20.2",
             "source": "modrinth",
             "location": "modernfix",
             "authors": [
@@ -340,7 +340,7 @@
         },
         {
             "name": "First Person Model",
-            "version": "2.2.4-1.20.2",
+            "version": "2.3.4",
             "source": "modrinth",
             "location": "first-person-model",
             "authors": [
@@ -389,7 +389,7 @@
         },
         {
             "name": "Indium",
-            "version": "1.0.27+mc1.20.1",
+            "version": "1.0.28+mc1.20.4",
             "source": "modrinth",
             "location": "indium",
             "authors": [
@@ -401,7 +401,7 @@
         },
         {
             "name": "Mod Menu",
-            "version": "8.0.0",
+            "version": "8.0.1",
             "source": "modrinth",
             "location": "modmenu",
             "authors": [
@@ -437,7 +437,7 @@
         },
         {
             "name": "AutoHUD",
-            "version": "6.4+1.20.2-fabric",
+            "version": "6.5.1+1.20.2-fabric",
             "source": "modrinth",
             "location": "autohud",
             "authors": [
@@ -474,7 +474,7 @@
         },
         {
             "name": "Krypton",
-            "version": "0.2.4",
+            "version": "0.2.6",
             "source": "modrinth",
             "location": "krypton",
             "authors": [
@@ -510,7 +510,7 @@
         },
         {
             "name": "Falling Leaves",
-            "version": "1.15.4",
+            "version": "1.15.6+1.20.1",
             "source": "modrinth",
             "location": "fallingleaves",
             "authors": [
@@ -522,7 +522,7 @@
         },
         {
             "name": "Dynamic Crosshair",
-            "version": "7.5+1.20.2-fabric",
+            "version": "7.6.2+1.20.2-fabric",
             "source": "modrinth",
             "location": "dynamiccrosshair",
             "authors": [
@@ -558,7 +558,7 @@
         },
         {
             "name": "Wynntils",
-            "version": "v1.1.11",
+            "version": "v1.2.1",
             "source": "modrinth",
             "location": "wynntils",
             "authors": [
@@ -582,7 +582,7 @@
         },
         {
             "name": "Searchables",
-            "version": "1.0.3",
+            "version": "1.0.16",
             "source": "ddl",
             "location": "https://cdn.modrinth.com/data/fuuu3xnx/versions/gcqBz3gR/Searchables-fabric-1.20.2-1.0.16.jar",
             "authors": [
@@ -606,7 +606,7 @@
         },
         {
             "name": "Controlling",
-            "version": "13.0.1",
+            "version": "13.0.8",
             "source": "ddl",
             "location": "https://cdn.modrinth.com/data/xv94TkTM/versions/mD6hNm9W/Controlling-fabric-1.20.2-13.0.6.jar",
             "authors": [
@@ -630,7 +630,7 @@
         },
         {
             "name": "BetterF3",
-            "version": "8.0.2",
+            "version": "8.0.3",
             "source": "modrinth",
             "location": "betterf3",
             "authors": [
@@ -642,9 +642,21 @@
         },
         {
             "name": "Show Me Your Skin!",
-            "version": "1.7.0+1.20.2",
+            "version": "1.9.0+1.20.2",
             "source": "modrinth",
             "location": "show-me-your-skin",
+            "authors": [
+                {
+                    "name": "enjarai",
+                    "link": "https://modrinth.com/user/enjarai"
+                }
+            ]
+        },
+        {
+            "name": "CICADA",
+            "version": "10.7.2+1.20.2-1.20.4",
+            "source": "modrinth",
+            "location": "cicada",
             "authors": [
                 {
                     "name": "enjarai",
@@ -678,7 +690,7 @@
         },
         {
             "name": "Video Tape",
-            "version": "1.2.1",
+            "version": "1.3.0",
             "source": "modrinth",
             "location": "videotape",
             "authors": [
@@ -702,7 +714,7 @@
         },
         {
             "name": "oωo (owo-lib)",
-            "version": "0.11.3+1.20.2",
+            "version": "0.11.4+1.20.2",
             "source": "modrinth",
             "location": "owo-lib",
             "authors": [
@@ -738,7 +750,7 @@
         },
         {
             "name": "Client Side Noteblocks",
-            "version": "2.6",
+            "version": "2.7",
             "source": "modrinth",
             "location": "clientsidenoteblocks",
             "authors": [
@@ -774,9 +786,9 @@
         },
         {
             "name": "Wakes",
-            "version": "0.2.0",
+            "version": "0.2.2",
             "source": "ddl",
-            "location": "https://cdn.modrinth.com/data/dlNu0RQY/versions/NCJ1TwEm/wakes-0.2.0.jar",
+            "location": "https://cdn.modrinth.com/data/dlNu0RQY/versions/mgtR7Ajv/wakes-0.2.2.jar",
             "authors": [
                 {
                     "name": "Goby56",
@@ -786,7 +798,7 @@
         },
         {
             "name": "Presence Footsteps",
-            "version": "1.10.0",
+            "version": "1.10.3",
             "source": "modrinth",
             "location": "presence-footsteps",
             "authors": [
@@ -822,7 +834,7 @@
         },
         {
             "name": "Sounds",
-            "version": "0.3.0+1.20.2",
+            "version": "0.7.0+1.20.2",
             "source": "modrinth",
             "location": "sound",
             "authors": [
@@ -846,7 +858,7 @@
         },
         {
             "name": "Rebind All the Keys",
-            "version": "1.4.0+1.20.2",
+            "version": "1.5.2+1.20.2",
             "source": "modrinth",
             "location": "rebind-all-the-keys",
             "authors": [
@@ -858,7 +870,7 @@
         },
         {
             "name": "ChatAnimation",
-            "version": "1.0.3",
+            "version": "1.0.5",
             "source": "modrinth",
             "location": "chatanimation",
             "authors": [
@@ -870,7 +882,7 @@
         },
         {
             "name": "CIT Resewn",
-            "version": "1.1.3+1.20",
+            "version": "1.1.5+1.20.1",
             "source": "modrinth",
             "location": "cit-resewn",
             "authors": [
@@ -906,7 +918,7 @@
         },
         {
             "name": "Iceberg",
-            "version": "1.1.15",
+            "version": "1.1.18",
             "source": "modrinth",
             "location": "iceberg",
             "authors": [
@@ -918,7 +930,7 @@
         },
         {
             "name": "Legendary Tooltips",
-            "version": "1.4.4",
+            "version": "1.4.5",
             "source": "modrinth",
             "location": "legendary-tooltips",
             "authors": [
@@ -942,7 +954,7 @@
         },
         {
             "name": "More Culling",
-            "version": "v0.19.0-1.20.x",
+            "version": "0.24.0",
             "source": "modrinth",
             "location": "moreculling",
             "authors": [
@@ -1014,7 +1026,7 @@
         },
         {
             "name": "Weather Changer",
-            "version": "0.3.0",
+            "version": "1.0.1",
             "source": "modrinth",
             "location": "weather-changer",
             "authors": [
@@ -1050,7 +1062,7 @@
         },
         {
             "name": "Shoulder Surfing Reloaded",
-            "version": "1.20.1-2.8.1",
+            "version": "1.20.4-2.9.6",
             "source": "modrinth",
             "location": "shoulder-surfing-reloaded",
             "authors": [
@@ -1300,7 +1312,7 @@
         },
         {
             "name": "Wynnic Fables & Legends",
-            "version": "FLC7",
+            "version": "FLC8",
             "source": "modrinth",
             "location": "wynncraft-fables-legends",
             "authors": [
@@ -1413,7 +1425,7 @@
             "id": "improved-animations",
             "name": "Improved Animations",
             "default": false,
-            "description": "Adds new animations to the player"
+            "description": "Adds more animations to the player, which are much more demanding on performance"
         },
         {
             "id": "bobby-file",
