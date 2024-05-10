@@ -1,6 +1,6 @@
 {
     "manifest_version": 3,
-    "modpack_version": "0.6.2",
+    "modpack_version": "0.6.3",
     "name": "Majestic Overhaul",
     "subtitle": "Immersive Pack",
     "description": "<p style=\"font-size: 1.4em;margin-top: 0;\">Optional mods:</p>",
@@ -1113,6 +1113,18 @@
             "version": "1.0.0",
             "source": "ddl",
             "location": "https://github.com/Wynncraft-Overhaul/Wynn-Quester/releases/download/1.0.0/wynn-quester-1.0.0-1.20.jar",
+            "authors": [
+                {
+                    "name": "Commander",
+                    "link": "https://github.com/Commander07"
+                }
+            ]
+        },
+        {
+            "name": "Notifier",
+            "version": "1.1.0",
+            "source": "ddl",
+            "location": "https://github.com/Wynncraft-Overhaul/notifier/releases/download/1.1.0-1.20/notifier-1.1.0-1.20.jar",
             "authors": [
                 {
                     "name": "Commander",
