@@ -1,6 +1,6 @@
 {
     "manifest_version": 3,
-    "modpack_version": "0.1.2",
+    "modpack_version": "0.1.3",
     "name": "Majestic Overhaul Performance Pack",
     "subtitle": "Performance Pack",
     "description": "<p style=\"font-size: 1.4em;margin-top: 0;\">Optional mods:</p>",
@@ -10,13 +10,13 @@
     "java_args": "-XX:+UnlockExperimentalVMOptions -XX:+UseG1GC -XX:G1NewSizePercent=20 -XX:G1ReservePercent=20 -XX:MaxGCPauseMillis=50 -XX:G1HeapRegionSize=32M",
     "loader": {
         "type": "fabric",
-        "version": "0.15.1",
+        "version": "0.15.11",
         "minecraft_version": "1.20.2"
     },
     "mods": [
         {
             "name": "BetterF3",
-            "version": "8.0.2",
+            "version": "8.0.3",
             "source": "modrinth",
             "location": "betterf3",
             "authors": [
@@ -40,7 +40,7 @@
         },
         {
             "name": "Concurrent Chunk Management Engine",
-            "version": "0.2.0+alpha.10.126+1.20.2",
+            "version": "0.2.0+alpha.11.24+1.20.2",
             "source": "modrinth",
             "location": "c2me-fabric",
             "authors": [
@@ -52,7 +52,7 @@
         },
         {
             "name": "CIT Resewn",
-            "version": "1.1.3+1.20",
+            "version": "1.1.5+1.20.1",
             "source": "modrinth",
             "location": "cit-resewn",
             "authors": [
@@ -64,7 +64,7 @@
         },
         {
             "name": "Client Side Noteblocks",
-            "version": "2.6",
+            "version": "2.7",
             "source": "modrinth",
             "location": "clientsidenoteblocks",
             "authors": [
@@ -76,9 +76,9 @@
         },
         {
             "name": "Controlling",
-            "version": "13.0.1",
+            "version": "13.0.8",
             "source": "ddl",
-            "location": "https://cdn.modrinth.com/data/xv94TkTM/versions/mD6hNm9W/Controlling-fabric-1.20.2-13.0.6.jar",
+            "location": "https://cdn.modrinth.com/data/xv94TkTM/versions/YsBamiIM/Controlling-fabric-1.20.2-13.0.8.jar",
             "authors": [
                 {
                     "name": "jaredlll08",
@@ -160,9 +160,9 @@
         },
         {
             "name": "Entity Model Features",
-            "version": "1.1.0",
-            "source": "modrinth",
-            "location": "entity-model-features",
+            "version": "2.0.2",
+            "source": "ddl",
+            "location": "https://cdn.modrinth.com/data/4I1XuqiY/versions/g2i5i750/entity_model_features_fabric_1.20.2-2.0.2.jar",
             "authors": [
                 {
                     "name": "Traben",
@@ -172,9 +172,9 @@
         },
         {
             "name": "Entity Texture Features",
-            "version": "4.6.1",
-            "source": "modrinth",
-            "location": "entitytexturefeatures",
+            "version": "6.0.1",
+            "source": "ddl",
+            "location": "https://cdn.modrinth.com/data/BVzZfTc1/versions/n97nAS3C/entity_texture_features_fabric_1.20.2-6.0.1.jar",
             "authors": [
                 {
                     "name": "Traben",
@@ -184,7 +184,7 @@
         },
         {
             "name": "Entity Culling",
-            "version": "1.6.2-1.20.2",
+            "version": "1.6.3-1.20.2",
             "source": "modrinth",
             "location": "entityculling",
             "authors": [
@@ -208,7 +208,7 @@
         },
         {
             "name": "Fabric API",
-            "version": "0.90.7+1.20.2",
+            "version": "0.91.6+1.20.2",
             "source": "modrinth",
             "location": "fabric-api",
             "authors": [
@@ -232,7 +232,7 @@
         },
         {
             "name": "ImmediatelyFast",
-            "version": "1.2.7+1.20.2",
+            "version": "1.2.14+1.20.4-fabric",
             "source": "modrinth",
             "location": "immediatelyfast",
             "authors": [
@@ -244,7 +244,7 @@
         },
         {
             "name": "Indium",
-            "version": "1.0.27+mc1.20.1",
+            "version": "1.0.28+mc1.20.4",
             "source": "modrinth",
             "location": "indium",
             "authors": [
@@ -256,7 +256,7 @@
         },
         {
             "name": "Iris Shaders",
-            "version": "1.6.10+1.20.2",
+            "version": "1.6.14+1.20.2",
             "source": "modrinth",
             "location": "iris",
             "authors": [
@@ -268,7 +268,7 @@
         },
         {
             "name": "Krypton",
-            "version": "0.2.4",
+            "version": "0.2.6",
             "source": "modrinth",
             "location": "krypton",
             "authors": [
@@ -352,7 +352,7 @@
         },
         {
             "name": "ModernFix",
-            "version": "5.9.3+mc1.20.2",
+            "version": "5.10.1+mc1.20.2",
             "source": "modrinth",
             "location": "modernfix",
             "authors": [
@@ -364,7 +364,7 @@
         },
         {
             "name": "Mod Menu",
-            "version": "8.0.0",
+            "version": "8.0.1",
             "source": "modrinth",
             "location": "modmenu",
             "authors": [
@@ -376,7 +376,7 @@
         },
         {
             "name": "More Chat History",
-            "version": "mc1.19.1-1.1.1",
+            "version": "1.3.0",
             "source": "modrinth",
             "location": "morechathistory",
             "authors": [
@@ -388,7 +388,7 @@
         },
         {
             "name": "More Culling",
-            "version": "v0.19.0-1.20.x",
+            "version": "0.24.0",
             "source": "modrinth",
             "location": "moreculling",
             "authors": [
@@ -496,7 +496,7 @@
         },
         {
             "name": "Sodium",
-            "version": "mc1.20.2-0.5.3",
+            "version": "mc1.20.2-0.5.5",
             "source": "modrinth",
             "location": "sodium",
             "authors": [
@@ -544,7 +544,7 @@
         },
         {
             "name": "Video Tape",
-            "version": "1.2.1",
+            "version": "1.3.0",
             "source": "modrinth",
             "location": "videotape",
             "authors": [
@@ -592,8 +592,20 @@
             ]
         },
         {
+            "name": "Notifier",
+            "version": "1.1.0",
+            "source": "ddl",
+            "location": "https://github.com/Wynncraft-Overhaul/notifier/releases/download/1.1.0-1.20/notifier-1.1.0-1.20.jar",
+            "authors": [
+                {
+                    "name": "Commander",
+                    "link": "https://github.com/Commander07"
+                }
+            ]
+        },
+        {
             "name": "Wynntils",
-            "version": "v1.1.11",
+            "version": "v1.2.3",
             "id": "wynntils",
             "source": "modrinth",
             "location": "wynntils",
@@ -619,7 +631,7 @@
         },
         {
             "name": "Cloth Config API",
-            "version": "12.0.111+fabric",
+            "version": "12.0.119+fabric",
             "source": "modrinth",
             "location": "cloth-config",
             "authors": [
@@ -631,7 +643,7 @@
         },
         {
             "name": "Searchables",
-            "version": "1.0.3",
+            "version": "1.0.16",
             "source": "ddl",
             "location": "https://cdn.modrinth.com/data/fuuu3xnx/versions/gcqBz3gR/Searchables-fabric-1.20.2-1.0.16.jar",
             "authors": [
@@ -691,7 +703,7 @@
         },
         {
             "name": "Fabric Language Kotlin",
-            "version": "1.10.15+kotlin.1.9.21",
+            "version": "1.10.19+kotlin.1.9.23",
             "source": "modrinth",
             "location": "fabric-language-kotlin",
             "authors": [
@@ -703,7 +715,7 @@
         },
         {
             "name": "Architectury API",
-            "version": "10.0.16+fabric",
+            "version": "10.1.20+fabric",
             "source": "modrinth",
             "location": "architectury-api",
             "authors": [
@@ -791,7 +803,7 @@
         },
         {
             "name": "Wynnic Fables & Legends",
-            "version": "FLC7",
+            "version": "FLC8",
             "source": "modrinth",
             "location": "wynncraft-fables-legends",
             "authors": [
