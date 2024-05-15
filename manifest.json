@@ -798,7 +798,7 @@
         },
         {
             "name": "Presence Footsteps",
-            "version": "1.10.3",
+            "version": "1.9.4+1.20.2",
             "source": "modrinth",
             "location": "presence-footsteps",
             "authors": [
