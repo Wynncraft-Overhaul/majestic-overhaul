@@ -1,6 +1,6 @@
 {
     "manifest_version": 3,
-    "modpack_version": "0.6.4",
+    "modpack_version": "0.6.5",
     "name": "Majestic Overhaul",
     "subtitle": "Immersive Pack",
     "description": "<p style=\"font-size: 1.4em;margin-top: 0;\">Optional mods:</p>",
@@ -858,7 +858,7 @@
         },
         {
             "name": "Rebind All the Keys",
-            "version": "1.5.2+1.20.2",
+            "version": "1.4.0+1.20.2",
             "source": "modrinth",
             "location": "rebind-all-the-keys",
             "authors": [
