@@ -522,7 +522,7 @@
         },
         {
             "name": "Dynamic Crosshair",
-            "version": "7.6.2+1.20.2-fabric",
+            "version": "7.2+1.20.2-fabric",
             "source": "modrinth",
             "location": "dynamiccrosshair",
             "authors": [
@@ -1424,7 +1424,7 @@
         {
             "id": "autohud",
             "name": "AutoHUD",
-            "default": true,
+            "default": false,
             "description": "Hides the HUD when not in use"
         },
         {
@@ -1437,7 +1437,7 @@
             "id": "improved-animations",
             "name": "Improved Animations",
             "default": false,
-            "description": "Adds more animations to the player, which are much more demanding on performance"
+            "description": "[-FPS] Adds more animations to the player"
         },
         {
             "id": "bobby-file",
@@ -1449,7 +1449,7 @@
             "id": "euphoria-patches",
             "name": "Euphoria Patches",
             "default": true,
-            "description": "Adds extra shader settings, which can be slightly more demanding on performance"
+            "description": "[-FPS] Adds extra shader settings"
         },
         {
             "id": "options-txt",
