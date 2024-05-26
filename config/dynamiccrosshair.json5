@@ -3,14 +3,10 @@
 	"disableDebugCrosshair": false,
 	"thirdPersonCrosshair": true,
 	"hideWithScreen": true,
-	"hideWithMap": true,
-	"fixCenteredCrosshair": false,
 	"crosshairConfig": {
-		"onBlock": false,
-		"onInteractableBlock": true,
+		"onBlock": "IfTargeting",
 		"onEntity": true,
 		"holdingTool": "IfTargeting",
-		"displayCorrectTool": false,
 		"holdingMeleeWeapon": true,
 		"meleeWeaponOnEntity": false,
 		"meleeWeaponOnBreakableBlock": false,
@@ -26,10 +22,10 @@
 		"customColor": -5588020,
 		"forceColor": false
 	},
-	"dynamicCrosshairStyle": true,
+	"dynamicCrosshairStyle": false,
 	"crosshairStyle": {
 		"regular": {
-			"style": "Default",
+			"style": "Circle",
 			"color": {
 				"crosshairColor": "Unchanged",
 				"customColor": -5588020,
@@ -100,8 +96,7 @@
 				"crosshairColor": "Unchanged",
 				"customColor": -5588020,
 				"forceColor": false
-			},
-			"isModifier": false
+			}
 		},
 		"modUsableItem": {
 			"style": "Dot",
@@ -109,8 +104,7 @@
 				"crosshairColor": "Unchanged",
 				"customColor": -5588020,
 				"forceColor": false
-			},
-			"isModifier": false
+			}
 		},
 		"modShield": {
 			"style": "Brackets",
@@ -118,8 +112,7 @@
 				"crosshairColor": "Unchanged",
 				"customColor": -5588020,
 				"forceColor": false
-			},
-			"isModifier": false
+			}
 		},
 		"modCorrectTool": {
 			"style": "Dot",
@@ -127,8 +120,7 @@
 				"crosshairColor": "Unchanged",
 				"customColor": -5588020,
 				"forceColor": false
-			},
-			"isModifier": false
+			}
 		},
 		"modIncorrectTool": {
 			"style": "RoundBrackets",
@@ -136,15 +128,13 @@
 				"crosshairColor": "Unchanged",
 				"customColor": -5588020,
 				"forceColor": false
-			},
-			"isModifier": false
+			}
 		}
 	},
-	"enableTweaks": true,
+	"enableTweaks": false,
 	"additionalTools": [],
 	"additionalMeleeWeapons": [],
 	"additionalRangedWeapons": [],
 	"additionalThrowables": [],
-	"additionalUsableItems": [],
-	"additionalInteractableBlocks": []
+	"additionalUsableItems": []
 }
