@@ -1,6 +1,6 @@
 {
     "manifest_version": 3,
-    "modpack_version": "0.6.5",
+    "modpack_version": "0.6.6",
     "name": "Majestic Overhaul",
     "subtitle": "Immersive Pack",
     "description": "<p style=\"font-size: 1.4em;margin-top: 0;\">Optional mods:</p>",
@@ -1245,6 +1245,18 @@
                 }
             ],
             "id": "euphoria-patches"
+        },
+        {
+            "name": "Your Options Shall Be Respected",
+            "version": "0.1.2",
+            "source": "modrinth",
+            "location": "yosbr",
+            "authors": [
+                {
+                    "name": "hamarb123",
+                    "link": "https://modrinth.com/user/hamarb123"
+                }
+            ]
         }
     ],
     "shaderpacks": [
