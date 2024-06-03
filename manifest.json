@@ -1345,6 +1345,18 @@
                     "link": "https://modrinth.com/user/FreshLX"
                 }
             ]
+        },
+        {
+            "name": "Fresh Moves",
+            "version": "3.0.1",
+            "source": "ddl",
+            "location": "https://cdn.modrinth.com/data/slufHzC2/versions/Sdg6a6Tc/Expressive%20Fresh%20Moves%20v3.0.1.zip",
+            "authors": [
+                {
+                    "name": "TrasTick",
+                    "link": "https://modrinth.com/user/TrasTick"
+                }
+            ]
         }
     ],
     "include": [
@@ -1390,17 +1402,6 @@
             "id": "euphoria-patches"
         },
         {
-            "location": "mods/Improved.Animations-fabric-1.20.1-1.0.2.jar",
-            "name": "Improved Animations",
-            "id": "improved-animations",
-            "authors": [
-                {
-                    "name": "Team Alpha",
-                    "link": "https://github.com/Project-Alphaa"
-                }
-            ]
-        },
-        {
             "location": "resourcepacks/Wynncraft_Overhaul_Panorama.zip",
             "name": "Wynncraft Overhaul Panorama",
             "authors": [
@@ -1432,12 +1433,6 @@
             "name": "Voices of Wynn",
             "default": true,
             "description": "Adds voice acting to NPCs"
-        },
-        {
-            "id": "improved-animations",
-            "name": "Improved Animations",
-            "default": false,
-            "description": "[-FPS] Adds more animations to the player"
         },
         {
             "id": "bobby-file",
