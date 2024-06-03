@@ -21,7 +21,7 @@
   "leashPhysics": false,
   "bannerPhysics": true,
   "clothSmoothShading": false,
-  "showUpdateNotifications": true,
+  "showUpdateNotifications": false,
   "clothThreads": 2,
   "leashLength": 3.0,
   "fishingLineLength": 12.0,
