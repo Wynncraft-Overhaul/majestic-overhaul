@@ -1,6 +1,6 @@
 {
     "manifest_version": 3,
-    "modpack_version": "0.6.6",
+    "modpack_version": "0.6.7",
     "name": "Majestic Overhaul",
     "subtitle": "Immersive Pack",
     "description": "<p style=\"font-size: 1.4em;margin-top: 0;\">Optional mods:</p>",
@@ -1362,7 +1362,7 @@
             "name": "Fresh Moves",
             "version": "3.0.1",
             "source": "ddl",
-            "location": "https://cdn.modrinth.com/data/slufHzC2/versions/Sdg6a6Tc/Expressive%20Fresh%20Moves%20v3.0.1.zip",
+            "location": "https://cdn.modrinth.com/data/slufHzC2/versions/czKkLETN/Eyeless%20Fresh%20Moves%20v3.0.1.zip",
             "authors": [
                 {
                     "name": "TrasTick",
