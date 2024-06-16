@@ -1336,6 +1336,7 @@
         },
         {
             "name": "Wynnic Fables & Legends",
+            "id": "weapon-packs",
             "version": "FLC8",
             "source": "modrinth",
             "location": "wynncraft-fables-legends",
@@ -1360,6 +1361,7 @@
         },
         {
             "name": "Fresh Moves",
+            "id": "fresh-moves",
             "version": "3.0.1",
             "source": "ddl",
             "location": "https://cdn.modrinth.com/data/slufHzC2/versions/czKkLETN/Eyeless%20Fresh%20Moves%20v3.0.1.zip",
@@ -1374,6 +1376,7 @@
     "include": [
         {
             "location": "resourcepacks/KiosWynnModels-Archangel.zip",
+            "id": "weapon-packs",
             "name": "Kios Models",
             "authors": [
                 {
@@ -1457,6 +1460,18 @@
             "name": "Euphoria Patches",
             "default": true,
             "description": "[-FPS] Adds extra shader settings"
+        },
+        {
+            "id": "fresh-moves",
+            "name": "Fresh Moves",
+            "default": true,
+            "description": "[-FPS] Adds new animations to the player"
+        },
+        {
+            "id": "weapon-packs",
+            "name": "Weapon Packs",
+            "default": true,
+            "description": "[-FPS] Adds custom item models for many weapons"
         },
         {
             "id": "options-txt",
