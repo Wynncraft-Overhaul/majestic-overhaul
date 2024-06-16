@@ -1,6 +1,6 @@
 {
     "manifest_version": 3,
-    "modpack_version": "0.6.7",
+    "modpack_version": "0.6.8",
     "name": "Majestic Overhaul",
     "subtitle": "Immersive Pack",
     "description": "<p style=\"font-size: 1.4em;margin-top: 0;\">Optional mods:</p>",
@@ -1134,13 +1134,13 @@
         },
         {
             "name": "Enhanced Block Entities",
-            "version": "0.9+1.20.2",
-            "source": "ddl",
-            "location": "https://webinterface.cubeside.de/temp/enhancedblockentities-0.9+1.20.2.jar",
+            "version": "0.9.1+1.20.2",
+            "source": "modrinth",
+            "location": "ebe",
             "authors": [
                 {
-                    "name": "Brokkonaut",
-                    "link": "https://github.com/Brokkonaut"
+                    "name": "FoundationGames",
+                    "link": "https://modrinth.com/user/FoundationGames"
                 }
             ]
         },
