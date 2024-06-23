@@ -3,6 +3,8 @@
     "modpack_version": "0.1.3",
     "name": "Majestic Overhaul Performance Pack",
     "subtitle": "Performance Pack",
+    "tab_group": 1,
+    "tab_title": "MAJESTIC"
     "description": "<p style=\"font-size: 1.4em;margin-top: 0;\">Optional mods:</p>",
     "icon": true,
     "uuid": "386ca262f03a453082bdbf71cd7b72ab",
