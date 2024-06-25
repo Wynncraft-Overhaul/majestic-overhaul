@@ -7,7 +7,7 @@
     "tab_group": 1,
     "tab_title": "LITE",
     "icon": true,
-    "uuid": "5d97892a51dd4b158625ee991c7643b9",
+    "uuid": "9b0fc21445194870907848be1b4a6cb8",
     "max_mem": 4096,
     "java_args": "-XX:+UnlockExperimentalVMOptions -XX:+UseG1GC -XX:G1NewSizePercent=20 -XX:G1ReservePercent=20 -XX:MaxGCPauseMillis=50 -XX:G1HeapRegionSize=32M",
     "loader": {
