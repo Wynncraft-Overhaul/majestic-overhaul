@@ -164,7 +164,7 @@
             "name": "Distant Horizons",
             "version": "1.21",
             "source": "ddl",
-            "location": "https://drive.usercontent.google.com/download?id=1mc5OfdKNCfWLIzvaPdrKg_qOCpuxOx2s&export=download&authuser=0&confirm=t&uuid=bd4c9ee3-fd8f-4151-ad11-8d64633101b8&at=APZUnTW1-TJTwY_yhOSYnapQ1N7v:1719334938679",
+            "location": "https://drive.usercontent.google.com/download?id=1mc5OfdKNCfWLIzvaPdrKg_qOCpuxOx2s",
             "authors": [
                 {
                     "name": "jeseibel",
@@ -222,7 +222,7 @@
         },
         {
             "name": "Entity Culling",
-            "version": "1.6.6-1.21",
+            "version": "1.6.6",
             "source": "modrinth",
             "location": "entityculling",
             "authors": [
@@ -270,7 +270,7 @@
         },
         {
             "name": "FabricSkyboxes",
-            "version": "0.7.4",
+            "version": "mc1.21-0.7.4",
             "source": "modrinth",
             "location": "fabricskyboxes",
             "authors": [
@@ -282,7 +282,7 @@
         },
         {
             "name": "Falling Leaves",
-            "version": "1.16.0",
+            "version": "1.16.0+1.21",
             "source": "modrinth",
             "location": "fallingleaves",
             "authors": [
@@ -318,7 +318,7 @@
         },
         {
             "name": "FabricSkyBoxes Interop",
-            "version": "1.4.0",
+            "version": "mc1.21-1.4.0",
             "source": "modrinth",
             "location": "fabricskyboxes-interop",
             "authors": [
@@ -330,7 +330,7 @@
         },
         {
             "name": "ImmediatelyFast",
-            "version": "1.2.18",
+            "version": "1.2.18+1.21-fabric",
             "source": "modrinth",
             "location": "immediatelyfast",
             "authors": [
@@ -342,7 +342,7 @@
         },
         {
             "name": "Indium",
-            "version": "1.0.33",
+            "version": "1.0.33+mc1.21",
             "source": "modrinth",
             "location": "indium",
             "authors": [
@@ -354,7 +354,7 @@
         },
         {
             "name": "Iris",
-            "version": "1.7.1",
+            "version": "1.7.1+1.21",
             "source": "modrinth",
             "location": "iris",
             "authors": [
@@ -378,7 +378,7 @@
         },
         {
             "name": "Lithium",
-            "version": "0.12.7",
+            "version": "mc1.21-0.12.7",
             "source": "modrinth",
             "location": "lithium",
             "authors": [
@@ -498,7 +498,7 @@
         },
         {
             "name": "Sodium",
-            "version": "0.5.9",
+            "version": "mc1.21-0.5.9",
             "source": "modrinth",
             "location": "sodium",
             "authors": [
@@ -546,7 +546,7 @@
         },
         {
             "name": "Sodium Extra",
-            "version": "0.5.7",
+            "version": "mc1.21-0.5.7",
             "source": "modrinth",
             "location": "sodium-extra",
             "authors": [
@@ -570,7 +570,7 @@
         },
         {
             "name": "spark",
-            "version": "1.10.73",
+            "version": "1.10.73-fabric",
             "source": "modrinth",
             "location": "spark",
             "authors": [
@@ -582,7 +582,7 @@
         },
         {
             "name": "ukulib",
-            "version": "1.4.0",
+            "version": "1.4.0+1.21",
             "source": "modrinth",
             "location": "ukulib",
             "authors": [
@@ -618,7 +618,7 @@
         },
         {
             "name": "YetAnotherConfigLib",
-            "version": "3.5.0",
+            "version": "3.5.0+1.21-fabric",
             "source": "modrinth",
             "location": "yacl",
             "authors": [
