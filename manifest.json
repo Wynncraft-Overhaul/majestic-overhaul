@@ -2,8 +2,10 @@
     "manifest_version": 3,
     "modpack_version": "0.6.9",
     "name": "Majestic Overhaul",
-    "subtitle": "Immersive Pack",
+    "subtitle": "Immersive LITE",
     "description": "<p style=\"font-size: 1.4em;margin-top: 0;\">Optional mods:</p>",
+    "tab_group": 1,
+    "tab_title": "LITE",
     "icon": true,
     "uuid": "5d97892a51dd4b158625ee991c7643b9",
     "max_mem": 4096,
@@ -147,18 +149,6 @@
             ]
         },
         {
-            "name": "Physics Mod",
-            "version": "3.0.10",
-            "source": "ddl",
-            "location": "https://cdn.modrinth.com/data/Xy8aRQKS/versions/dBxi3s11/physics-mod-3.0.10-mc-1.20.2-fabric.jar",
-            "authors": [
-                {
-                    "name": "haubna",
-                    "link": "https://modrinth.com/user/haubna"
-                }
-            ]
-        },
-        {
             "name": "ImmediatelyFast",
             "version": "1.2.14+1.20.4-fabric",
             "source": "modrinth",
@@ -219,18 +209,6 @@
             ]
         },
         {
-            "name": "Fabric Skyboxes",
-            "version": "mc1.20.2-0.7.3",
-            "source": "modrinth",
-            "location": "fabricskyboxes",
-            "authors": [
-                {
-                    "name": "AMereBagatelle",
-                    "link": "https://modrinth.com/user/AMereBagatelle"
-                }
-            ]
-        },
-        {
             "name": "Forge Config API Port",
             "version": "v20.2.6-1.20.2-Fabric",
             "source": "modrinth",
@@ -279,30 +257,6 @@
             ]
         },
         {
-            "name": "Fabric Skyboxes Interop",
-            "version": "mc1.20.2-1.3.6",
-            "source": "modrinth",
-            "location": "fabricskyboxes-interop",
-            "authors": [
-                {
-                    "name": "FlashyReese",
-                    "link": "https://modrinth.com/user/FlashyReese"
-                }
-            ]
-        },
-        {
-            "name": "Visuality",
-            "version": "0.7.1+1.20",
-            "source": "modrinth",
-            "location": "visuality",
-            "authors": [
-                {
-                    "name": "PinkGoosik",
-                    "link": "https://modrinth.com/user/PinkGoosik"
-                }
-            ]
-        },
-        {
             "name": "Ukulib",
             "version": "1.0.2+1.20.2",
             "source": "modrinth",
@@ -337,19 +291,6 @@
                     "link": "https://modrinth.com/user/embeddedt"
                 }
             ]
-        },
-        {
-            "name": "First Person Model",
-            "version": "2.3.4",
-            "source": "ddl",
-            "location": "https://cdn.modrinth.com/data/H5XMjpHi/versions/Spixvo41/firstperson-fabric-2.3.4-mc1.20.2.jar",
-            "authors": [
-                {
-                    "name": "tr7zw",
-                    "link": "https://modrinth.com/user/tr7zw"
-                }
-            ],
-            "id": "first-person-model"
         },
         {
             "name": "Particle Rain",
@@ -424,31 +365,6 @@
             ]
         },
         {
-            "name": "Better Third Person",
-            "version": "1.9.0",
-            "source": "ddl",
-            "location": "https://cdn.modrinth.com/data/G1s2WpNo/versions/1yJzEpzh/BetterThirdPerson-Fabric-1.20-1.9.0.jar",
-            "authors": [
-                {
-                    "name": "socolio",
-                    "link": "https://modrinth.com/user/socolio"
-                }
-            ]
-        },
-        {
-            "name": "AutoHUD",
-            "version": "6.5.1+1.20.2-fabric",
-            "source": "modrinth",
-            "location": "autohud",
-            "authors": [
-                {
-                    "name": "Crendgrim",
-                    "link": "https://modrinth.com/user/Crendgrim"
-                }
-            ],
-            "id": "autohud"
-        },
-        {
             "name": "Debugify",
             "version": "1.20.2+1.0",
             "source": "modrinth",
@@ -521,18 +437,6 @@
             ]
         },
         {
-            "name": "Dynamic Crosshair",
-            "version": "7.2+1.20.2-fabric",
-            "source": "modrinth",
-            "location": "dynamiccrosshair",
-            "authors": [
-                {
-                    "name": "Crendgrim",
-                    "link": "https://modrinth.com/user/Crendgrim"
-                }
-            ]
-        },
-        {
             "name": "Draggable Lists",
             "version": "1.0.2",
             "source": "modrinth",
@@ -565,18 +469,6 @@
                 {
                     "name": "DevScyu",
                     "link": "https://modrinth.com/user/DevScyu"
-                }
-            ]
-        },
-        {
-            "name": "Tiny Item Animations",
-            "version": "1.20-1.1",
-            "source": "modrinth",
-            "location": "tiny-item-animations",
-            "authors": [
-                {
-                    "name": "Trivaxy",
-                    "link": "https://modrinth.com/user/Trivaxy"
                 }
             ]
         },
@@ -785,18 +677,6 @@
             ]
         },
         {
-            "name": "Wakes",
-            "version": "0.2.2",
-            "source": "ddl",
-            "location": "https://cdn.modrinth.com/data/dlNu0RQY/versions/mgtR7Ajv/wakes-0.2.2.jar",
-            "authors": [
-                {
-                    "name": "Goby56",
-                    "link": "https://modrinth.com/user/Goby56"
-                }
-            ]
-        },
-        {
             "name": "Presence Footsteps",
             "version": "1.9.4+1.20.2",
             "source": "modrinth",
@@ -817,30 +697,6 @@
                 {
                     "name": "cortex",
                     "link": "https://modrinth.com/user/cortex"
-                }
-            ]
-        },
-        {
-            "name": "Smooth Swapping",
-            "version": "0.9.3.1-1.20.2",
-            "source": "modrinth",
-            "location": "smooth-swapping",
-            "authors": [
-                {
-                    "name": "Schauweg",
-                    "link": "https://modrinth.com/user/Schauweg"
-                }
-            ]
-        },
-        {
-            "name": "Sounds",
-            "version": "0.7.0+1.20.2",
-            "source": "modrinth",
-            "location": "sound",
-            "authors": [
-                {
-                    "name": "mineblock11",
-                    "link": "https://modrinth.com/user/mineblock11"
                 }
             ]
         },
@@ -929,18 +785,6 @@
             ]
         },
         {
-            "name": "Legendary Tooltips",
-            "version": "1.4.5",
-            "source": "modrinth",
-            "location": "legendary-tooltips",
-            "authors": [
-                {
-                    "name": "Grend",
-                    "link": "https://modrinth.com/user/Grend"
-                }
-            ]
-        },
-        {
             "name": "FastAnim",
             "version": "1.6-1.20",
             "source": "modrinth",
@@ -1015,6 +859,7 @@
         {
             "name": "YDM's Weapon Master",
             "version": "3.0.5+1.20.2+client+fabric",
+            "id": "ydm",
             "source": "ddl",
             "location": "https://mediafilez.forgecdn.net/files/4903/875/weaponmaster-client-only-fabric-1.20.2-3.0.5.jar",
             "authors": [
@@ -1061,18 +906,6 @@
             ]
         },
         {
-            "name": "Shoulder Surfing Reloaded",
-            "version": "1.20.4-2.9.6",
-            "source": "modrinth",
-            "location": "shoulder-surfing-reloaded",
-            "authors": [
-                {
-                    "name": "Exopandora",
-                    "link": "https://modrinth.com/user/Exopandora"
-                }
-            ]
-        },
-        {
             "name": "Connectivity[Forge/Fabric]",
             "version": "1.20.2-4.5",
             "source": "ddl",
@@ -1087,6 +920,7 @@
         {
             "name": "Wynnlib",
             "version": "0.2.16-1.20.2",
+            "id": "wynnlib",
             "source": "ddl",
             "location": "https://github.com/Commander07/WynnLibFabric/releases/download/0.2.16-1.20.2/wynnlib-0.2.16-1.20.2.jar",
             "authors": [
@@ -1432,21 +1266,21 @@
     ],
     "features": [
         {
-            "id": "first-person-model",
-            "name": "First Person Model",
+            "id": "wynnlib",
+            "name": "WynnLib",
             "default": false,
-            "description": "Adds the player model into the first person view"
+            "description": "Adds QoL features to Wynn"
         },
         {
-            "id": "autohud",
-            "name": "AutoHUD",
+            "id": "ydm",
+            "name": "YDM Weapon Master",
             "default": false,
-            "description": "Hides the HUD when not in use"
+            "description": "Puts weapons on your back"
         },
         {
             "id": "vow",
             "name": "Voices of Wynn",
-            "default": true,
+            "default": false,
             "description": "Adds voice acting to NPCs"
         },
         {
