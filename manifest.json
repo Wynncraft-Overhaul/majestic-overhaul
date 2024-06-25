@@ -42,7 +42,7 @@
         },
         {
             "name": "BetterF3",
-            "version": "BetterF3 v11.0.0",
+            "version": "11.0.1",
             "source": "modrinth",
             "location": "betterf3",
             "authors": [
@@ -78,7 +78,7 @@
         },
         {
             "name": "Capes",
-            "version": "1.5.4",
+            "version": "1.5.4+1.21",
             "source": "modrinth",
             "location": "capes",
             "authors": [
@@ -462,7 +462,7 @@
         },
         {
             "name": "oωo (owo-lib)",
-            "version": "[1.21]",
+            "version": "0.12.10+1.21",
             "source": "modrinth",
             "location": "owo-lib",
             "authors": [
@@ -606,7 +606,7 @@
         },
         {
             "name": "Visuality",
-            "version": "[1.21]",
+            "version": "0.7.5+1.21",
             "source": "modrinth",
             "location": "visuality",
             "authors": [
