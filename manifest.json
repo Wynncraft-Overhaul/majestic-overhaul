@@ -306,7 +306,7 @@
         },
         {
             "name": "Forge Config API Port",
-            "version": "v21.0.0",
+            "version": "v21.0.0-1.21-Fabric",
             "source": "modrinth",
             "location": "forge-config-api-port",
             "authors": [
@@ -402,7 +402,7 @@
         },
         {
             "name": "MidnightLib",
-            "version": "1.5.7",
+            "version": "1.5.7-fabric",
             "source": "modrinth",
             "location": "midnightlib",
             "authors": [
@@ -414,7 +414,7 @@
         },
         {
             "name": "ModernFix",
-            "version": "5.18.3",
+            "version": "5.18.3+mc1.21",
             "source": "modrinth",
             "location": "modernfix",
             "authors": [
@@ -451,8 +451,8 @@
         {
             "name": "Not Enough Animations",
             "version": "1.7.4",
-            "source": "modrinth",
-            "location": "not-enough-animations",
+            "source": "ddl",
+            "location": "https://cdn.modrinth.com/data/MPCX6s5C/versions/WaI2x21x/notenoughanimations-fabric-1.7.4-mc1.21.jar",
             "authors": [
                 {
                     "name": "tr7zw",
@@ -474,7 +474,7 @@
         },
         {
             "name": "Presence Footsteps",
-            "version": "1.10.0",
+            "version": "1.10.0+1.21",
             "source": "modrinth",
             "location": "presence-footsteps",
             "authors": [
@@ -486,7 +486,7 @@
         },
         {
             "name": "Reese's Sodium Options",
-            "version": "1.7.2",
+            "version": "mc1.21-1.7.2",
             "source": "modrinth",
             "location": "reeses-sodium-options",
             "authors": [
@@ -522,7 +522,7 @@
         },
         {
             "name": "Shoulder Surfing Reloaded",
-            "version": "4.1.5",
+            "version": "1.21-4.1.5",
             "source": "modrinth",
             "location": "shoulder-surfing-reloaded",
             "authors": [
@@ -558,7 +558,7 @@
         },
         {
             "name": "Sound Physics Remastered",
-            "version": "1.4.3",
+            "version": "fabric-1.21-1.4.3",
             "source": "modrinth",
             "location": "sound-physics-remastered",
             "authors": [
