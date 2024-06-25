@@ -28,7 +28,7 @@
                 }
             ]
         },
-{
+        {
             "name": "Replay Mod",
             "version": "1.20.2-2.6.15",
             "source": "modrinth",
@@ -1417,6 +1417,10 @@
             "id": "bobby-file"
         },
         {
+            "location": "ffmpeg-7.0-essentials_build",
+            "id": "ffmpeg"
+        },
+        {
             "location": "config"
         },
         {
@@ -1466,6 +1470,12 @@
         {
             "id": "bobby-file",
             "name": "bobby-file",
+            "default": true,
+            "hidden": true
+        },
+        {
+            "id": "ffmpeg",
+            "name": "ffmpeg",
             "default": true,
             "hidden": true
         },
