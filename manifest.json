@@ -17,18 +17,6 @@
     },
     "mods": [
         {
-            "name": "Not Enough Animations",
-            "version": "1.7.4-1.21",
-            "source": "modrinth",
-            "location": "not-enough-animations",
-            "authors": [
-                {
-                    "name": "tr7zw",
-                    "link": "https://modrinth.com/user/tr7zw"
-                }
-            ]
-        },
-        {
             "name": "AmbientSounds",
             "version": "6.0.2",
             "source": "modrinth",
