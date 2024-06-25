@@ -2,12 +2,12 @@
     "manifest_version": 3,
     "modpack_version": "0.6.9",
     "name": "Majestic Overhaul",
-    "subtitle": "Immersive LITE",
+    "subtitle": "Creator LITE",
     "description": "<p style=\"font-size: 1.4em;margin-top: 0;\">Optional mods:</p>",
-    "tab_group": 1,
-    "tab_title": "LITE",
+    "tab_group": 3,
+    "tab_title": "Creator",
     "icon": true,
-    "uuid": "9b0fc21445194870907848be1b4a6cb8",
+    "uuid": "f5b52fd36fe146f7aa1636cfd3a1e8c4",
     "max_mem": 4096,
     "java_args": "-XX:+UnlockExperimentalVMOptions -XX:+UseG1GC -XX:G1NewSizePercent=20 -XX:G1ReservePercent=20 -XX:MaxGCPauseMillis=50 -XX:G1HeapRegionSize=32M",
     "loader": {
@@ -25,6 +25,18 @@
                 {
                     "name": "modmuss50",
                     "link": "https://modrinth.com/user/modmuss50"
+                }
+            ]
+        },
+{
+            "name": "Replay Mod",
+            "version": "1.20.2-2.6.15",
+            "source": "modrinth",
+            "location": "replaymod",
+            "authors": [
+                {
+                    "name": "Johni0702",
+                    "link": "https://modrinth.com/user/Johni0702"
                 }
             ]
         },
