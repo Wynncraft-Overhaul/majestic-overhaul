@@ -1256,10 +1256,6 @@
             "location": "config"
         },
         {
-            "location": "options.txt",
-            "id": "options-txt"
-        },
-        {
             "location": "shaderpacks/ComplementaryUnbound_r5.1.1.zip.txt"
         },
         {
@@ -1328,12 +1324,6 @@
             "name": "Weapon Packs",
             "default": true,
             "description": "[-FPS] Adds custom item models for many weapons"
-        },
-        {
-            "id": "options-txt",
-            "name": "options-txt",
-            "default": true,
-            "hidden": true
         }
     ]
 }
