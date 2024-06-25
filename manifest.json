@@ -54,7 +54,7 @@
         },
         {
             "name": "BetterThirdPerson",
-            "version": "1.21 - 1.9.0",
+            "version": "1.9.0",
             "source": "modrinth",
             "location": "better-third-person",
             "authors": [
@@ -90,7 +90,7 @@
         },
         {
             "name": "CICADA",
-            "version": "0.8.0",
+            "version": "0.8.0+1.21-and-above",
             "source": "modrinth",
             "location": "cicada",
             "authors": [
