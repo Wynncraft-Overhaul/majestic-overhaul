@@ -161,6 +161,18 @@
             ]
         },
         {
+            "name": "Distant Horizons",
+            "version": "1.21",
+            "source": "ddl",
+            "location": "https://drive.usercontent.google.com/download?id=1mc5OfdKNCfWLIzvaPdrKg_qOCpuxOx2s&export=download&authuser=0&confirm=t&uuid=bd4c9ee3-fd8f-4151-ad11-8d64633101b8&at=APZUnTW1-TJTwY_yhOSYnapQ1N7v:1719334938679",
+            "authors": [
+                {
+                    "name": "jeseibel",
+                    "link": "https://modrinth.com/user/jeseibel"
+                }
+            ]
+        },
+        {
             "name": "Dynamic Crosshair",
             "version": "8.0.1",
             "source": "modrinth",
