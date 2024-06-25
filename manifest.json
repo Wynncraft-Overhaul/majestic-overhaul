@@ -4,6 +4,8 @@
     "name": "Majestic Overhaul Performance Pack",
     "subtitle": "Performance Pack",
     "description": "<p style=\"font-size: 1.4em;margin-top: 0;\">Optional mods:</p>",
+    "tab_group": 0,
+    "tab_title": "Home",
     "icon": true,
     "uuid": "386ca262f03a453082bdbf71cd7b72ab",
     "max_mem": 4096,
