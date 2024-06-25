@@ -114,7 +114,7 @@
         },
         {
             "name": "Cloth Config API",
-            "version": "v15.0.127",
+            "version": "15.0.127+fabric",
             "source": "modrinth",
             "location": "cloth-config",
             "authors": [
@@ -126,7 +126,7 @@
         },
         {
             "name": "Architectury API",
-            "version": "v13.0.1",
+            "version": "13.0.2+fabric",
             "source": "modrinth",
             "location": "architectury-api",
             "authors": [
@@ -174,7 +174,7 @@
         },
         {
             "name": "Dynamic Crosshair",
-            "version": "8.0.1",
+            "version": "8.0.2+1.21-fabric",
             "source": "modrinth",
             "location": "dynamiccrosshair",
             "authors": [
@@ -186,7 +186,7 @@
         },
         {
             "name": "Enhanced Block Entities",
-            "version": "v0.10.1",
+            "version": "0.10.1+1.21",
             "source": "modrinth",
             "location": "ebe",
             "authors": [
@@ -210,7 +210,7 @@
         },
         {
             "name": "Entity Texture Features",
-            "version": "6.1.1",
+            "version": "6.1.2",
             "source": "modrinth",
             "location": "entitytexturefeatures",
             "authors": [
