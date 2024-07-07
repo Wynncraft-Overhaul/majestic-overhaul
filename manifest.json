@@ -6,6 +6,7 @@
     "description": "<p style=\"font-size: 1.4em;margin-top: 0;\">Nothing immersive just FPS boosts</p>",
     "tab_group": 0,
     "tab_title": "Home",
+    "tab_background": "https://ibb.co/bmMDkCJ",
     "icon": true,
     "uuid": "386ca262f03a453082bdbf71cd7b72ab",
     "max_mem": 4096,
