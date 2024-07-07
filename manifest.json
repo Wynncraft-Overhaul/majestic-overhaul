@@ -6,6 +6,7 @@
     "description": "<p style=\"font-size: 1.4em;margin-top: 0;\">BETA pack for 1.21</p>",
     "tab_group": 3,
     "tab_title": "BETA",
+    "tab_background": "https://i.ibb.co/Sfw99YQ/back-1.png",
     "popup_title": "WARNING",
     "popup_contents": "Keep in mind the BETA pack is early stage and very unstable. Crashes are to be expected. Please report issues in our discord!",
     "icon": true,
