@@ -7,7 +7,7 @@
     "tab_group": 2,
     "tab_title": "Creator",
     "tab_background": "https://i.ibb.co/98MFbzB/back-7.png",
-    "tab_color": "136e1b80",
+    "tab_color": "#136e1b80",
     "icon": true,
     "uuid": "f7c357dfc0124809ac459ea3216a600e",
     "max_mem": 4096,
