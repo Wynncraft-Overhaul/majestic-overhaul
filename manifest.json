@@ -47,18 +47,6 @@
             ]
         },
         {
-            "name": "BetterThirdPerson",
-            "version": "1.9.0",
-            "source": "modrinth",
-            "location": "better-third-person",
-            "authors": [
-                {
-                    "name": "socolio",
-                    "link": "https://modrinth.com/user/socolio"
-                }
-            ]
-        },
-        {
             "name": "Bobby",
             "version": "5.2.2+mc1.21",
             "source": "modrinth",
@@ -79,6 +67,18 @@
                 {
                     "name": "caelthecolher",
                     "link": "https://modrinth.com/user/caelthecolher"
+                }
+            ]
+        },
+        {
+            "name": "Chat Animation",
+            "version": "1.0.6",
+            "source": "modrinth",
+            "location": "chatanimation",
+            "authors": [
+                {
+                    "name": "Ezzenix",
+                    "link": "https://modrinth.com/user/Ezzenix"
                 }
             ]
         },
@@ -610,6 +610,19 @@
                 }
             ]
         },
+        {
+            "name": "Wavey Capes",
+            "version": "tz9gWDTQ",
+            "source": "modrinth",
+            "location": "wavey-capes",
+            "authors": [
+                {
+                    "name": "tr7zw",
+                    "link": "https://modrinth.com/user/tr7zw"
+                }
+            ]
+        },
+
         {
             "name": "YetAnotherConfigLib",
             "version": "3.5.0+1.21-fabric",
