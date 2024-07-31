@@ -10,6 +10,7 @@
     "tab_color": "#340f0780",
     "tab_primary_font":"https://raw.githubusercontent.com/Wynncraft-Overhaul/installer/master/src/assets/Wynncraft_Game_Font.woff2",
     "tab_secondary_font":"https://raw.githubusercontent.com/Wynncraft-Overhaul/installer/master/src/assets/Judera-Flat.otf",
+    "settings_background": "https://i.ibb.co/XCzqF7x/back-2.png",
     "popup_title": "WARNING",
     "popup_contents": "Keep in mind the BETA pack is early stage and very unstable. Crashes are to be expected. Please report issues in our discord!",
     "icon": true,
