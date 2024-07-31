@@ -10,6 +10,7 @@
     "tab_color": "#05460b80",
     "tab_primary_font":"https://raw.githubusercontent.com/Wynncraft-Overhaul/installer/master/src/assets/Wynncraft_Game_Font.woff2",
     "tab_secondary_font":"https://raw.githubusercontent.com/Wynncraft-Overhaul/installer/master/src/assets/Judera-Flat.otf",
+    "settings_background": "https://i.ibb.co/XCzqF7x/back-2.png",
     "icon": true,
     "uuid": "f5b52fd36fe146f7aa1636cfd3a1e8c4",
     "max_mem": 4096,
