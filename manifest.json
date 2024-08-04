@@ -120,6 +120,42 @@
             ]
         },
         {
+            "name": "Connectivity",
+            "version": "5.7",
+            "source": "ddl",
+            "location": "https://mediafilez.forgecdn.net/files/5513/991/connectivity-fabric-1.21-5.7.jar",
+            "authors": [
+                {
+                    "name": "someaddon",
+                    "link": "https://www.curseforge.com/members/someaddon"
+                }
+            ]
+        },
+        {
+            "name": "Cull Leaves",
+            "version": "3.4.0",
+            "source": "ddl",
+            "location": "https://mediafilez.forgecdn.net/files/5441/879/cullleaves-fabric-3.4.0.jar",
+            "authors": [
+                {
+                    "name": "motschen",
+                    "link": "https://www.curseforge.com/members/motschen"
+                }
+            ]
+        },
+        {
+            "name": "Custom Splash Screen",
+            "version": "2.2.0",
+            "source": "ddl",
+            "location": "https://mediafilez.forgecdn.net/files/5437/540/customsplashscreen-2.2.0.jar",
+            "authors": [
+                {
+                    "name": "motschen",
+                    "link": "https://www.curseforge.com/members/motschen"
+                }
+            ]
+        },
+        {
             "name": "Architectury API",
             "version": "13.0.2+fabric",
             "source": "modrinth",
@@ -444,6 +480,18 @@
             ]
         },
         {
+            "name": "Nicer Skies",
+            "version": "1.4.0",
+            "source": "ddl",
+            "location": "https://mediafilez.forgecdn.net/files/5524/358/nicer-skies-1.4.0%2B1.21.jar",
+            "authors": [
+                {
+                    "name": "Ztereohype",
+                    "link": "https://www.curseforge.com/members/ztereohype"
+                }
+            ]
+        },
+        {
             "name": "No Resource Pack Warnings",
             "version": "1.3.0",
             "source": "modrinth",
@@ -624,6 +672,18 @@
             ]
         },
         {
+            "name": "Wakes",
+            "version": "0.2.5",
+            "source": "ddl",
+            "location": "https://mediafilez.forgecdn.net/files/5519/566/wakes-0.2.5%2B1.21.jar",
+            "authors": [
+                {
+                    "name": "goby56",
+                    "link": "https://www.curseforge.com/members/goby56"
+                }
+            ]
+        },
+        {
             "name": "Wavey Capes",
             "version": "1.48-1.21",
             "source": "ddl",
@@ -635,7 +695,6 @@
                 }
             ]
         },
-
         {
             "name": "YetAnotherConfigLib",
             "version": "3.5.0+1.21-fabric",
