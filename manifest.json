@@ -780,6 +780,18 @@
             ]
         },
         {
+            "name": "Your Options Shall Be Respected",
+            "version": "0.1.2",
+            "source": "modrinth",
+            "location": "yosbr",
+            "authors": [
+                {
+                    "name": "shedaniel",
+                    "link": "https://modrinth.com/user/shedaniel"
+                }
+            ]
+        },
+        {
             "name": "YetAnotherConfigLib",
             "version": "3.5.0+1.21-fabric",
             "source": "modrinth",
