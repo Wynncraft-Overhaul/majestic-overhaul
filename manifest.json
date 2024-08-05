@@ -155,15 +155,27 @@
                 }
             ]
         },
-        {
-            "name": "Custom Splash Screen",
-            "version": "2.2.0",
+{
+            "name": "Celestial Configuration",
+            "version": "1.1.1",
             "source": "ddl",
-            "location": "https://mediafilez.forgecdn.net/files/5437/540/customsplashscreen-2.2.0.jar",
+            "location": "https://mediafilez.forgecdn.net/files/5504/563/Celestial%20Configuration-fabric-1.21-1.1.1.jar",
             "authors": [
                 {
-                    "name": "motschen",
-                    "link": "https://www.curseforge.com/members/motschen"
+                    "name": "infernalstudios",
+                    "link": "https://www.curseforge.com/members/infernalstudios"
+                }
+            ]
+        },
+        {
+            "name": "Cupboard",
+            "version": "2.7",
+            "source": "ddl",
+            "location": "https://mediafilez.forgecdn.net/files/5477/517/cupboardfabric-1.21-2.7.jar",
+            "authors": [
+                {
+                    "name": "someaddon",
+                    "link": "https://www.curseforge.com/members/someaddon"
                 }
             ]
         },
