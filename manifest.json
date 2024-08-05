@@ -205,9 +205,9 @@
         },
         {
             "name": "Distant Horizons",
-            "version": "1.21",
-            "source": "ddl",
-            "location": "https://drive.usercontent.google.com/download?id=1mc5OfdKNCfWLIzvaPdrKg_qOCpuxOx2s",
+            "version": "2.1.2-a-1.21",
+            "source": "modrinth",
+            "location": "distanthorizons",
             "authors": [
                 {
                     "name": "jeseibel",
