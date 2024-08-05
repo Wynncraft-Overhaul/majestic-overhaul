@@ -276,7 +276,7 @@
             ]
         },
         {
-            "name": "Enitity View Distance",
+            "name": "Entity View Distance",
             "version": "1.3.0+1.21",
             "source": "modrinth",
             "location": "entity-view-distance",
@@ -286,6 +286,23 @@
                     "link": "https://modrinth.com/user/Patbox"
                 }
             ]
+        },
+        {
+            "name": "Euphoria Patches",
+            "version": "0.3.4-fabric",
+            "source": "modrinth",
+            "location": "euphoria-patches",
+            "authors": [
+                {
+                    "name": "SpacEagle17",
+                    "link": "https://modrinth.com/user/SpacEagle17"
+                },
+                {
+                    "name": "isuewo",
+                    "link": "https://modrinth.com/user/isuewo"
+                }
+            ],
+            "id": "euphoria-patches"
         },
         {
             "name": "Fabric API",
