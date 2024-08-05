@@ -904,7 +904,21 @@
             ]
         }
     ],
-    "shaderpacks": [],
+    "shaderpacks": [
+        {
+            "name": "Complementary Unbound",
+            "version": "r5.2.2",
+            "source": "modrinth",
+            "location": "complementary-unbound",
+            "authors": [
+                {
+                    "name": "EminGT",
+                    "link": "https://modrinth.com/user/EminGT"
+                }
+            ]
+        }
+    ],
+    ],
     "include": [
         {
             "location": "resourcepacks/KiosWynnModels-Archangel.zip",
