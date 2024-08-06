@@ -1034,8 +1034,8 @@
         {
             "name": "Weather Changer",
             "version": "1.0.1",
-            "source": "modrinth",
-            "location": "weather-changer",
+            "source": "ddl",
+            "location": "https://mediafilez.forgecdn.net/files/5303/625/weather-changer-fabric-1.0.1.jar",
             "authors": [
                 {
                     "name": "Lucaslah",
