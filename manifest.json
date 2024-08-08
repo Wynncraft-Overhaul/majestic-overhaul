@@ -1,6 +1,6 @@
 {
     "manifest_version": 3,
-    "modpack_version": "0.7.2",
+    "modpack_version": "0.7.3",
     "name": "Majestic Beta Pack",
     "subtitle": "BETA PACK",
     "description": "<p style=\"font-size: 1.4em;margin-top: 0;\">BETA pack for 1.21</p>",
@@ -24,6 +24,18 @@
     },
     "mods": [
         {
+            "name": "3D Skin Layers",
+            "version": "1.6.6",
+            "source": "modrinth",
+            "location": "3dskinlayers",
+            "authors": [
+                {
+                    "name": "tr7zw",
+                    "link": "https://modrinth.com/user/tr7zw"
+                }
+            ]
+        },
+        {
             "name": "AmbientSounds",
             "version": "6.0.2",
             "source": "modrinth",
@@ -34,6 +46,31 @@
                     "link": "https://modrinth.com/user/creativemd"
                 }
             ]
+        },
+        {
+            "name": "Architectury API",
+            "version": "13.0.2+fabric",
+            "source": "modrinth",
+            "location": "architectury-api",
+            "authors": [
+                {
+                    "name": "MaxNeedsSnacks",
+                    "link": "https://modrinth.com/user/MaxNeedsSnacks"
+                }
+            ]
+        },
+        {
+            "name": "AutoHUD",
+            "version": "7.2.1+1.21-fabric",
+            "source": "modrinth",
+            "location": "autohud",
+            "authors": [
+                {
+                    "name": "Crendgrim",
+                    "link": "https://modrinth.com/user/Crendgrim"
+                },
+            ],
+            "id": "autohud"
         },
         {
             "name": "Barrier's Don't Block Rain",
@@ -64,6 +101,18 @@
             ]
         },
         {
+            "name": "Better FPS Render Distance",
+            "version": "1.21-4.3",
+            "source": "ddl",
+            "location": "https://mediafilez.forgecdn.net/files/5483/334/betterfpsdist-fabric-1.21-4.3.jar",
+            "authors": [
+                {
+                    "name": "someaddon",
+                    "link": "https://www.curseforge.com/members/someaddon"
+                }
+            ]
+        },
+        {
             "name": "Bobby",
             "version": "5.2.2+mc1.21",
             "source": "modrinth",
@@ -72,6 +121,18 @@
                 {
                     "name": "Johni0702",
                     "link": "https://modrinth.com/user/Johni0702"
+                }
+            ]
+        },
+        {
+            "name": "C2ME",
+            "version": "0.2.0+alpha.11.107+1.21",
+            "source": "modrinth",
+            "location": "c2me-fabric",
+            "authors": [
+                {
+                    "name": "ishland",
+                    "link": "https://modrinth.com/user/ishland"
                 }
             ]
         },
@@ -160,6 +221,18 @@
             ]
         },
         {
+            "name": "Controlling",
+            "version": "18.0.4",
+            "source": "modrinth",
+            "location": "controlling",
+            "authors": [
+                {
+                    "name": "jaredlll08",
+                    "link": "https://modrinth.com/user/jaredlll08"
+                }
+            ]
+        },
+        {
             "name": "Cull Leaves",
             "version": "3.4.0",
             "source": "ddl",
@@ -196,14 +269,14 @@
             ]
         },
         {
-            "name": "Architectury API",
-            "version": "13.0.2+fabric",
+            "name": "Custom Splash Screen",
+            "version": "2.2.0",
             "source": "modrinth",
-            "location": "architectury-api",
+            "location": "custom-splash-screen",
             "authors": [
                 {
-                    "name": "MaxNeedsSnacks",
-                    "link": "https://modrinth.com/user/MaxNeedsSnacks"
+                    "name": "Motschen",
+                    "link": "https://modrinth.com/user/Motschen"
                 }
             ]
         },
@@ -232,6 +305,18 @@
             ]
         },
         {
+            "name": "Debugify",
+            "version": "1.21+1.0",
+            "source": "modrinth",
+            "location": "debugify",
+            "authors": [
+                {
+                    "name": "isxander",
+                    "link": "https://modrinth.com/user/isxander"
+                }
+            ]
+        },
+        {
             "name": "Distant Horizons",
             "version": "2.1.2-a-1.21",
             "source": "modrinth",
@@ -241,7 +326,8 @@
                     "name": "jeseibel",
                     "link": "https://modrinth.com/user/jeseibel"
                 }
-            ]
+            ],
+                "id": "dh"
         },
         {
             "name": "Dynamic Crosshair",
@@ -501,6 +587,18 @@
             ]
         },
         {
+            "name": "Logical Zoom",
+            "version": "0.0.25",
+            "source": "modrinth",
+            "location": "logical-zoom",
+            "authors": [
+                {
+                    "name": "LogicalGeekBoy",
+                    "link": "https://modrinth.com/user/LogicalGeekBoy"
+                }
+            ]
+        },
+        {
             "name": "MacOS Input Fixes",
             "version": "1.7",
             "source": "modrinth",
@@ -585,6 +683,18 @@
             ]
         },
         {
+            "name": "MRU",
+            "version": "0.4.4+1.21",
+            "source": "modrinth",
+            "location": "mru",
+            "authors": [
+                {
+                    "name": "mineblock11",
+                    "link": "https://modrinth.com/user/mineblock11"
+                }
+            ]
+        },
+        {
             "name": "Nicer Skies",
             "version": "1.4.0",
             "source": "ddl",
@@ -633,6 +743,18 @@
             ]
         },
         {
+            "name": "Nvidium",
+            "version": "0.2.9-beta",
+            "source": "modrinth",
+            "location": "nvidium",
+            "authors": [
+                {
+                    "name": "cortex",
+                    "link": "https://modrinth.com/user/cortex"
+                }
+            ]
+        },
+        {
             "name": "oωo (owo-lib)",
             "version": "0.12.10+1.21",
             "source": "modrinth",
@@ -641,6 +763,18 @@
                 {
                     "name": "glisco",
                     "link": "https://modrinth.com/user/glisco"
+                }
+            ]
+        },
+        {
+            "name": "Particle Rain",
+            "version": "2.1.2",
+            "source": "modrinth",
+            "location": "particle-rain",
+            "authors": [
+                {
+                    "name": "PigCart",
+                    "link": "https://modrinth.com/user/PigCart"
                 }
             ]
         },
@@ -693,6 +827,42 @@
             ]
         },
         {
+            "name": "Remove HUD",
+            "version": "1.3b5",
+            "source": "modrinth",
+            "location": "removehud",
+            "authors": [
+                {
+                    "name": "IzzyDotExe",
+                    "link": "https://modrinth.com/user/IzzyDotExe"
+                }
+            ]
+        },
+        {
+            "name": "ScalableLux",
+            "version": "0.1.0+rc.1+fabric.43c9882",
+            "source": "modrinth",
+            "location": "scalablelux",
+            "authors": [
+                {
+                    "name": "ishland",
+                    "link": "https://modrinth.com/user/ishland"
+                }
+            ]
+        },
+        {
+            "name": "Show Me Your Skin",
+            "version": "1.11.2+1.21",
+            "source": "modrinth",
+            "location": "show-me-your-skin",
+            "authors": [
+                {
+                    "name": "enjarai",
+                    "link": "https://modrinth.com/user/enjarai"
+                }
+            ]
+        },
+        {
             "name": "Sodium",
             "version": "mc1.21-0.5.9",
             "source": "modrinth",
@@ -705,8 +875,20 @@
             ]
         },
         {
+            "name": "Sounds",
+            "version": "1.1.3+1.21",
+            "source": "modrinth",
+            "location": "sound",
+            "authors": [
+                {
+                    "name": "mineblock11",
+                    "link": "https://modrinth.com/user/mineblock11"
+                }
+            ]
+        },
+        {
             "name": "Searchables",
-            "version": "1.0.1",
+            "version": "8zrcFuRP",
             "source": "modrinth",
             "location": "searchables",
             "authors": [
@@ -737,18 +919,6 @@
                 {
                     "name": "Exopandora",
                     "link": "https://modrinth.com/user/Exopandora"
-                }
-            ]
-        },
-        {
-            "name": "3D Skin Layers",
-            "version": "1.6.6",
-            "source": "modrinth",
-            "location": "3dskinlayers",
-            "authors": [
-                {
-                    "name": "tr7zw",
-                    "link": "https://modrinth.com/user/tr7zw"
                 }
             ]
         },
@@ -785,6 +955,18 @@
                 {
                     "name": "lucko",
                     "link": "https://modrinth.com/user/lucko"
+                }
+            ]
+        },
+        {
+            "name": "Tiny Item Animations",
+            "version": "1.2",
+            "source": "modrinth",
+            "location": "tiny-item-animations",
+            "authors": [
+                {
+                    "name": "Trivaxy",
+                    "link": "https://modrinth.com/user/Trivaxy"
                 }
             ]
         },
@@ -849,6 +1031,19 @@
             ]
         },
         {
+            "name": "Voices of Wynn",
+            "version": "0.3.4-fabric",
+            "source": "ddl",
+            "location": "https://mediafilez.forgecdn.net/files/5508/422/VoicesOfWynn-MC1.21-v1.8.2.jar",
+            "authors": [
+                {
+                    "name": "Kmaxi",
+                    "link": "https://www.curseforge.com/members/kmaxii"
+                }
+            ],
+            "id": "vow"
+        },
+        {
             "name": "Wakes",
             "version": "0.2.5",
             "source": "ddl",
@@ -905,6 +1100,18 @@
                 {
                     "name": "commander",
                     "link": "https://modrinth.com/user/commander"
+                }
+            ]
+        },
+        {
+            "name": "YDM's Weapon Master",
+            "version": "1.21+fabric+4.2.6",
+            "source": "modrinth",
+            "location": "weaponmaster",
+            "authors": [
+                {
+                    "name": "YourDailyModder",
+                    "link": "https://modrinth.com/user/YourDailyModder"
                 }
             ]
         },
@@ -1128,6 +1335,12 @@
             "name": "bobby-file",
             "default": true,
             "hidden": true
+        },
+        {
+            "id": "dh",
+            "name": "Distant Horizons",
+            "default": true,
+            "description": "[-FPS] Adds Higher Render Distance via LODs"
         },
         {
             "id": "euphoria-patches",
