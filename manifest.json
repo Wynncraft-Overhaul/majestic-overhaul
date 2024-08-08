@@ -1,6 +1,6 @@
 {
     "manifest_version": 3,
-    "modpack_version": "0.7.1",
+    "modpack_version": "0.7.2",
     "name": "Majestic Beta Pack",
     "subtitle": "BETA PACK",
     "description": "<p style=\"font-size: 1.4em;margin-top: 0;\">BETA pack for 1.21</p>",
@@ -621,6 +621,18 @@
             ]
         },
         {
+            "name": "Notifier",
+            "version": "1.2.0-1.21",
+            "source": "ddl",
+            "location": "https://github.com/Wynncraft-Overhaul/notifier/releases/download/1.2.0-1.21/notifier-1.2.0-1.21.jar",
+            "authors": [
+                {
+                    "name": "commander",
+                    "link": "https://modrinth.com/user/commander"
+                }
+            ]
+        },
+        {
             "name": "oωo (owo-lib)",
             "version": "0.12.10+1.21",
             "source": "modrinth",
@@ -701,6 +713,18 @@
                 {
                     "name": "jaredlll08",
                     "link": "https://modrinth.com/user/jaredlll08"
+                }
+            ]
+        },
+        {
+            "name": "Server Pack Priority",
+            "version": "1.0.2-1.21",
+            "source": "ddl",
+            "location": "https://github.com/Commander07/Serverpack-Priority/releases/download/1.0.2-1.21/serverpack-priority-1.0.2-1.21.jar",
+            "authors": [
+                {
+                    "name": "commander",
+                    "link": "https://modrinth.com/user/commander"
                 }
             ]
         },
@@ -857,6 +881,30 @@
                 {
                     "name": "wynntils",
                     "link": "https://modrinth.com/organization/wynntils"
+                }
+            ]
+        },
+        {
+            "name": "Wynntils Config Share",
+            "version": "1.0.0-1.21",
+            "source": "ddl",
+            "location": "https://github.com/Commander07/Wynntils-Config-Sharing/releases/download/1.0.0-1.21/wynntils-config-sharing-1.0.0-1.21.jar",
+            "authors": [
+                {
+                    "name": "commander",
+                    "link": "https://modrinth.com/user/commander"
+                }
+            ]
+        },
+        {
+            "name": "Wynn Quester",
+            "version": "1.0.0-1.21",
+            "source": "ddl",
+            "location": "https://github.com/Wynncraft-Overhaul/Wynn-Quester/releases/download/1.0.0-1.21/wynn-quester-1.0.0-1.21.jar",
+            "authors": [
+                {
+                    "name": "commander",
+                    "link": "https://modrinth.com/user/commander"
                 }
             ]
         },
