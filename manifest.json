@@ -172,18 +172,6 @@
             ]
         },
         {
-            "name": "Cull Particles",
-            "version": "1.1",
-            "source": "ddl",
-            "location": "https://github.com/Commander07/CullParticlesFabric/releases/download/1.1/cullparticles-1.1_1.19.3-1.19.4.jar",
-            "authors": [
-                {
-                    "name": "tfarecnim",
-                    "link": "https://legacy.curseforge.com/members/tfarecnim"
-                }
-            ]
-        },
-        {
             "name": "Celestial Configuration",
             "version": "1.1.1",
             "source": "ddl",
