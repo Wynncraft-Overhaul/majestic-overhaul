@@ -851,6 +851,18 @@
             ]
         },
         {
+            "name": "Smooth Swapping",
+            "version": "1.10.0-1.21-fabric",
+            "source": "ddl",
+            "location": "https://github.com/YoungSoulluoS/Smooth-Swapping-1.20.4-Port/releases/download/1.21-Fabric/smoothswapping-0.10.0-1.21-fabric.jar",
+            "authors": [
+                {
+                    "name": "YoungSoulluoS",
+                    "link": "https://github.com/YoungSoulluoS"
+                }
+            ]
+        },
+        {
             "name": "Show Me Your Skin",
             "version": "1.11.2+1.21",
             "source": "modrinth",
@@ -1100,6 +1112,18 @@
                 {
                     "name": "commander",
                     "link": "https://modrinth.com/user/commander"
+                }
+            ]
+        },
+        {
+            "name": "Weather Changer",
+            "version": "1.1.0",
+            "source": "modrinth",
+            "location": "weather-changer",
+            "authors": [
+                {
+                    "name": "Lucaslah",
+                    "link": "https://modrinth.com/user/Lucaslah"
                 }
             ]
         },
