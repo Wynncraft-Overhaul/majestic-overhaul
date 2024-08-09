@@ -8,8 +8,8 @@
     "tab_title": "BETA",
     "tab_background": "https://i.ibb.co/SNQtCDC/back-8.png",
     "tab_color": "#340f0780",
-    "tab_primary_font":"https://raw.githubusercontent.com/Wynncraft-Overhaul/installer/master/src/assets/Wynncraft_Game_Font.woff2",
-    "tab_secondary_font":"https://raw.githubusercontent.com/Wynncraft-Overhaul/installer/master/src/assets/Judera-Flat.otf",
+    "tab_primary_font": "https://raw.githubusercontent.com/Wynncraft-Overhaul/installer/master/src/assets/Wynncraft_Game_Font.woff2",
+    "tab_secondary_font": "https://raw.githubusercontent.com/Wynncraft-Overhaul/installer/master/src/assets/Judera-Flat.otf",
     "settings_background": "https://i.ibb.co/XCzqF7x/back-2.png",
     "popup_title": "WARNING",
     "popup_contents": "Keep in mind the BETA pack is early stage and very unstable. Crashes are to be expected. Please report issues in our discord!",
@@ -327,7 +327,7 @@
                     "link": "https://modrinth.com/user/jeseibel"
                 }
             ],
-                "id": "dh"
+            "id": "dh"
         },
         {
             "name": "Dynamic Crosshair",
@@ -1306,6 +1306,10 @@
         {
             "location": ".bobby",
             "id": "bobby-file"
+        },
+        {
+            "location": "Distant_Horizons_server_data",
+            "id": "dh"
         },
         {
             "location": "config"
