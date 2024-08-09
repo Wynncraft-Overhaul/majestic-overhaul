@@ -900,9 +900,9 @@
         },
         {
             "name": "Searchables",
-            "version": "8zrcFuRP",
-            "source": "modrinth",
-            "location": "searchables",
+            "version": "1.0.5",
+            "source": "ddl",
+            "location": "https://mediafilez.forgecdn.net/files/5603/157/Searchables-fabric-1.21-1.0.5.jar",
             "authors": [
                 {
                     "name": "jaredlll08",
