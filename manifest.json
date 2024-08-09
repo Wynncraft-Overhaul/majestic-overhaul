@@ -419,6 +419,19 @@
             "id": "euphoria-patches"
         },
         {
+            "name": "First Person Model",
+            "version": "PxI34t92",
+            "source": "modrinth",
+            "location": "first-person-model",
+            "authors": [
+                {
+                    "name": "tr7zw",
+                    "link": "https://modrinth.com/user/tr7zw"
+                }
+            ],
+            "id": "first-person-model"
+        },
+        {
             "name": "Fabric API",
             "version": "0.100.3+1.21",
             "source": "modrinth",
