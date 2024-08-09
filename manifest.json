@@ -564,18 +564,6 @@
             ]
         },
         {
-            "name": "Wynntils",
-            "version": "v1.2.1",
-            "source": "modrinth",
-            "location": "wynntils",
-            "authors": [
-                {
-                    "name": "DevScyu",
-                    "link": "https://modrinth.com/user/DevScyu"
-                }
-            ]
-        },
-        {
             "name": "Tiny Item Animations",
             "version": "1.20-1.1",
             "source": "modrinth",
@@ -1197,18 +1185,6 @@
                 {
                     "name": "LogicalGeekBoy",
                     "link": "https://modrinth.com/user/LogicalGeekBoy"
-                }
-            ]
-        },
-        {
-            "name": "Wynntils Config Sharing",
-            "version": "1.0.0",
-            "source": "ddl",
-            "location": "https://github.com/Commander07/Wynntils-Config-Sharing/releases/download/1.0.0/wynntils-config-sharing-1.0.0.jar",
-            "authors": [
-                {
-                    "name": "Commander",
-                    "link": "https://modrinth.com/user/commander"
                 }
             ]
         },
