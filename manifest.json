@@ -8,8 +8,8 @@
     "tab_title": "LITE",
     "tab_background": "https://i.ibb.co/5cLG6HP/back-9.png",
     "tab_color": "#ba640380",
-    "tab_primary_font":"https://raw.githubusercontent.com/Wynncraft-Overhaul/installer/master/src/assets/Wynncraft_Game_Font.woff2",
-    "tab_secondary_font":"https://raw.githubusercontent.com/Wynncraft-Overhaul/installer/master/src/assets/Judera-Flat.otf",
+    "tab_primary_font": "https://raw.githubusercontent.com/Wynncraft-Overhaul/installer/master/src/assets/Wynncraft_Game_Font.woff2",
+    "tab_secondary_font": "https://raw.githubusercontent.com/Wynncraft-Overhaul/installer/master/src/assets/Judera-Flat.otf",
     "settings_background": "https://i.ibb.co/XCzqF7x/back-2.png",
     "icon": true,
     "uuid": "9b0fc21445194870907848be1b4a6cb8",
@@ -1155,6 +1155,14 @@
             ]
         }
     ],
+    "remote_include": [
+        {
+            "location": "https://drive.usercontent.google.com/download?id=17jH6C3d9hcEjIUSklZaAsuMDokTJ4pr7&confirm=t",
+            "id": "dh",
+            "path": "Distant_Horizons_server_data",
+            "version": "2.1"
+        }
+    ],
     "include": [
         {
             "location": "resourcepacks/KiosWynnModels-Archangel.zip",
@@ -1183,10 +1191,6 @@
         {
             "location": ".bobby",
             "id": "bobby-file"
-        },
-        {
-            "location": "Distant_Horizons_server_data",
-            "id": "dh"
         },
         {
             "location": "config"
