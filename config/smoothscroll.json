@@ -1,0 +1,8 @@
+{
+  "note": "Safe values for settings are 0 - 1 (inclusive). 0 means animation off (infinite speed) and bigger values mean slower speed (up to 1).",
+  "hotbarSpeed": 0.2,
+  "chatSpeed": 0.5,
+  "creativeScreenSpeed": 0.334,
+  "entryListSpeed": 0.334,
+  "cfgVersion": 1.6
+}

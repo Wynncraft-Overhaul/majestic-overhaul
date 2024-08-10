@@ -33,7 +33,7 @@ damageTiltStrength:1.0
 highContrast:false
 narratorHotkey:true
 gamma:1.0
-renderDistance:12
+renderDistance:16
 simulationDistance:12
 entityDistanceScaling:1.0
 guiScale:2
@@ -44,7 +44,7 @@ ao:true
 prioritizeChunkUpdates:0
 biomeBlendRadius:1
 renderClouds:"true"
-resourcePacks:["vanilla","fabric","server","file/Wynncraft_Overhaul_Panorama.zip","file/Wynnic_Mobs_Overwrite.zip","file/Fungal Pack 3.0 ORCHESTRA.zip"]
+resourcePacks:["vanilla","fabric","server","presencefootsteps:default_sound_pack","file/Wynncraft_Overhaul_Panorama.zip","file/Wynnic_Landscapes_Remastered.zip","file/cubic-sun-moon-v1-7a.zip","file/.§6Wynnic §eDonjons v1.2 §7CITR.zip","file/.§3Wynnic §bFables \u0026 Legends v1.8 §7CITR.zip","file/QuietThunder.zip","file/KiosWynnModels-Archangel.zip","file/Fungal Pack 3.0 ORCHESTRA.zip","file/FreshAnimations_v1.9.zip","file/Better-Leaves-7.2-1.19+.zip","file/Water%2BImproved.zip","file/Wynnic_Mobs_Overwrite.zip","file/Eyeless%20Fresh%20Moves%20v3.0.1.zip"]
 incompatibleResourcePacks:[]
 lastServer:
 lang:en_us

@@ -1,0 +1,140 @@
+{
+	"dynamicCrosshair": "Advanced",
+	"disableDebugCrosshair": false,
+	"thirdPersonCrosshair": true,
+	"hideWithScreen": true,
+	"crosshairConfig": {
+		"onBlock": "IfTargeting",
+		"onEntity": true,
+		"holdingTool": "IfTargeting",
+		"holdingMeleeWeapon": true,
+		"meleeWeaponOnEntity": false,
+		"meleeWeaponOnBreakableBlock": false,
+		"holdingRangedWeapon": "IfInteractable",
+		"holdingThrowable": "IfInteractable",
+		"holdingShield": false,
+		"holdingBlock": "IfInteractable",
+		"holdingUsableItem": "Disabled",
+		"forceHoldingSpyglass": false
+	},
+	"color": {
+		"crosshairColor": "Unchanged",
+		"customColor": -5588020,
+		"forceColor": false
+	},
+	"dynamicCrosshairStyle": false,
+	"crosshairStyle": {
+		"regular": {
+			"style": "Circle",
+			"color": {
+				"crosshairColor": "Unchanged",
+				"customColor": -5588020,
+				"forceColor": false
+			}
+		},
+		"onBlock": {
+			"style": "Default",
+			"color": {
+				"crosshairColor": "Unchanged",
+				"customColor": -5588020,
+				"forceColor": false
+			}
+		},
+		"onEntity": {
+			"style": "DiagonalCross",
+			"color": {
+				"crosshairColor": "Unchanged",
+				"customColor": -5588020,
+				"forceColor": false
+			}
+		},
+		"holdingTool": {
+			"style": "Default",
+			"color": {
+				"crosshairColor": "Unchanged",
+				"customColor": -5588020,
+				"forceColor": false
+			}
+		},
+		"holdingMeleeWeapon": {
+			"style": "Default",
+			"color": {
+				"crosshairColor": "Unchanged",
+				"customColor": -5588020,
+				"forceColor": false
+			}
+		},
+		"holdingRangedWeapon": {
+			"style": "Default",
+			"color": {
+				"crosshairColor": "Unchanged",
+				"customColor": -5588020,
+				"forceColor": false
+			}
+		},
+		"holdingThrowable": {
+			"style": "Default",
+			"color": {
+				"crosshairColor": "Unchanged",
+				"customColor": -5588020,
+				"forceColor": false
+			}
+		},
+		"holdingBlock": {
+			"style": "Default",
+			"color": {
+				"crosshairColor": "Unchanged",
+				"customColor": -5588020,
+				"forceColor": false
+			}
+		}
+	},
+	"crosshairModifiers": {
+		"modInteractable": {
+			"style": "DiagonalCross",
+			"color": {
+				"crosshairColor": "Unchanged",
+				"customColor": -5588020,
+				"forceColor": false
+			}
+		},
+		"modUsableItem": {
+			"style": "Dot",
+			"color": {
+				"crosshairColor": "Unchanged",
+				"customColor": -5588020,
+				"forceColor": false
+			}
+		},
+		"modShield": {
+			"style": "Brackets",
+			"color": {
+				"crosshairColor": "Unchanged",
+				"customColor": -5588020,
+				"forceColor": false
+			}
+		},
+		"modCorrectTool": {
+			"style": "Dot",
+			"color": {
+				"crosshairColor": "Unchanged",
+				"customColor": -5588020,
+				"forceColor": false
+			}
+		},
+		"modIncorrectTool": {
+			"style": "RoundBrackets",
+			"color": {
+				"crosshairColor": "Unchanged",
+				"customColor": -5588020,
+				"forceColor": false
+			}
+		}
+	},
+	"enableTweaks": false,
+	"additionalTools": [],
+	"additionalMeleeWeapons": [],
+	"additionalRangedWeapons": [],
+	"additionalThrowables": [],
+	"additionalUsableItems": []
+}

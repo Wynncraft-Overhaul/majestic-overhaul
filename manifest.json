@@ -8,8 +8,8 @@
     "tab_title": "Home",
     "tab_background": "https://i.ibb.co/6vcLRCf/back-6.png",
     "tab_color": "#22063980",
-    "tab_primary_font":"https://raw.githubusercontent.com/Wynncraft-Overhaul/installer/master/src/assets/Wynncraft_Game_Font.woff2",
-    "tab_secondary_font":"https://raw.githubusercontent.com/Wynncraft-Overhaul/installer/master/src/assets/Judera-Flat.otf",
+    "tab_primary_font": "https://raw.githubusercontent.com/Wynncraft-Overhaul/installer/master/src/assets/Wynncraft_Game_Font.woff2",
+    "tab_secondary_font": "https://raw.githubusercontent.com/Wynncraft-Overhaul/installer/master/src/assets/Judera-Flat.otf",
     "settings_background": "https://i.ibb.co/XCzqF7x/back-2.png",
     "icon": true,
     "uuid": "386ca262f03a453082bdbf71cd7b72ab",
@@ -860,6 +860,14 @@
             ]
         }
     ],
+    "remote_include": [
+        {
+            "location": "https://drive.usercontent.google.com/download?id=17jH6C3d9hcEjIUSklZaAsuMDokTJ4pr7&confirm=t",
+            "id": "dh",
+            "path": "Distant_Horizons_server_data",
+            "version": "2.1"
+        }
+    ],
     "include": [
         {
             "location": "resourcepacks/Non_Intrustive_Spells.zip",
@@ -874,10 +882,6 @@
         {
             "location": ".bobby",
             "id": "bobby-file"
-        },
-        {
-            "location": "Distant_Horizons_server_data",
-            "id": "dh"
         },
         {
             "location": "config"

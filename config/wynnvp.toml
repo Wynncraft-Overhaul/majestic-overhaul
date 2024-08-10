@@ -1,0 +1,13 @@
+word = "gzog6zilzq6zxlt"
+hasChosenLineReport = true
+tripleQuestionMarkInessentiel = 1000
+npcFinderThingMaxDistanceChangeBeforeCacheInvalid = 0.5
+playAllSoundsOnPlayer = true
+reportMissingLines = false
+anonymous = false
+sendFunFact = false
+blockCutOff = 32
+highlightSpeaker = false
+logDialogueLines = false
+onlyLogNotPlayingLines = false
+logPlayingInformation = false
