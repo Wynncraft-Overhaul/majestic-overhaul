@@ -22,6 +22,18 @@
     },
     "mods": [
         {
+            "name": "Physicks Mod",
+            "version": "9hVF9EMT",
+            "source": "modrinth",
+            "location": "physicsmod",
+            "authors": [
+                {
+                    "name": "haubna",
+                    "link": "https://modrinth.com/user/haubna"
+                }
+            ]
+        },
+        {
             "name": "3D Skin Layers",
             "version": "1.6.6",
             "source": "modrinth",
