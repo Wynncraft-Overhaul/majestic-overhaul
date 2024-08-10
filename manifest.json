@@ -1279,6 +1279,13 @@
             ]
         }
     ],
+    "remote_include": [
+        {
+            "location": "https://drive.usercontent.google.com/download?id=17jH6C3d9hcEjIUSklZaAsuMDokTJ4pr7&confirm=t",
+            "id": "dh",
+            "path": "Distant_Horizons_server_data"
+        }
+    ],
     "include": [
         {
             "location": "resourcepacks/KiosWynnModels-Archangel.zip",
