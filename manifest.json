@@ -1,6 +1,6 @@
 {
     "manifest_version": 3,
-    "modpack_version": "2.0.1",
+    "modpack_version": "2.0.2",
     "name": "Majestic Content LITE",
     "subtitle": "CREATOR LITE",
     "description": "<p style=\"font-size: 1.4em;margin-top: 0;\">LITE for content creators</p>",
@@ -71,9 +71,9 @@
         },
         {
             "name": "Barrier's Don't Block Rain",
-            "version": "1.0.3",
+            "version": "1.0.5",
             "source": "modrinth",
-            "location": "barriers-dont-block-rain-1.21",
+            "location": "barriers-dont-block-rain",
             "authors": [
                 {
                     "name": "quikjay",
