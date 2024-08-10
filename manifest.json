@@ -983,8 +983,8 @@
         {
             "name": "Wynntils",
             "version": "v2.0.0",
-            "source": "ddl",
-            "location": "https://github.com/Wynntils/Artemis/releases/download/v2.0.0-beta.15/wynntils-2.0.0-beta.15-fabric+MC-1.21.jar",
+            "source": "modrinth",
+            "location": "wynntils",
             "authors": [
                 {
                     "name": "wynntils",
