@@ -22,6 +22,18 @@
     },
     "mods": [
         {
+            "name": "Replay Mod",
+            "version": "1.21-2.6.17",
+            "source": "modrinth",
+            "location": "replaymod",
+            "authors": [
+                {
+                    "name": "Johni0702",
+                    "link": "https://modrinth.com/user/Johni0702"
+                }
+            ]
+        },
+        {
             "name": "3D Skin Layers",
             "version": "1.6.6",
             "source": "modrinth",
