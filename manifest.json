@@ -1,6 +1,6 @@
 {
     "manifest_version": 3,
-    "modpack_version": "0.6.9",
+    "modpack_version": "0.7.0",
     "name": "Majestic Overhaul LITE",
     "subtitle": "IMMERSIVE LITE",
     "description": "<p style=\"font-size: 1.4em;margin-top: 0;\">Light-weight immersive experience</p>",
@@ -21,477 +21,21 @@
         "minecraft_version": "1.20.2"
     },
     "mods": [
-        {
-            "name": "Fabric API",
-            "version": "0.91.6+1.20.2",
-            "source": "modrinth",
-            "location": "fabric-api",
-            "authors": [
-                {
-                    "name": "modmuss50",
-                    "link": "https://modrinth.com/user/modmuss50"
-                }
-            ]
-        },
-        {
-            "name": "Sound Physics Remastered",
-            "version": "fabric-1.20.2-1.3.1",
-            "source": "modrinth",
-            "location": "sound-physics-remastered",
-            "authors": [
-                {
-                    "name": "henkelmax",
-                    "link": "https://modrinth.com/user/henkelmax"
-                }
-            ]
-        },
-        {
-            "name": "Iris Shaders",
-            "version": "1.6.14+1.20.2",
-            "source": "modrinth",
-            "location": "iris",
-            "authors": [
-                {
-                    "name": "coderbot",
-                    "link": "https://modrinth.com/user/coderbot"
-                }
-            ]
-        },
-        {
-            "name": "Sodium",
-            "version": "mc1.20.2-0.5.5",
-            "source": "modrinth",
-            "location": "sodium",
-            "authors": [
-                {
-                    "name": "jellysquid3",
-                    "link": "https://modrinth.com/user/jellysquid3"
-                }
-            ]
-        },
-        {
-            "name": "Fabric Language Kotlin",
-            "version": "1.10.19+kotlin.1.9.23",
-            "source": "modrinth",
-            "location": "fabric-language-kotlin",
-            "authors": [
-                {
-                    "name": "modmuss50",
-                    "link": "https://modrinth.com/user/modmuss50"
-                }
-            ]
-        },
-        {
-            "name": "Cloth Config API",
-            "version": "12.0.119+fabric",
-            "source": "modrinth",
-            "location": "cloth-config",
-            "authors": [
-                {
-                    "name": "shedaniel",
-                    "link": "https://modrinth.com/user/shedaniel"
-                }
-            ]
-        },
-        {
-            "name": "Entity Culling",
-            "version": "1.6.3-1.20.2",
-            "source": "modrinth",
-            "location": "entityculling",
-            "authors": [
-                {
-                    "name": "tr7zw",
-                    "link": "https://modrinth.com/user/tr7zw"
-                }
-            ]
-        },
-        {
-            "name": "Architectury API",
-            "version": "10.1.20+fabric",
-            "source": "modrinth",
-            "location": "architectury-api",
-            "authors": [
-                {
-                    "name": "MaxNeedsSnacks",
-                    "link": "https://modrinth.com/user/MaxNeedsSnacks"
-                }
-            ]
-        },
-        {
-            "name": "Reese's Sodium Options",
-            "version": "mc1.20.2-1.7.0",
-            "source": "modrinth",
-            "location": "reeses-sodium-options",
-            "authors": [
-                {
-                    "name": "FlashyReese",
-                    "link": "https://modrinth.com/user/FlashyReese"
-                }
-            ]
-        },
-        {
-            "name": "Sodium Extra",
-            "version": "mc1.20.2-0.5.3",
-            "source": "modrinth",
-            "location": "sodium-extra",
-            "authors": [
-                {
-                    "name": "FlashyReese",
-                    "link": "https://modrinth.com/user/FlashyReese"
-                }
-            ]
-        },
-        {
-            "name": "Starlight",
-            "version": "1.1.3+1.20.2",
-            "source": "ddl",
-            "location": "https://mediafilez.forgecdn.net/files/4802/458/starlight-1.1.3%2Bfabric.5867eae.jar",
-            "authors": [
-                {
-                    "name": "spottedleaf",
-                    "link": "https://modrinth.com/user/spottedleaf"
-                }
-            ]
-        },
-        {
-            "name": "ImmediatelyFast",
-            "version": "1.2.14+1.20.4-fabric",
-            "source": "modrinth",
-            "location": "immediatelyfast",
-            "authors": [
-                {
-                    "name": "RaphiMC",
-                    "link": "https://modrinth.com/user/RaphiMC"
-                }
-            ]
-        },
-        {
-            "name": "Not Enough Animations",
-            "version": "1.7.3",
-            "source": "ddl",
-            "location": "https://cdn.modrinth.com/data/MPCX6s5C/versions/91p7VH3Z/notenoughanimations-fabric-1.7.3-mc1.20.2.jar",
-            "authors": [
-                {
-                    "name": "tr7zw",
-                    "link": "https://modrinth.com/user/tr7zw"
-                }
-            ]
-        },
-        {
+{
             "name": "3D Skin Layers",
-            "version": "1.6.4",
-            "source": "ddl",
-            "location": "https://cdn.modrinth.com/data/zV5r3pPn/versions/islywdJl/skinlayers3d-fabric-1.6.4-mc1.20.2.jar",
+            "version": "1.6.6",
+            "source": "modrinth",
+            "location": "3dskinlayers",
             "authors": [
                 {
                     "name": "tr7zw",
                     "link": "https://modrinth.com/user/tr7zw"
-                }
-            ]
-        },
-        {
-            "name": "Concurrent Chunk Management Engine",
-            "version": "0.2.0+alpha.11.24+1.20.2",
-            "source": "modrinth",
-            "location": "c2me-fabric",
-            "authors": [
-                {
-                    "name": "ishland",
-                    "link": "https://modrinth.com/user/ishland"
-                }
-            ]
-        },
-        {
-            "name": "Entity Texture Features",
-            "version": "6.0.1",
-            "source": "ddl",
-            "location": "https://cdn.modrinth.com/data/BVzZfTc1/versions/n97nAS3C/entity_texture_features_fabric_1.20.2-6.0.1.jar",
-            "authors": [
-                {
-                    "name": "Traben",
-                    "link": "https://modrinth.com/user/Traben"
-                }
-            ]
-        },
-        {
-            "name": "Forge Config API Port",
-            "version": "v20.2.6-1.20.2-Fabric",
-            "source": "modrinth",
-            "location": "forge-config-api-port",
-            "authors": [
-                {
-                    "name": "Fuzs",
-                    "link": "https://modrinth.com/user/Fuzs"
-                }
-            ]
-        },
-        {
-            "name": "More Chat History",
-            "version": "1.3.0",
-            "source": "modrinth",
-            "location": "morechathistory",
-            "authors": [
-                {
-                    "name": "JackFred2",
-                    "link": "https://modrinth.com/user/JackFred2"
-                }
-            ]
-        },
-        {
-            "name": "Entity Model Features",
-            "version": "2.0.2",
-            "source": "ddl",
-            "location": "https://cdn.modrinth.com/data/4I1XuqiY/versions/g2i5i750/entity_model_features_fabric_1.20.2-2.0.2.jar",
-            "authors": [
-                {
-                    "name": "Traben",
-                    "link": "https://modrinth.com/user/Traben"
-                }
-            ]
-        },
-        {
-            "name": "Wavey Capes",
-            "version": "1.48",
-            "source": "ddl",
-            "location": "https://mediafilez.forgecdn.net/files/5499/490/waveycapes-fabric-1.4.8-mc1.20.2.jar",
-            "authors": [
-                {
-                    "name": "tr7zw",
-                    "link": "https://modrinth.com/user/tr7zw"
-                }
-            ]
-        },
-        {
-            "name": "Ukulib",
-            "version": "1.0.2+1.20.2",
-            "source": "modrinth",
-            "location": "ukulib",
-            "authors": [
-                {
-                    "name": "uku",
-                    "link": "https://modrinth.com/user/uku"
-                }
-            ]
-        },
-        {
-            "name": "Spark",
-            "version": "1.10.54-fabric",
-            "source": "modrinth",
-            "location": "spark",
-            "authors": [
-                {
-                    "name": "lucko",
-                    "link": "https://modrinth.com/user/lucko"
-                }
-            ]
-        },
-        {
-            "name": "ModernFix",
-            "version": "5.10.1+mc1.20.2",
-            "source": "modrinth",
-            "location": "modernfix",
-            "authors": [
-                {
-                    "name": "embeddedt",
-                    "link": "https://modrinth.com/user/embeddedt"
-                }
-            ]
-        },
-        {
-            "name": "Particle Rain",
-            "version": "v2.0.8",
-            "source": "modrinth",
-            "location": "particle-rain",
-            "authors": [
-                {
-                    "name": "PigCart",
-                    "link": "https://modrinth.com/user/PigCart"
-                }
-            ]
-        },
-        {
-            "name": "Nicer Skies",
-            "version": "1.3.0",
-            "source": "modrinth",
-            "location": "nicer-skies",
-            "authors": [
-                {
-                    "name": "ZtereoHYPE",
-                    "link": "https://modrinth.com/user/ZtereoHYPE"
-                }
-            ]
-        },
-        {
-            "name": "LazyDFU",
-            "version": "0.1.3",
-            "source": "modrinth",
-            "location": "lazydfu",
-            "authors": [
-                {
-                    "name": "Astei",
-                    "link": "https://modrinth.com/user/astei"
-                }
-            ]
-        },
-        {
-            "name": "Indium",
-            "version": "1.0.28+mc1.20.4",
-            "source": "modrinth",
-            "location": "indium",
-            "authors": [
-                {
-                    "name": "comp500",
-                    "link": "https://modrinth.com/user/comp500"
-                }
-            ]
-        },
-        {
-            "name": "Mod Menu",
-            "version": "8.0.1",
-            "source": "modrinth",
-            "location": "modmenu",
-            "authors": [
-                {
-                    "name": "Terraformers",
-                    "link": "https://modrinth.com/user/Terraformers"
-                }
-            ]
-        },
-        {
-            "name": "Bobby",
-            "version": "5.1.0+mc1.20.2",
-            "source": "modrinth",
-            "location": "bobby",
-            "authors": [
-                {
-                    "name": "Johni0702",
-                    "link": "https://modrinth.com/user/Johni0702"
-                }
-            ]
-        },
-        {
-            "name": "Debugify",
-            "version": "1.20.2+1.0",
-            "source": "modrinth",
-            "location": "debugify",
-            "authors": [
-                {
-                    "name": "isxander",
-                    "link": "https://modrinth.com/user/isxander"
-                }
-            ]
-        },
-        {
-            "name": "Yet Another Config Lib",
-            "version": "3.3.0-beta.1+1.20.2-fabric",
-            "source": "modrinth",
-            "location": "yacl",
-            "authors": [
-                {
-                    "name": "isxander",
-                    "link": "https://modrinth.com/user/isxander"
-                }
-            ]
-        },
-        {
-            "name": "Krypton",
-            "version": "0.2.6",
-            "source": "modrinth",
-            "location": "krypton",
-            "authors": [
-                {
-                    "name": "Astei",
-                    "link": "https://modrinth.com/user/astei"
-                }
-            ]
-        },
-        {
-            "name": "Midnightlib",
-            "version": "1.5.0-fabric",
-            "source": "modrinth",
-            "location": "midnightlib",
-            "authors": [
-                {
-                    "name": "Motschen",
-                    "link": "https://modrinth.com/user/Motschen"
-                }
-            ]
-        },
-        {
-            "name": "Lithium",
-            "version": "mc1.20.2-0.12.0",
-            "source": "modrinth",
-            "location": "lithium",
-            "authors": [
-                {
-                    "name": "2No2Name",
-                    "link": "https://modrinth.com/user/2No2Name"
-                }
-            ]
-        },
-        {
-            "name": "Falling Leaves",
-            "version": "1.15.6+1.20.1",
-            "source": "modrinth",
-            "location": "fallingleaves",
-            "authors": [
-                {
-                    "name": "Fourmisain",
-                    "link": "https://modrinth.com/user/Fourmisain"
-                }
-            ]
-        },
-        {
-            "name": "Draggable Lists",
-            "version": "1.0.2",
-            "source": "modrinth",
-            "location": "draggable-lists",
-            "authors": [
-                {
-                    "name": "mrmelon54",
-                    "link": "https://modrinth.com/user/mrmelon54"
-                }
-            ]
-        },
-        {
-            "name": "Complete Config",
-            "version": "2.5.0",
-            "source": "modrinth",
-            "location": "completeconfig",
-            "authors": [
-                {
-                    "name": "Lortseam",
-                    "link": "https://modrinth.com/user/Lortseam"
-                }
-            ]
-        },
-        {
-            "name": "Wynntils",
-            "version": "v1.2.1",
-            "source": "modrinth",
-            "location": "wynntils",
-            "authors": [
-                {
-                    "name": "DevScyu",
-                    "link": "https://modrinth.com/user/DevScyu"
-                }
-            ]
-        },
-        {
-            "name": "Searchables",
-            "version": "1.0.16",
-            "source": "ddl",
-            "location": "https://cdn.modrinth.com/data/fuuu3xnx/versions/gcqBz3gR/Searchables-fabric-1.20.2-1.0.16.jar",
-            "authors": [
-                {
-                    "name": "jaredlll08",
-                    "link": "https://modrinth.com/user/jaredlll08"
                 }
             ]
         },
         {
             "name": "AmbientSounds",
-            "version": "5.2.23",
+            "version": "6.0.2",
             "source": "modrinth",
             "location": "ambientsounds",
             "authors": [
@@ -502,68 +46,84 @@
             ]
         },
         {
-            "name": "Controlling",
-            "version": "13.0.8",
-            "source": "ddl",
-            "location": "https://cdn.modrinth.com/data/xv94TkTM/versions/mD6hNm9W/Controlling-fabric-1.20.2-13.0.6.jar",
+            "name": "Architectury API",
+            "version": "13.0.2+fabric",
+            "source": "modrinth",
+            "location": "architectury-api",
             "authors": [
                 {
-                    "name": "jaredlll08",
-                    "link": "https://modrinth.com/user/jaredlll08"
+                    "name": "MaxNeedsSnacks",
+                    "link": "https://modrinth.com/user/MaxNeedsSnacks"
                 }
             ]
         },
         {
-            "name": "CreativeCore",
-            "version": "2.11.2",
+            "name": "Barrier's Don't Block Rain",
+            "version": "1.0.3",
             "source": "modrinth",
-            "location": "creativecore",
+            "location": "barriers-dont-block-rain-1.21",
             "authors": [
                 {
-                    "name": "creativemd",
-                    "link": "https://modrinth.com/user/creativemd"
+                    "name": "quikjay",
+                    "link": "https://modrinth.com/user/quikjay"
+                },
+                {
+                    "name": "commander",
+                    "link": "https://modrinth.com/user/commander"
                 }
             ]
         },
         {
             "name": "BetterF3",
-            "version": "8.0.3",
+            "version": "11.0.1",
             "source": "modrinth",
             "location": "betterf3",
             "authors": [
                 {
-                    "name": "treyruffy",
-                    "link": "https://modrinth.com/user/treyruffy"
+                    "name": "TreyRuffy",
+                    "link": "https://modrinth.com/user/TreyRuffy"
                 }
             ]
         },
         {
-            "name": "Show Me Your Skin!",
-            "version": "1.9.0+1.20.2",
-            "source": "modrinth",
-            "location": "show-me-your-skin",
+            "name": "Better FPS Render Distance",
+            "version": "1.21-4.3",
+            "source": "ddl",
+            "location": "https://mediafilez.forgecdn.net/files/5483/334/betterfpsdist-fabric-1.21-4.3.jar",
             "authors": [
                 {
-                    "name": "enjarai",
-                    "link": "https://modrinth.com/user/enjarai"
+                    "name": "someaddon",
+                    "link": "https://www.curseforge.com/members/someaddon"
                 }
             ]
         },
         {
-            "name": "CICADA",
-            "version": "0.7.2+1.20.2-1.20.4",
+            "name": "Bobby",
+            "version": "5.2.2+mc1.21",
             "source": "modrinth",
-            "location": "cicada",
+            "location": "bobby",
             "authors": [
                 {
-                    "name": "enjarai",
-                    "link": "https://modrinth.com/user/enjarai"
+                    "name": "Johni0702",
+                    "link": "https://modrinth.com/user/Johni0702"
+                }
+            ]
+        },
+        {
+            "name": "C2ME",
+            "version": "0.2.0+alpha.11.107+1.21",
+            "source": "modrinth",
+            "location": "c2me-fabric",
+            "authors": [
+                {
+                    "name": "ishland",
+                    "link": "https://modrinth.com/user/ishland"
                 }
             ]
         },
         {
             "name": "Capes",
-            "version": "1.5.3+1.20.2",
+            "version": "1.5.4+1.21",
             "source": "modrinth",
             "location": "capes",
             "authors": [
@@ -574,26 +134,440 @@
             ]
         },
         {
-            "name": "Barriers Don't Block Rain",
-            "version": "1.0.3",
-            "source": "modrinth",
-            "location": "barriers-dont-block-rain",
+            "name": "Celestial Configuration",
+            "version": "1.1.1",
+            "source": "ddl",
+            "location": "https://mediafilez.forgecdn.net/files/5504/563/Celestial%20Configuration-fabric-1.21-1.1.1.jar",
             "authors": [
                 {
-                    "name": "commander",
-                    "link": "https://modrinth.com/user/commander"
+                    "name": "infernalstudios",
+                    "link": "https://www.curseforge.com/members/infernalstudios"
                 }
             ]
         },
         {
-            "name": "Video Tape",
-            "version": "1.3.0",
+            "name": "Chat Animation",
+            "version": "1.0.6",
             "source": "modrinth",
-            "location": "videotape",
+            "location": "chatanimation",
             "authors": [
                 {
-                    "name": "Velum",
-                    "link": "https://modrinth.com/user/Velum"
+                    "name": "Ezzenix",
+                    "link": "https://modrinth.com/user/Ezzenix"
+                }
+            ]
+        },
+        {
+            "name": "CICADA",
+            "version": "0.8.0+1.21-and-above",
+            "source": "modrinth",
+            "location": "cicada",
+            "authors": [
+                {
+                    "name": "enjarai",
+                    "link": "https://modrinth.com/user/enjarai"
+                }
+            ]
+        },
+        {
+            "name": "Client Side Noteblocks",
+            "version": "2.8",
+            "source": "modrinth",
+            "location": "clientsidenoteblocks",
+            "authors": [
+                {
+                    "name": "varun7654",
+                    "link": "https://modrinth.com/user/varun7654"
+                }
+            ]
+        },
+        {
+            "name": "Cloth Config API",
+            "version": "15.0.127+fabric",
+            "source": "modrinth",
+            "location": "cloth-config",
+            "authors": [
+                {
+                    "name": "shedaniel",
+                    "link": "https://modrinth.com/user/shedaniel"
+                }
+            ]
+        },
+        {
+            "name": "Connectivity",
+            "version": "5.7",
+            "source": "ddl",
+            "location": "https://mediafilez.forgecdn.net/files/5513/991/connectivity-fabric-1.21-5.7.jar",
+            "authors": [
+                {
+                    "name": "someaddon",
+                    "link": "https://www.curseforge.com/members/someaddon"
+                }
+            ]
+        },
+        {
+            "name": "Controlling",
+            "version": "18.0.4",
+            "source": "modrinth",
+            "location": "controlling",
+            "authors": [
+                {
+                    "name": "jaredlll08",
+                    "link": "https://modrinth.com/user/jaredlll08"
+                }
+            ]
+        },
+        {
+            "name": "Cull Leaves",
+            "version": "3.4.0",
+            "source": "ddl",
+            "location": "https://mediafilez.forgecdn.net/files/5441/879/cullleaves-fabric-3.4.0.jar",
+            "authors": [
+                {
+                    "name": "motschen",
+                    "link": "https://www.curseforge.com/members/motschen"
+                }
+            ]
+        },
+        {
+            "name": "Cupboard",
+            "version": "2.7",
+            "source": "ddl",
+            "location": "https://mediafilez.forgecdn.net/files/5477/517/cupboardfabric-1.21-2.7.jar",
+            "authors": [
+                {
+                    "name": "someaddon",
+                    "link": "https://www.curseforge.com/members/someaddon"
+                }
+            ]
+        },
+        {
+            "name": "Custom Splash Screen",
+            "version": "2.2.0",
+            "source": "modrinth",
+            "location": "custom-splash-screen",
+            "authors": [
+                {
+                    "name": "Motschen",
+                    "link": "https://modrinth.com/user/Motschen"
+                }
+            ]
+        },
+        {
+            "name": "Continuity",
+            "version": "3.0.0-beta.5+1.21",
+            "source": "modrinth",
+            "location": "continuity",
+            "authors": [
+                {
+                    "name": "PepperCode1",
+                    "link": "https://modrinth.com/user/PepperCode1"
+                }
+            ]
+        },
+        {
+            "name": "CreativeCore",
+            "version": "2.11.34",
+            "source": "modrinth",
+            "location": "creativecore",
+            "authors": [
+                {
+                    "name": "creativemd",
+                    "link": "https://modrinth.com/user/creativemd"
+                }
+            ]
+        },
+        {
+            "name": "Debugify",
+            "version": "1.21+1.0",
+            "source": "modrinth",
+            "location": "debugify",
+            "authors": [
+                {
+                    "name": "isxander",
+                    "link": "https://modrinth.com/user/isxander"
+                }
+            ]
+        },
+        {
+            "name": "Distant Horizons",
+            "version": "2.1.2-a-1.21",
+            "source": "modrinth",
+            "location": "distanthorizons",
+            "authors": [
+                {
+                    "name": "jeseibel",
+                    "link": "https://modrinth.com/user/jeseibel"
+                }
+            ],
+            "id": "dh"
+        },
+        {
+            "name": "Enhanced Block Entities",
+            "version": "0.10.1+1.21",
+            "source": "modrinth",
+            "location": "ebe",
+            "authors": [
+                {
+                    "name": "FoundationGames",
+                    "link": "https://modrinth.com/user/FoundationGames"
+                }
+            ]
+        },
+        {
+            "name": "Entity Model Features",
+            "version": "2.0.3",
+            "source": "modrinth",
+            "location": "entity-model-features",
+            "authors": [
+                {
+                    "name": "Traben",
+                    "link": "https://modrinth.com/user/Traben"
+                }
+            ]
+        },
+        {
+            "name": "Entity Texture Features",
+            "version": "6.1.2",
+            "source": "modrinth",
+            "location": "entitytexturefeatures",
+            "authors": [
+                {
+                    "name": "Traben",
+                    "link": "https://modrinth.com/user/Traben"
+                }
+            ]
+        },
+        {
+            "name": "Entity Culling",
+            "version": "1.6.6",
+            "source": "modrinth",
+            "location": "entityculling",
+            "authors": [
+                {
+                    "name": "tr7zw",
+                    "link": "https://modrinth.com/user/tr7zw"
+                }
+            ]
+        },
+        {
+            "name": "Entity View Distance",
+            "version": "1.3.0+1.21",
+            "source": "modrinth",
+            "location": "entity-view-distance",
+            "authors": [
+                {
+                    "name": "Patbox",
+                    "link": "https://modrinth.com/user/Patbox"
+                }
+            ]
+        },
+        {
+            "name": "Euphoria Patches",
+            "version": "0.3.4-fabric",
+            "source": "modrinth",
+            "location": "euphoria-patches",
+            "authors": [
+                {
+                    "name": "SpacEagle17",
+                    "link": "https://modrinth.com/user/SpacEagle17"
+                },
+                {
+                    "name": "isuewo",
+                    "link": "https://modrinth.com/user/isuewo"
+                }
+            ],
+            "id": "euphoria-patches"
+        },
+        {
+            "name": "Fabric API",
+            "version": "0.100.3+1.21",
+            "source": "modrinth",
+            "location": "fabric-api",
+            "authors": [
+                {
+                    "name": "modmuss50",
+                    "link": "https://modrinth.com/user/modmuss50"
+                }
+            ]
+        },
+        {
+            "name": "Fabric Language Kotlin",
+            "version": "1.11.0+kotlin.2.0.0",
+            "source": "modrinth",
+            "location": "fabric-language-kotlin",
+            "authors": [
+                {
+                    "name": "modmuss50",
+                    "link": "https://modrinth.com/user/modmuss50"
+                }
+            ]
+        },
+        {
+            "name": "FabricSkyboxes",
+            "version": "mc1.21-0.7.4",
+            "source": "modrinth",
+            "location": "fabricskyboxes",
+            "authors": [
+                {
+                    "name": "AMereBagatelle",
+                    "link": "https://modrinth.com/user/AMereBagatelle"
+                }
+            ]
+        },
+        {
+            "name": "Falling Leaves",
+            "version": "1.16.0+1.21",
+            "source": "modrinth",
+            "location": "fallingleaves",
+            "authors": [
+                {
+                    "name": "Fourmisain",
+                    "link": "https://modrinth.com/user/Fourmisain"
+                }
+            ]
+        },
+        {
+            "name": "FerriteCore",
+            "version": "7.0.0",
+            "source": "modrinth",
+            "location": "ferrite-core",
+            "authors": [
+                {
+                    "name": "malte0811",
+                    "link": "https://modrinth.com/user/malte0811"
+                }
+            ]
+        },
+        {
+            "name": "Forge Config API Port",
+            "version": "v21.0.0-1.21-Fabric",
+            "source": "modrinth",
+            "location": "forge-config-api-port",
+            "authors": [
+                {
+                    "name": "Fuzs",
+                    "link": "https://modrinth.com/user/Fuzs"
+                }
+            ]
+        },
+        {
+            "name": "FabricSkyBoxes Interop",
+            "version": "mc1.21-1.4.0",
+            "source": "modrinth",
+            "location": "fabricskyboxes-interop",
+            "authors": [
+                {
+                    "name": "FlashyReese",
+                    "link": "https://modrinth.com/user/FlashyReese"
+                }
+            ]
+        },
+        {
+            "name": "Iceberg",
+            "version": "1.2.4",
+            "source": "modrinth",
+            "location": "iceberg",
+            "authors": [
+                {
+                    "name": "Grend",
+                    "link": "https://modrinth.com/user/Grend"
+                }
+            ]
+        },
+        {
+            "name": "ImmediatelyFast",
+            "version": "1.2.18+1.21-fabric",
+            "source": "modrinth",
+            "location": "immediatelyfast",
+            "authors": [
+                {
+                    "name": "RaphiMC",
+                    "link": "https://modrinth.com/user/RaphiMC"
+                }
+            ]
+        },
+        {
+            "name": "Indium",
+            "version": "1.0.33+mc1.21",
+            "source": "modrinth",
+            "location": "indium",
+            "authors": [
+                {
+                    "name": "comp500",
+                    "link": "https://modrinth.com/user/comp500"
+                }
+            ]
+        },
+        {
+            "name": "Iris",
+            "version": "1.7.1+1.21",
+            "source": "modrinth",
+            "location": "iris",
+            "authors": [
+                {
+                    "name": "IMS",
+                    "link": "https://modrinth.com/user/IMS"
+                }
+            ]
+        },
+        {
+            "name": "Krypton",
+            "version": "0.2.8",
+            "source": "modrinth",
+            "location": "krypton",
+            "authors": [
+                {
+                    "name": "astei",
+                    "link": "https://modrinth.com/user/astei"
+                }
+            ]
+        },
+        {
+            "name": "Lithium",
+            "version": "mc1.21-0.12.7",
+            "source": "modrinth",
+            "location": "lithium",
+            "authors": [
+                {
+                    "name": "2No2Name",
+                    "link": "https://modrinth.com/user/2No2Name"
+                }
+            ]
+        },
+        {
+            "name": "Logical Zoom",
+            "version": "0.0.25",
+            "source": "modrinth",
+            "location": "logical-zoom",
+            "authors": [
+                {
+                    "name": "LogicalGeekBoy",
+                    "link": "https://modrinth.com/user/LogicalGeekBoy"
+                }
+            ]
+        },
+        {
+            "name": "MacOS Input Fixes",
+            "version": "1.7",
+            "source": "modrinth",
+            "location": "macos-input-fixes",
+            "authors": [
+                {
+                    "name": "hamarb123",
+                    "link": "https://modrinth.com/user/hamarb123"
+                }
+            ]
+        },
+        {
+            "name": "MidnightLib",
+            "version": "1.5.7-fabric",
+            "source": "modrinth",
+            "location": "midnightlib",
+            "authors": [
+                {
+                    "name": "Motschen",
+                    "link": "https://modrinth.com/user/Motschen"
                 }
             ]
         },
@@ -610,104 +584,56 @@
             ]
         },
         {
-            "name": "oωo (owo-lib)",
-            "version": "0.11.4+1.20.2",
+            "name": "ModernFix",
+            "version": "5.18.3+mc1.21",
             "source": "modrinth",
-            "location": "owo-lib",
+            "location": "modernfix",
             "authors": [
                 {
-                    "name": "glisco",
-                    "link": "https://modrinth.com/user/glisco"
+                    "name": "embeddedt",
+                    "link": "https://modrinth.com/user/embeddedt"
                 }
             ]
         },
         {
-            "name": "Serverpack Priority",
-            "version": "1.0.2-1.20.2",
+            "name": "Mod Menu",
+            "version": "11.0.1",
             "source": "modrinth",
-            "location": "serverpack-priority",
+            "location": "modmenu",
             "authors": [
                 {
-                    "name": "commander",
-                    "link": "https://modrinth.com/user/commander"
+                    "name": "Prospector",
+                    "link": "https://modrinth.com/user/Prospector"
                 }
             ]
         },
         {
-            "name": "Continuity",
-            "version": "3.0.0-beta.4+1.20.2",
+            "name": "More Chat History",
+            "version": "1.3.1",
             "source": "modrinth",
-            "location": "continuity",
+            "location": "morechathistory",
             "authors": [
                 {
-                    "name": "peppercode1",
-                    "link": "https://modrinth.com/user/peppercode1"
+                    "name": "JackFred2",
+                    "link": "https://modrinth.com/user/JackFred2"
                 }
             ]
         },
         {
-            "name": "Client Side Noteblocks",
-            "version": "2.7",
+            "name": "More Culling",
+            "version": "0.26.0",
             "source": "modrinth",
-            "location": "clientsidenoteblocks",
+            "location": "moreculling",
             "authors": [
                 {
-                    "name": "DaCubeKing",
-                    "link": "https://modrinth.com/user/DaCubeKing"
-                }
-            ]
-        },
-        {
-            "name": "Too Many Players",
-            "version": "1.20.2-1.1.5",
-            "source": "modrinth",
-            "location": "tmp",
-            "authors": [
-                {
-                    "name": "Feytox",
-                    "link": "https://modrinth.com/user/Feytox"
-                }
-            ]
-        },
-        {
-            "name": "Entity View Distance",
-            "version": "1.1.3+1.20.2",
-            "source": "modrinth",
-            "location": "entity-view-distance",
-            "authors": [
-                {
-                    "name": "Patbox",
-                    "link": "https://modrinth.com/user/Patbox"
-                }
-            ]
-        },
-        {
-            "name": "Presence Footsteps",
-            "version": "1.9.4+1.20.2",
-            "source": "modrinth",
-            "location": "presence-footsteps",
-            "authors": [
-                {
-                    "name": "Sollace",
-                    "link": "https://modrinth.com/user/Sollace"
-                }
-            ]
-        },
-        {
-            "name": "Nvidium",
-            "version": "0.2.5-beta",
-            "source": "modrinth",
-            "location": "nvidium",
-            "authors": [
-                {
-                    "name": "cortex",
-                    "link": "https://modrinth.com/user/cortex"
+                    "name": "FX",
+                    "link": "https://modrinth.com/user/FX"
                 }
             ]
         },
         {
             "name": "MRU",
-            "version": "0.4.0+1.20.2",
+            "version": "0.4.4+1.21",
             "source": "modrinth",
             "location": "mru",
             "authors": [
@@ -718,110 +644,14 @@
             ]
         },
         {
-            "name": "Rebind All the Keys",
-            "version": "1.4.0+1.20.2",
-            "source": "modrinth",
-            "location": "rebind-all-the-keys",
-            "authors": [
-                {
-                    "name": "Minenash",
-                    "link": "https://modrinth.com/user/Minenash"
-                }
-            ]
-        },
-        {
-            "name": "ChatAnimation",
-            "version": "1.0.5",
-            "source": "modrinth",
-            "location": "chatanimation",
-            "authors": [
-                {
-                    "name": "Ezzenix",
-                    "link": "https://modrinth.com/user/Ezzenix"
-                }
-            ]
-        },
-        {
-            "name": "CIT Resewn",
-            "version": "1.1.5+1.20.1",
-            "source": "modrinth",
-            "location": "cit-resewn",
-            "authors": [
-                {
-                    "name": "shsupercm",
-                    "link": "https://modrinth.com/user/shsupercm"
-                }
-            ]
-        },
-        {
-            "name": "Cull leaves",
-            "version": "3.2.0-fabric",
-            "source": "modrinth",
-            "location": "cull-leaves",
-            "authors": [
-                {
-                    "name": "Motschen",
-                    "link": "https://modrinth.com/user/Motschen"
-                }
-            ]
-        },
-        {
-            "name": "Custom Splash Screen",
-            "version": "2.1.1",
-            "source": "modrinth",
-            "location": "custom-splash-screen",
-            "authors": [
-                {
-                    "name": "Motschen",
-                    "link": "https://modrinth.com/user/Motschen"
-                }
-            ]
-        },
-        {
-            "name": "Iceberg",
-            "version": "1.1.18",
+            "name": "Nicer Skies",
+            "version": "1.4.0",
             "source": "ddl",
-            "location": "https://cdn.modrinth.com/data/5faXoLqX/versions/snRtsUWd/Iceberg-1.20.2-fabric-1.1.18.jar",
+            "location": "https://mediafilez.forgecdn.net/files/5524/358/nicer-skies-1.4.0%2B1.21.jar",
             "authors": [
                 {
-                    "name": "Grend",
-                    "link": "https://modrinth.com/user/Grend"
-                }
-            ]
-        },
-        {
-            "name": "FastAnim",
-            "version": "1.6-1.20",
-            "source": "modrinth",
-            "location": "fastanim",
-            "authors": [
-                {
-                    "name": "Lunade_",
-                    "link": "https://modrinth.com/user/Lunade_"
-                }
-            ]
-        },
-        {
-            "name": "More Culling",
-            "version": "0.24.0",
-            "source": "modrinth",
-            "location": "moreculling",
-            "authors": [
-                {
-                    "name": "fxmorin",
-                    "link": "https://modrinth.com/user/fxmorin"
-                }
-            ]
-        },
-        {
-            "name": "No Name Tags",
-            "version": "1.1.0",
-            "source": "modrinth",
-            "location": "no-name-tags",
-            "authors": [
-                {
-                    "name": "Space Walker",
-                    "link": "https://modrinth.com/user/Space%20Walker"
+                    "name": "Ztereohype",
+                    "link": "https://www.curseforge.com/members/ztereohype"
                 }
             ]
         },
@@ -838,8 +668,80 @@
             ]
         },
         {
+            "name": "Not Enough Animations",
+            "version": "1.7.4",
+            "source": "ddl",
+            "location": "https://cdn.modrinth.com/data/MPCX6s5C/versions/WaI2x21x/notenoughanimations-fabric-1.7.4-mc1.21.jar",
+            "authors": [
+                {
+                    "name": "tr7zw",
+                    "link": "https://modrinth.com/user/tr7zw"
+                }
+            ]
+        },
+        {
+            "name": "Notifier",
+            "version": "1.2.0-1.21",
+            "source": "ddl",
+            "location": "https://github.com/Wynncraft-Overhaul/notifier/releases/download/1.2.0-1.21/notifier-1.2.0-1.21.jar",
+            "authors": [
+                {
+                    "name": "commander",
+                    "link": "https://modrinth.com/user/commander"
+                }
+            ]
+        },
+        {
+            "name": "Nvidium",
+            "version": "0.2.9-beta",
+            "source": "modrinth",
+            "location": "nvidium",
+            "authors": [
+                {
+                    "name": "cortex",
+                    "link": "https://modrinth.com/user/cortex"
+                }
+            ]
+        },
+        {
+            "name": "oωo (owo-lib)",
+            "version": "0.12.10+1.21",
+            "source": "modrinth",
+            "location": "owo-lib",
+            "authors": [
+                {
+                    "name": "glisco",
+                    "link": "https://modrinth.com/user/glisco"
+                }
+            ]
+        },
+        {
+            "name": "Particle Rain",
+            "version": "2.1.2",
+            "source": "modrinth",
+            "location": "particle-rain",
+            "authors": [
+                {
+                    "name": "PigCart",
+                    "link": "https://modrinth.com/user/PigCart"
+                }
+            ]
+        },
+        {
+            "name": "Presence Footsteps",
+            "version": "1.10.0+1.21",
+            "source": "modrinth",
+            "location": "presence-footsteps",
+            "authors": [
+                {
+                    "name": "Sollace",
+                    "link": "https://modrinth.com/user/Sollace"
+                }
+            ]
+        },
+        {
             "name": "Prism",
-            "version": "1.0.5",
+            "version": "1.0.8",
             "source": "modrinth",
             "location": "prism-lib",
             "authors": [
@@ -850,8 +752,176 @@
             ]
         },
         {
+            "name": "Rebind All The Keys",
+            "version": "1.5.2+1.21",
+            "source": "modrinth",
+            "location": "rebind-all-the-keys",
+            "authors": [
+                {
+                    "name": "Minenash",
+                    "link": "https://modrinth.com/user/Minenash"
+                }
+            ]
+        },
+        {
+            "name": "Reese's Sodium Options",
+            "version": "mc1.21-1.7.2",
+            "source": "modrinth",
+            "location": "reeses-sodium-options",
+            "authors": [
+                {
+                    "name": "FlashyReese",
+                    "link": "https://modrinth.com/user/FlashyReese"
+                }
+            ]
+        },
+        {
+            "name": "Remove HUD",
+            "version": "1.3b5",
+            "source": "modrinth",
+            "location": "removehud",
+            "authors": [
+                {
+                    "name": "IzzyDotExe",
+                    "link": "https://modrinth.com/user/IzzyDotExe"
+                }
+            ]
+        },
+        {
+            "name": "ScalableLux",
+            "version": "0.1.0+rc.1+fabric.43c9882",
+            "source": "modrinth",
+            "location": "scalablelux",
+            "authors": [
+                {
+                    "name": "ishland",
+                    "link": "https://modrinth.com/user/ishland"
+                }
+            ]
+        },
+        {
+            "name": "Show Me Your Skin",
+            "version": "1.11.2+1.21",
+            "source": "modrinth",
+            "location": "show-me-your-skin",
+            "authors": [
+                {
+                    "name": "enjarai",
+                    "link": "https://modrinth.com/user/enjarai"
+                }
+            ]
+        },
+        {
+            "name": "Sodium",
+            "version": "mc1.21-0.5.9",
+            "source": "modrinth",
+            "location": "sodium",
+            "authors": [
+                {
+                    "name": "IMS",
+                    "link": "https://modrinth.com/user/IMS"
+                }
+            ]
+        },
+        {
+            "name": "Searchables",
+            "version": "1.0.5",
+            "source": "ddl",
+            "location": "https://mediafilez.forgecdn.net/files/5603/157/Searchables-fabric-1.21-1.0.5.jar",
+            "authors": [
+                {
+                    "name": "jaredlll08",
+                    "link": "https://modrinth.com/user/jaredlll08"
+                }
+            ]
+        },
+        {
+            "name": "Server Pack Priority",
+            "version": "1.0.2-1.21",
+            "source": "ddl",
+            "location": "https://github.com/Commander07/Serverpack-Priority/releases/download/1.0.2-1.21/serverpack-priority-1.0.2-1.21.jar",
+            "authors": [
+                {
+                    "name": "commander",
+                    "link": "https://modrinth.com/user/commander"
+                }
+            ]
+        },
+        {
+            "name": "Shoulder Surfing Reloaded",
+            "version": "1.21-4.1.5",
+            "source": "modrinth",
+            "location": "shoulder-surfing-reloaded",
+            "authors": [
+                {
+                    "name": "Exopandora",
+                    "link": "https://modrinth.com/user/Exopandora"
+                }
+            ]
+        },
+        {
+            "name": "Sodium Extra",
+            "version": "mc1.21-0.5.7",
+            "source": "modrinth",
+            "location": "sodium-extra",
+            "authors": [
+                {
+                    "name": "FlashyReese",
+                    "link": "https://modrinth.com/user/FlashyReese"
+                }
+            ]
+        },
+        {
+            "name": "spark",
+            "version": "1.10.73-fabric",
+            "source": "modrinth",
+            "location": "spark",
+            "authors": [
+                {
+                    "name": "lucko",
+                    "link": "https://modrinth.com/user/lucko"
+                }
+            ]
+        },
+        {
+            "name": "Text Placeholder API",
+            "version": "2.4.1+1.21",
+            "source": "modrinth",
+            "location": "placeholder-api",
+            "authors": [
+                {
+                    "name": "Patbox",
+                    "link": "https://modrinth.com/user/Patbox"
+                }
+            ]
+        },
+        {
+            "name": "ukulib",
+            "version": "1.4.0+1.21",
+            "source": "modrinth",
+            "location": "ukulib",
+            "authors": [
+                {
+                    "name": "uku",
+                    "link": "https://modrinth.com/user/uku"
+                }
+            ]
+        },
+        {
+            "name": "Video Tape",
+            "version": "1.3.0",
+            "source": "modrinth",
+            "location": "videotape",
+            "authors": [
+                {
+                    "name": "Anthus",
+                    "link": "https://modrinth.com/user/Anthus"
+                }
+            ]
+        },
+        {
             "name": "View Bobbing Options",
-            "version": "0.1.0+1.20",
+            "version": "0.2.1+1.21",
             "source": "modrinth",
             "location": "viewboboptions",
             "authors": [
@@ -862,23 +932,83 @@
             ]
         },
         {
-            "name": "YDM's Weapon Master",
-            "version": "3.0.5+1.20.2+client+fabric",
-            "id": "ydm",
+            "name": "Voices of Wynn",
+            "version": "0.3.4-fabric",
             "source": "ddl",
-            "location": "https://mediafilez.forgecdn.net/files/4903/875/weaponmaster-client-only-fabric-1.20.2-3.0.5.jar",
+            "location": "https://mediafilez.forgecdn.net/files/5508/422/VoicesOfWynn-MC1.21-v1.8.2.jar",
             "authors": [
                 {
-                    "name": "YourDailyModder",
-                    "link": "https://modrinth.com/user/YourDailyModder"
+                    "name": "Kmaxi",
+                    "link": "https://www.curseforge.com/members/kmaxii"
+                }
+            ],
+            "id": "vow"
+        },
+        {
+            "name": "Wakes",
+            "version": "0.2.5",
+            "source": "ddl",
+            "location": "https://mediafilez.forgecdn.net/files/5519/566/wakes-0.2.5%2B1.21.jar",
+            "authors": [
+                {
+                    "name": "goby56",
+                    "link": "https://www.curseforge.com/members/goby56"
+                }
+            ]
+        },
+        {
+            "name": "Wavey Capes",
+            "version": "1.48-1.21",
+            "source": "ddl",
+            "location": "https://mediafilez.forgecdn.net/files/5499/502/waveycapes-fabric-1.4.8-mc1.21.jar",
+            "authors": [
+                {
+                    "name": "tr7zw",
+                    "link": "https://modrinth.com/user/tr7zw"
+                }
+            ]
+        },
+        {
+            "name": "Wynntils",
+            "version": "2.0.0-beta.15",
+            "source": "ddl",
+            "location": "https://github.com/Wynntils/Artemis/releases/download/v2.0.0-beta.15/wynntils-2.0.0-beta.15-fabric+MC-1.21.jar",
+            "authors": [
+                {
+                    "name": "wynntils",
+                    "link": "https://modrinth.com/organization/wynntils"
+                }
+            ]
+        },
+        {
+            "name": "Wynntils Config Share",
+            "version": "1.0.0-1.21",
+            "source": "ddl",
+            "location": "https://github.com/Commander07/Wynntils-Config-Sharing/releases/download/1.0.0-1.21/wynntils-config-sharing-1.0.0-1.21.jar",
+            "authors": [
+                {
+                    "name": "commander",
+                    "link": "https://modrinth.com/user/commander"
+                }
+            ]
+        },
+        {
+            "name": "Wynn Quester",
+            "version": "1.0.0-1.21",
+            "source": "ddl",
+            "location": "https://github.com/Wynncraft-Overhaul/Wynn-Quester/releases/download/1.0.0-1.21/wynn-quester-1.0.0-1.21.jar",
+            "authors": [
+                {
+                    "name": "commander",
+                    "link": "https://modrinth.com/user/commander"
                 }
             ]
         },
         {
             "name": "Weather Changer",
-            "version": "1.0.1",
-            "source": "ddl",
-            "location": "https://mediafilez.forgecdn.net/files/5303/625/weather-changer-fabric-1.0.1.jar",
+            "version": "1.1.0",
+            "source": "modrinth",
+            "location": "weather-changer",
             "authors": [
                 {
                     "name": "Lucaslah",
@@ -887,227 +1017,26 @@
             ]
         },
         {
-            "name": "Cupboard",
-            "version": "1.20.2-2.1",
-            "source": "ddl",
-            "location": "https://mediafilez.forgecdn.net/files/4795/344/cupboard-fabric-1.20.2-2.1.jar",
-            "authors": [
-                {
-                    "name": "someaddon",
-                    "link": "https://legacy.curseforge.com/members/someaddon"
-                }
-            ]
-        },
-        {
-            "name": "Ferrite Core",
-            "version": "6.0.1",
-            "source": "modrinth",
-            "location": "ferrite-core",
-            "authors": [
-                {
-                    "name": "malte0811",
-                    "link": "https://modrinth.com/user/malte0811"
-                }
-            ]
-        },
-        {
-            "name": "Connectivity[Forge/Fabric]",
-            "version": "1.20.2-4.5",
-            "source": "ddl",
-            "location": "https://mediafilez.forgecdn.net/files/4774/5/connectivity-fabric-1.20.2-4.5.jar",
-            "authors": [
-                {
-                    "name": "someaddon",
-                    "link": "https://legacy.curseforge.com/members/someaddon"
-                }
-            ]
-        },
-        {
-            "name": "Wynnlib",
-            "version": "0.2.16-1.20.2",
-            "id": "wynnlib",
-            "source": "ddl",
-            "location": "https://github.com/Commander07/WynnLibFabric/releases/download/0.2.16-1.20.2/wynnlib-0.2.16-1.20.2.jar",
-            "authors": [
-                {
-                    "name": "nbcss",
-                    "link": "https://modrinth.com/user/nbcss"
-                }
-            ]
-        },
-        {
-            "name": "Cull Particles",
-            "version": "1.1",
-            "source": "ddl",
-            "location": "https://github.com/Commander07/CullParticlesFabric/releases/download/1.1/cullparticles-1.1_1.19.3-1.19.4.jar",
-            "authors": [
-                {
-                    "name": "tfarecnim",
-                    "link": "https://legacy.curseforge.com/members/tfarecnim"
-                }
-            ]
-        },
-        {
-            "name": "Wynn Quester",
-            "version": "1.0.0",
-            "source": "ddl",
-            "location": "https://github.com/Wynncraft-Overhaul/Wynn-Quester/releases/download/1.0.0/wynn-quester-1.0.0-1.20.jar",
-            "authors": [
-                {
-                    "name": "Commander",
-                    "link": "https://github.com/Commander07"
-                }
-            ]
-        },
-        {
-            "name": "Notifier",
-            "version": "1.1.0",
-            "source": "ddl",
-            "location": "https://github.com/Wynncraft-Overhaul/notifier/releases/download/1.1.0-1.20/notifier-1.1.0-1.20.jar",
-            "authors": [
-                {
-                    "name": "Commander",
-                    "link": "https://github.com/Commander07"
-                }
-            ]
-        },
-        {
-            "name": "Enhanced Block Entities",
-            "version": "0.9.1+1.20.2",
-            "source": "modrinth",
-            "location": "ebe",
-            "authors": [
-                {
-                    "name": "FoundationGames",
-                    "link": "https://modrinth.com/user/FoundationGames"
-                }
-            ]
-        },
-        {
-            "name": "RemoveHUD",
-            "version": "v1.3-BETA-2",
-            "source": "ddl",
-            "location": "https://github.com/JamieCallan117/RemoveHud-fabricmc/releases/download/v1.3-BETA-2/removehud-1.3b2.jar",
-            "authors": [
-                {
-                    "name": "JamieCallan117",
-                    "link": "https://github.com/JamieCallan117"
-                }
-            ]
-        },
-        {
-            "name": "Better Fps - Render distance[Fabric]",
-            "version": "1.20.1-4.0",
-            "source": "ddl",
-            "location": "https://mediafilez.forgecdn.net/files/4780/901/betterfpsdist-fabric-1.20.1-4.0.jar",
-            "authors": [
-                {
-                    "name": "someaddon",
-                    "link": "https://legacy.curseforge.com/members/someaddon"
-                }
-            ]
-        },
-        {
-            "name": "Voices of Wynn",
-            "version": "1.7.1",
-            "id": "vow",
-            "source": "ddl",
-            "location": "https://mediafilez.forgecdn.net/files/5081/450/VoicesOfWynn-MC.1.20.2-v1.7.1.jar",
-            "authors": [
-                {
-                    "name": "kmaxi",
-                    "link": "https://voicesofwynn.com/cast/1"
-                }
-            ]
-        },
-        {
-            "name": "Logical Zoom",
-            "version": "0.0.21",
-            "source": "modrinth",
-            "location": "logical-zoom",
-            "authors": [
-                {
-                    "name": "LogicalGeekBoy",
-                    "link": "https://modrinth.com/user/LogicalGeekBoy"
-                }
-            ]
-        },
-        {
-            "name": "Wynntils Config Sharing",
-            "version": "1.0.0",
-            "source": "ddl",
-            "location": "https://github.com/Commander07/Wynntils-Config-Sharing/releases/download/1.0.0/wynntils-config-sharing-1.0.0.jar",
-            "authors": [
-                {
-                    "name": "Commander",
-                    "link": "https://modrinth.com/user/commander"
-                }
-            ]
-        },
-        {
-            "name": "MacOS Input Fixes",
-            "version": "1.6",
-            "source": "modrinth",
-            "location": "macos-input-fixes",
-            "authors": [
-                {
-                    "name": "hamarb123",
-                    "link": "https://modrinth.com/user/hamarb123"
-                }
-            ]
-        },
-        {
-            "name": "Sun and Moon Celestial Configuration",
-            "version": "1.0.0-fabric-1.20.2",
-            "source": "ddl",
-            "location": "https://github.com/Commander07/Celestial-Configuration/releases/download/1.20.2%2Ffabric%2F1.0.0/celesteconfig-1.0.0-fabric-1.20.2.jar",
-            "authors": [
-                {
-                    "name": "InfernalStudios",
-                    "link": "https://modrinth.com/user/InfernalStudios"
-                }
-            ]
-        },
-        {
-            "name": "Euphoria Patches",
-            "version": "0.2.0-fabric",
-            "source": "modrinth",
-            "location": "euphoria-patches",
-            "authors": [
-                {
-                    "name": "SpacEagle17",
-                    "link": "https://modrinth.com/user/SpacEagle17"
-                },
-                {
-                    "name": "isuewo",
-                    "link": "https://modrinth.com/user/isuewo"
-                }
-            ],
-            "id": "euphoria-patches"
-        },
-        {
             "name": "Your Options Shall Be Respected",
             "version": "0.1.2",
             "source": "modrinth",
             "location": "yosbr",
             "authors": [
                 {
-                    "name": "hamarb123",
-                    "link": "https://modrinth.com/user/hamarb123"
+                    "name": "shedaniel",
+                    "link": "https://modrinth.com/user/shedaniel"
                 }
             ]
-        }
-    ],
-    "shaderpacks": [
+        },
         {
-            "name": "Complementary Unbound",
-            "version": "r5.1.1",
+            "name": "YetAnotherConfigLib",
+            "version": "3.5.0+1.21-fabric",
             "source": "modrinth",
-            "location": "complementary-unbound",
+            "location": "yacl",
             "authors": [
                 {
-                    "name": "EminGT",
-                    "link": "https://modrinth.com/user/EminGT"
+                    "name": "isxander",
+                    "link": "https://modrinth.com/user/isxander"
                 }
             ]
         }
@@ -1212,6 +1141,20 @@
             ]
         }
     ],
+    "shaderpacks": [
+        {
+            "name": "Complementary Unbound",
+            "version": "r5.2.2",
+            "source": "modrinth",
+            "location": "complementary-unbound",
+            "authors": [
+                {
+                    "name": "EminGT",
+                    "link": "https://modrinth.com/user/EminGT"
+                }
+            ]
+        }
+    ],
     "include": [
         {
             "location": "resourcepacks/KiosWynnModels-Archangel.zip",
@@ -1242,7 +1185,15 @@
             "id": "bobby-file"
         },
         {
+            "location": "Distant_Horizons_server_data",
+            "id": "dh"
+        },
+        {
             "location": "config"
+        },
+        {
+            "location": "options.txt",
+            "id": "options-txt"
         },
         {
             "location": "shaderpacks/ComplementaryUnbound_r5.1.1.zip.txt"
@@ -1267,21 +1218,9 @@
     ],
     "features": [
         {
-            "id": "wynnlib",
-            "name": "WynnLib",
-            "default": false,
-            "description": "Adds QoL features to Wynn"
-        },
-        {
-            "id": "ydm",
-            "name": "YDM Weapon Master",
-            "default": false,
-            "description": "Puts weapons on your back"
-        },
-        {
             "id": "vow",
             "name": "Voices of Wynn",
-            "default": false,
+            "default": true,
             "description": "Adds voice acting to NPCs"
         },
         {
@@ -1289,6 +1228,12 @@
             "name": "bobby-file",
             "default": true,
             "hidden": true
+        },
+        {
+            "id": "dh",
+            "name": "Distant Horizons",
+            "default": true,
+            "description": "[-FPS] Adds Higher Render Distance via LODs"
         },
         {
             "id": "euphoria-patches",
@@ -1307,6 +1252,12 @@
             "name": "Weapon Packs",
             "default": true,
             "description": "[-FPS] Adds custom item models for many weapons"
+        },
+        {
+            "id": "options-txt",
+            "name": "options-txt",
+            "default": true,
+            "hidden": true
         }
     ]
 }
