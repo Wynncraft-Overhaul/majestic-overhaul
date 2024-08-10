@@ -12,7 +12,6 @@
     "minecraft:chest_minecart": 32,
     "minecraft:furnace_minecart": 32,
     "minecraft:command_block_minecart": 32,
-    "minecraft:item_display": 32,
     "minecraft:item": 32,
     "minecraft:shulker": 0
   }
