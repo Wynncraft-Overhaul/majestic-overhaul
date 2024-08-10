@@ -894,10 +894,6 @@
             "location": "shaderpacks/ComplementaryUnbound_r5.1.1.zip.txt"
         },
         {
-            "location": "shaderpacks/ComplementaryUnbound_r5.1.1 + EuphoriaPatches_1.1.txt",
-            "id": "euphoria-patches"
-        },
-        {
             "location": "resourcepacks/Wynncraft_Overhaul_Panorama.zip",
             "name": "Wynncraft Overhaul Panorama",
             "authors": [
