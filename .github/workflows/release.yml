@@ -8,8 +8,6 @@ jobs:
     steps:
       - name: checkout repo
         uses: actions/checkout@v4
-        with:
-          lfs: true
       - name: "Zip include"
         id: zip_include
         run: |
