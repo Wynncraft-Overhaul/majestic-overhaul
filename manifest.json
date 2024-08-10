@@ -1220,7 +1220,7 @@
         {
             "id": "vow",
             "name": "Voices of Wynn",
-            "default": true,
+            "default": false,
             "description": "Adds voice acting to NPCs"
         },
         {
@@ -1232,25 +1232,25 @@
         {
             "id": "dh",
             "name": "Distant Horizons",
-            "default": true,
+            "default": false,
             "description": "[-FPS] Adds Higher Render Distance via LODs"
         },
         {
             "id": "euphoria-patches",
             "name": "Euphoria Patches",
-            "default": true,
+            "default": false,
             "description": "[-FPS] Adds extra shader settings"
         },
         {
             "id": "fresh-moves",
             "name": "Fresh Moves",
-            "default": true,
+            "default": false,
             "description": "[-FPS] Adds new animations to the player"
         },
         {
             "id": "weapon-packs",
             "name": "Weapon Packs",
-            "default": true,
+            "default": false,
             "description": "[-FPS] Adds custom item models for many weapons"
         },
         {
