@@ -1,6 +1,6 @@
 {
     "manifest_version": 3,
-    "modpack_version": "2.0.0",
+    "modpack_version": "2.0.1",
     "name": "Majestic Creator",
     "subtitle": "CREATOR PACK",
     "description": "<p style=\"font-size: 1.4em;margin-top: 0;\">Immersive modpack for content creators</p>",
@@ -1104,7 +1104,7 @@
         },
         {
             "name": "Wynntils",
-            "version": "2.0.0-beta.15",
+            "version": "v2.0.0",
             "source": "ddl",
             "location": "https://github.com/Wynntils/Artemis/releases/download/v2.0.0-beta.15/wynntils-2.0.0-beta.15-fabric+MC-1.21.jar",
             "authors": [
