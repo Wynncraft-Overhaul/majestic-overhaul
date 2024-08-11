@@ -822,18 +822,6 @@
             ]
         },
         {
-            "name": "Rebind All The Keys",
-            "version": "1.5.2+1.21",
-            "source": "modrinth",
-            "location": "rebind-all-the-keys",
-            "authors": [
-                {
-                    "name": "Minenash",
-                    "link": "https://modrinth.com/user/Minenash"
-                }
-            ]
-        },
-        {
             "name": "Reese's Sodium Options",
             "version": "mc1.21-1.7.2",
             "source": "modrinth",
