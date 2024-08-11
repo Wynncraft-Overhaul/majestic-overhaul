@@ -953,18 +953,6 @@
             "id": "vow"
         },
         {
-            "name": "Wakes",
-            "version": "0.2.5",
-            "source": "ddl",
-            "location": "https://mediafilez.forgecdn.net/files/5519/566/wakes-0.2.5%2B1.21.jar",
-            "authors": [
-                {
-                    "name": "goby56",
-                    "link": "https://www.curseforge.com/members/goby56"
-                }
-            ]
-        },
-        {
             "name": "Wavey Capes",
             "version": "1.48-1.21",
             "source": "ddl",
@@ -978,7 +966,7 @@
         },
         {
             "name": "Wynntils",
-            "version": "v2.0.0",
+            "version": "v2.0.2",
             "source": "modrinth",
             "location": "wynntils",
             "authors": [
