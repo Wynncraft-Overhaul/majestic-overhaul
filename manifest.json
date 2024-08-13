@@ -854,16 +854,6 @@
     ],
     "include": [
         {
-            "location": "resourcepacks/Non_Intrustive_Spells.zip",
-            "name": "Non Intrusive Spells",
-            "authors": [
-                {
-                    "name": "Wynncraft",
-                    "link": "https://wynncraft.com/"
-                }
-            ]
-        },
-        {
             "location": ".bobby",
             "id": "bobby-file"
         },
