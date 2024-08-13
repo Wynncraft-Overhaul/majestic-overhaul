@@ -1051,18 +1051,6 @@
             ]
         },
         {
-            "name": "Fungal Orchestral Pack",
-            "version": "3.0",
-            "source": "ddl",
-            "location": "https://drive.usercontent.google.com/download?id=1uhGELAC323ooyk8jMZr-v93sk9tr54AM",
-            "authors": [
-                {
-                    "name": "VillagerFilms",
-                    "link": "https://www.youtube.com/@musicalmushroomvillagerfil4539"
-                }
-            ]
-        },
-        {
             "name": "Wynncraft Donjons",
             "version": "DJN2",
             "source": "modrinth",
@@ -1144,16 +1132,6 @@
                 {
                     "name": "Kiocifer",
                     "link": "https://forums.wynncraft.com/threads/kios-models.288166/"
-                }
-            ]
-        },
-        {
-            "location": "resourcepacks/Non_Intrustive_Spells.zip",
-            "name": "Non Intrusive Spells",
-            "authors": [
-                {
-                    "name": "Wynncraft",
-                    "link": "https://wynncraft.com/"
                 }
             ]
         },
