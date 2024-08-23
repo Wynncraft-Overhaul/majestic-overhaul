@@ -34,6 +34,18 @@
             ]
         },
         {
+            "name": "Wynncraft Dynamic Weather",
+            "version": "1.0.1-1.21",
+            "source": "modrinth",
+            "location": "wynncraft-dynamic-weather",
+            "authors": [
+                {
+                    "name": "quikjay",
+                    "link": "https://modrinth.com/user/quikjay"
+                }
+            ]
+        },
+        {
             "name": "3D Skin Layers",
             "version": "1.6.6",
             "source": "modrinth",
@@ -68,19 +80,6 @@
                     "link": "https://modrinth.com/user/MaxNeedsSnacks"
                 }
             ]
-        },
-        {
-            "name": "AutoHUD",
-            "version": "7.2.1+1.21-fabric",
-            "source": "modrinth",
-            "location": "autohud",
-            "authors": [
-                {
-                    "name": "Crendgrim",
-                    "link": "https://modrinth.com/user/Crendgrim"
-                }
-            ],
-            "id": "autohud"
         },
         {
             "name": "Barrier's Don't Block Rain",
@@ -1310,12 +1309,6 @@
             "name": "First Person Model",
             "default": false,
             "description": "Adds the player model into the first person view"
-        },
-        {
-            "id": "autohud",
-            "name": "AutoHUD",
-            "default": false,
-            "description": "Hides the HUD when not in use"
         },
         {
             "id": "vow",
