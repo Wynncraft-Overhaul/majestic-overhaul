@@ -82,17 +82,16 @@
             ]
         },
         {
-            "name": "AutoHUD",
-            "version": "7.2.1+1.21-fabric",
+            "name": "Wynncraft Dynamic Weather",
+            "version": "1.0.1-1.21",
             "source": "modrinth",
-            "location": "autohud",
+            "location": "wynncraft-dynamic-weather",
             "authors": [
                 {
-                    "name": "Crendgrim",
-                    "link": "https://modrinth.com/user/Crendgrim"
+                    "name": "quikjay",
+                    "link": "https://modrinth.com/user/quikjay"
                 }
-            ],
-            "id": "autohud"
+            ]
         },
         {
             "name": "Barrier's Don't Block Rain",
@@ -345,7 +344,8 @@
                     "name": "Crendgrim",
                     "link": "https://modrinth.com/user/Crendgrim"
                 }
-            ]
+            ],
+            "id": "dynamic-crosshair"
         },
         {
             "name": "Enhanced Block Entities",
@@ -1324,10 +1324,10 @@
             "description": "Adds the player model into the first person view"
         },
         {
-            "id": "autohud",
-            "name": "AutoHUD",
-            "default": false,
-            "description": "Hides the HUD when not in use"
+            "id": "dynamic-crosshair",
+            "name": "Dynamic Crosshair",
+            "default": true,
+            "description": "Hides the crosshair when not in use"
         },
         {
             "id": "vow",
