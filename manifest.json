@@ -332,7 +332,8 @@
                     "name": "Crendgrim",
                     "link": "https://modrinth.com/user/Crendgrim"
                 }
-            ]
+            ],
+            "id": "dynamic-crosshair"
         },
         {
             "name": "Enhanced Block Entities",
@@ -1309,6 +1310,12 @@
             "name": "First Person Model",
             "default": false,
             "description": "Adds the player model into the first person view"
+        },
+        {
+            "id": "dynamic-crosshair",
+            "name": "Dynamic Crosshair",
+            "default": true,
+            "description": "Hides the crosshair when not in use"
         },
         {
             "id": "vow",
