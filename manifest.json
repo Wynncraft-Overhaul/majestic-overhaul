@@ -34,6 +34,18 @@
             ]
         },
         {
+            "name": "Wynncraft Dynamic Weather",
+            "version": "1.0.1-1.21",
+            "source": "modrinth",
+            "location": "wynncraft-dynamic-weather",
+            "authors": [
+                {
+                    "name": "quikjay",
+                    "link": "https://modrinth.com/user/quikjay"
+                }
+            ]
+        },
+        {
             "name": "3D Skin Layers",
             "version": "1.6.6",
             "source": "modrinth",
