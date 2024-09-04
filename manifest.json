@@ -1004,9 +1004,21 @@
         },
         {
             "name": "Wynncraft Tooltips",
-            "version": "1.0",
-            "source": "modrinth",
-            "location": "wynncraft-tooltips",
+            "version": "1.1",
+            "source": "ddl",
+            "location": "https://cdn.modrinth.com/data/YBnDTlbG/versions/gg8QONpi/Wynncraft%20Tooltips%201.1.zip",
+            "authors": [
+                {
+                    "name": "Focal_Salt",
+                    "link": "https://modrinth.com/user/Focal_Salt"
+                }
+            ]
+        },
+                {
+            "name": "Wynncraft Tooltips Dark-mode",
+            "version": "1.1",
+            "source": "ddl",
+            "location": "https://cdn.modrinth.com/data/YBnDTlbG/versions/pB0h4X5O/Wynncraft%20Tooltips%201.1%20-%20Dark%20Mode.zip",
             "authors": [
                 {
                     "name": "Focal_Salt",
