@@ -59,9 +59,9 @@
         },
         {
             "name": "Better FPS Render Distance",
-            "version": "1.21-4.3",
+            "version": "1.21-5.1",
             "source": "ddl",
-            "location": "https://mediafilez.forgecdn.net/files/5483/334/betterfpsdist-fabric-1.21-4.3.jar",
+            "location": "https://mediafilez.forgecdn.net/files/5681/300/betterfpsdist-fabric-1.21-5.1.jar",
             "authors": [
                 {
                     "name": "someaddon",
