@@ -1015,6 +1015,18 @@
             ]
         },
         {
+            "name": "Wynncraft Tooltips",
+            "version": "1.1",
+            "source": "modrinth",
+            "location": "wynncraft-tooltips",
+            "authors": [
+                {
+                    "name": "Focal_Salt",
+                    "link": "https://modrinth.com/user/Focal_Salt"
+                }
+            ]
+        },
+        {
             "name": "Quiet Thunder",
             "version": "1.14.4",
             "source": "ddl",
