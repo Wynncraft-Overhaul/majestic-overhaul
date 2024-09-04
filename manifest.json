@@ -347,18 +347,6 @@
             ]
         },
         {
-            "name": "Iceberg",
-            "version": "1.2.4",
-            "source": "modrinth",
-            "location": "iceberg",
-            "authors": [
-                {
-                    "name": "Grend",
-                    "link": "https://modrinth.com/user/Grend"
-                }
-            ]
-        },
-        {
             "name": "ImmediatelyFast",
             "version": "1.2.18+1.21-fabric",
             "source": "modrinth",
@@ -571,18 +559,6 @@
                 {
                     "name": "glisco",
                     "link": "https://modrinth.com/user/glisco"
-                }
-            ]
-        },
-        {
-            "name": "Prism",
-            "version": "1.0.8",
-            "source": "modrinth",
-            "location": "prism-lib",
-            "authors": [
-                {
-                    "name": "Grend",
-                    "link": "https://modrinth.com/user/Grend"
                 }
             ]
         },
