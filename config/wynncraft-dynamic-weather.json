@@ -1,0 +1,8 @@
+{
+  "enableMod": true,
+  "renderVanillaSnow": false,
+  "weatherDuration": "DEFAULT",
+  "advanced": {
+    "enableDebugCommand": false
+  }
+}
