@@ -17,7 +17,7 @@
     "java_args": "-XX:+UnlockExperimentalVMOptions -XX:+UseG1GC -XX:G1NewSizePercent=20 -XX:G1ReservePercent=20 -XX:MaxGCPauseMillis=50 -XX:G1HeapRegionSize=32M",
     "loader": {
         "type": "fabric",
-        "version": "0.16.0",
+        "version": "0.16.5",
         "minecraft_version": "1.21"
     },
     "mods": [
