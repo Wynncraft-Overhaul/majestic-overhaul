@@ -190,6 +190,18 @@
             ]
         },
         {
+            "name": "CIT Resewn",
+            "version": "1.2.0+1.21",
+            "source": "modrinth",
+            "location": "cit-resewn",
+            "authors": [
+                {
+                    "name": "shsupercm",
+                    "link": "https://modrinth.com/user/shsupercm"
+                }
+            ]
+        },
+        {
             "name": "Client Side Noteblocks",
             "version": "2.8",
             "source": "modrinth",
