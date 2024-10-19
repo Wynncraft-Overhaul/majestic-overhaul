@@ -499,7 +499,7 @@
         },
         {
             "name": "FerriteCore",
-            "version": "7.0.0",
+            "version": "7.0.0-fabric",
             "source": "modrinth",
             "location": "ferrite-core",
             "authors": [
