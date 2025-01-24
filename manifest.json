@@ -948,9 +948,9 @@
     	{
         	"name": "Fresh Moves",
         	"id": "fresh-moves",
-        	"version": "3.0.1",
-        	"source": "ddl",
-        	"location": "https://cdn.modrinth.com/data/slufHzC2/versions/czKkLETN/Eyeless%20Fresh%20Moves%20v3.0.1.zip",
+        	"version": "3.1.1",
+        	"source": "modrinth",
+        	"location": "tras-fresh-player",
         	"authors": [
             	{
                 	"name": "TrasTick",
