@@ -968,7 +968,7 @@
     	}
 	],
 	"shaderpacks": [
-    	{
+		{
         	"name": "Complementary Unbound",
         	"version": "r5.3",
         	"source": "modrinth",
@@ -978,9 +978,56 @@
                 	"name": "EminGT",
                 	"link": "https://modrinth.com/user/EminGT"
             	}
-        	]
+	]
     	}
-	],
+],
+"include": [
+        {
+            "location": "resourcepacks/KiosWynnModels-Archangel.zip",
+            "id": "weapon-packs",
+            "name": "Kios Models",
+            "authors": [
+                {
+                    "name": "Kiocifer",
+                    "link": "https://forums.wynncraft.com/threads/kios-models.288166/"
+                }
+            ]
+        },
+        {
+            "location": "resourcepacks/Wynnic_Mobs_Overwrite.zip"
+        },
+        {
+            "location": ".bobby",
+            "id": "bobby-file"
+        },
+        {
+            "location": "config"
+        },
+        {
+            "location": "options.txt",
+            "id": "options-txt"
+        },
+        {
+            "location": "shaderpacks/ComplementaryUnbound_r5.2.2.zip.txt"
+        },
+        {
+            "location": "shaderpacks/ComplementaryUnbound_r5.2.2 + EuphoriaPatches_1.3.2.txt",
+            "id": "euphoria-patches"
+        },
+        {
+            "location": "resourcepacks/Wynncraft_Overhaul_Panorama.zip",
+            "name": "Wynncraft Overhaul Panorama",
+            "authors": [
+                {
+                    "name": "Elysium",
+                    "link": "https://www.youtube.com/@elysium_music"
+                }
+            ]
+        },
+        {
+            "location": "resourcepacks/Wynnic_Landscapes_Remastered.zip"
+        }
+    ],
     "features": [
         {
             "id": "first-person-model",
@@ -989,15 +1036,15 @@
             "description": "Adds the player model into the first person view"
         },
         {
-            "id": "autohud",
-            "name": "AutoHUD",
-            "default": false,
-            "description": "Hides the HUD when not in use"
+            "id": "dynamic-crosshair",
+            "name": "Dynamic Crosshair",
+            "default": true,
+            "description": "Hides the crosshair when not in use"
         },
         {
             "id": "vow",
             "name": "Voices of Wynn",
-            "default": true,
+            "default": false,
             "description": "Adds voice acting to NPCs"
         },
         {
@@ -1009,13 +1056,13 @@
         {
             "id": "dh",
             "name": "Distant Horizons",
-            "default": true,
+            "default": false,
             "description": "[-FPS] Adds Higher Render Distance via LODs"
         },
         {
             "id": "euphoria-patches",
             "name": "Euphoria Patches",
-            "default": true,
+            "default": false,
             "description": "[-FPS] Adds extra shader settings"
         },
         {
@@ -1027,7 +1074,7 @@
         {
             "id": "weapon-packs",
             "name": "Weapon Packs",
-            "default": true,
+            "default": false,
             "description": "[-FPS] Adds custom item models for many weapons"
         },
         {
