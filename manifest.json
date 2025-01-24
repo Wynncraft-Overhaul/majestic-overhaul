@@ -380,7 +380,7 @@
     	},
     	{
         	"name": "Forge Config API Port",
-        	"version": v21.4.1-1.21.4-Fabric",
+        	"version": "v21.4.1-1.21.4-Fabric",
         	"source": "modrinth",
         	"location": "forge-config-api-port",
         	"authors": [
