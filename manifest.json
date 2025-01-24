@@ -109,7 +109,7 @@
     	},
     	{
         	"name": "C2ME",
-        	"version": "0.3.1.1.0+1.21.4",
+        	"version": "0.3.2+alpha.0.30+1.21.4",
         	"source": "modrinth",
         	"location": "c2me-fabric",
         	"authors": [
@@ -536,9 +536,9 @@
     	},
     	{
         	"name": "Not Enough Animations",
-        	"version": "1.9.0",
-        	"source": "ddl",
-        	"location": "https://cdn.modrinth.com/data/MPCX6s5C/versions/WaI2x21x/notenoughanimations-fabric-1.7.4-mc1.21.jar",
+        	"version": "1.9.1",
+        	"source": "modrinth",
+        	"location": "not-enough-animations",
         	"authors": [
             	{
                 	"name": "tr7zw",
@@ -776,9 +776,9 @@
     	},
     	{
         	"name": "Wavey Capes",
-        	"version": "1.4.13",
-        	"source": "ddl",
-        	"location": "https://mediafilez.forgecdn.net/files/5499/502/waveycapes-fabric-1.4.8-mc1.21.jar",
+        	"version": "1.5.1",
+        	"source": "modrinth",
+        	"location": "wavey-capes",
         	"authors": [
             	{
                 	"name": "tr7zw",
