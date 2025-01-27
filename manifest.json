@@ -1,6 +1,6 @@
 {
     "manifest_version": 3,
-    "modpack_version": "3.0.3",
+    "modpack_version": "3.0.4",
     "name": "Majestic Beta Pack",
     "subtitle": "BETA PACK",
     "description": "<p style=\"font-size: 1.4em;margin-top: 0;\">1.21.4 BETA</p>",
@@ -301,6 +301,18 @@
         	]
     	},
     	{
+        	"name": "Enhanced Block Entities",
+        	"version": "0.11.3+1.21.4",
+        	"source": "modrinth",
+        	"location": "ebe",
+        	"authors": [
+            	{
+                	"name": "FoundationGames",
+                	"link": "https://modrinth.com/user/FoundationGames"
+            	}
+        	]
+    	},
+    	{
         	"name": "Euphoria Patches",
         	"version": "1.4.3-r5.3-fabric",
         	"source": "modrinth",
@@ -363,6 +375,18 @@
             	{
                 	"name": "Fourmisain",
                 	"link": "https://modrinth.com/user/Fourmisain"
+            	}
+        	]
+    	},
+	        	{
+        	"name": "Fzzy Config",
+        	"version": "0.6.3+1.21.3",
+        	"source": "modrinth",
+        	"location": "fzzy-config",
+        	"authors": [
+            	{
+                	"name": "fzzyhmstrs",
+                	"link": "https://modrinth.com/user/fzzyhmstrs"
             	}
         	]
     	},
@@ -439,14 +463,14 @@
         	]
     	},
     	{
-        	"name": "Zoomify",
-        	"version": "2.14.2+1.21.3",
+        	"name": "MacOS Input Fixes",
+        	"version": "1.8",
         	"source": "modrinth",
-        	"location": "zoomify",
+        	"location": "macos-input-fixes",
         	"authors": [
             	{
-                	"name": "isxander",
-                	"link": "https://modrinth.com/user/isxander"
+                	"name": "hamarb123",
+                	"link": "https://modrinth.com/user/hamarb123"
             	}
         	]
     	},
@@ -579,6 +603,18 @@
             	{
                 	"name": "PigCart",
                 	"link": "https://modrinth.com/user/PigCart"
+            	}
+        	]
+    	},
+	        	{
+        	"name": "Particle Core",
+        	"version": "0.2.5+1.21.4",
+        	"source": "modrinth",
+        	"location": "particle-core",
+        	"authors": [
+            	{
+                	"name": "fzzyhmstrs",
+                	"link": "https://modrinth.com/user/fzzyhmstrs"
             	}
         	]
     	},
@@ -870,6 +906,18 @@
                 	"link": "https://modrinth.com/user/isxander"
             	}
         	]
+    	},
+    	{
+        	"name": "Zoomify",
+        	"version": "2.14.2+1.21.3",
+        	"source": "modrinth",
+        	"location": "zoomify",
+        	"authors": [
+            	{
+                	"name": "isxander",
+                	"link": "https://modrinth.com/user/isxander"
+            	}
+        	]
     	}
 	],
 	"resourcepacks": [
@@ -1009,14 +1057,6 @@
         	]
     	}
 	],
-	"remote_include": [
-    	{
-        	"location": "https://www.dropbox.com/scl/fi/u20u4smtim4j7x74kh9yt/play-2Ewynncraft-2Ecom.zip?rlkey=815zx0nilufqlbnciifahpsac&st=5x404h28&dl=1",
-        	"id": "dh",
-        	"path": "Distant_Horizons_server_data",
-        	"version": "2.1"
-    	}
-	],
 	"shaderpacks": [
 		{
         	"name": "Complementary Unbound",
@@ -1102,12 +1142,6 @@
             "name": "bobby-file",
             "default": true,
             "hidden": true
-        },
-        {
-            "id": "dh",
-            "name": "Distant Horizons",
-            "default": false,
-            "description": "[-FPS] Adds Higher Render Distance via LODs"
         },
         {
             "id": "euphoria-patches",
