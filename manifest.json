@@ -1,6 +1,6 @@
 {
     "manifest_version": 3,
-    "modpack_version": "3.0.2",
+    "modpack_version": "3.0.3",
     "name": "Majestic Beta Pack",
     "subtitle": "BETA PACK",
     "description": "<p style=\"font-size: 1.4em;margin-top: 0;\">1.21.4 BETA</p>",
@@ -332,7 +332,7 @@
     	},
     	{
         	"name": "Fabric API",
-        	"version": "0.114.2+1.21.4",
+        	"version": "0.115.0+1.21.4",
         	"source": "modrinth",
         	"location": "fabric-api",
         	"authors": [
