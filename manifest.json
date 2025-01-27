@@ -1,6 +1,6 @@
 {
     "manifest_version": 3,
-    "modpack_version": "3.0.1",
+    "modpack_version": "3.0.2",
     "name": "Majestic Beta Pack",
     "subtitle": "BETA PACK",
     "description": "<p style=\"font-size: 1.4em;margin-top: 0;\">1.21.4 BETA</p>",
@@ -787,6 +787,43 @@
         	]
     	},
     	{
+        	"name": "Voices of Wynn",
+        	"version": "1.10.2",
+        	"source": "modrinth",
+        	"location": "vow",
+        	"authors": [
+            	{
+                	"name": "Kmaxi",
+                	"link": "https://www.curseforge.com/members/kmaxii"
+            	}
+        	],
+        	"id": "vow"
+    	},
+    	{
+        	"name": "Wynntils",
+        	"version": "v3.0.0",
+        	"source": "modrinth",
+        	"location": "wynntils",
+        	"authors": [
+            	{
+                	"name": "wynntils",
+                	"link": "https://modrinth.com/organization/wynntils"
+            	}
+        	]
+    	},
+    	{
+        	"name": "Wynntils Config Share",
+        	"version": "1.0.0-1.21",
+        	"source": "ddl",
+        	"location": "https://github.com/Commander07/Wynntils-Config-Sharing/releases/download/1.0.0-1.21/wynntils-config-sharing-1.0.0-1.21.jar",
+        	"authors": [
+            	{
+                	"name": "commander",
+                	"link": "https://modrinth.com/user/commander"
+            	}
+        	]
+    	},
+    	{
         	"name": "Weather Changer",
         	"version": "1.2.1",
         	"source": "modrinth",
@@ -862,9 +899,9 @@
     	},
     	{
         	"name": "Wynncraft Tooltips",
-        	"version": "1.1",
-        	"source": "ddl",
-        	"location": "https://cdn.modrinth.com/data/YBnDTlbG/versions/gg8QONpi/Wynncraft%20Tooltips%201.1.zip",
+        	"version": "2.0.0",
+        	"source": "modrinth",
+        	"location": "wynncraft-tooltips",
         	"authors": [
             	{
                 	"name": "Focal_Salt",
@@ -926,6 +963,19 @@
         	"version": "FLC9",
         	"source": "modrinth",
         	"location": "wynncraft-fables-legends",
+        	"authors": [
+            	{
+                	"name": "Rythew",
+                	"link": "https://modrinth.com/user/Rythew"
+            	}
+        	]
+    	},
+    	{
+        	"name": "Wynnic Fables & Legends -2-",
+        	"id": "weapon-packs",
+        	"version": "2.1.1",
+        	"source": "modrinth",
+        	"location": "wynn-fl2",
         	"authors": [
             	{
                 	"name": "Rythew",
