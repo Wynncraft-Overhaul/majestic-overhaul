@@ -24,18 +24,6 @@
     },
     "mods": [
     	{
-        	"name": "Particular",
-        	"version": "1.1.1+1.21.4",
-        	"source": "modrinth",
-        	"location": "particular",
-        	"authors": [
-            	{
-                	"name": "Chai",
-                	"link": "https://modrinth.com/user/Chai"
-            	}
-        	]
-    	},
-    	{
         	"name": "3D Skin Layers",
         	"version": "1.7.4",
         	"source": "modrinth",
@@ -615,6 +603,18 @@
             	{
                 	"name": "fzzyhmstrs",
                 	"link": "https://modrinth.com/user/fzzyhmstrs"
+            	}
+        	]
+    	},
+    	{
+        	"name": "Particular",
+        	"version": "1.1.1+1.21.4",
+        	"source": "modrinth",
+        	"location": "particular",
+        	"authors": [
+            	{
+                	"name": "Chai",
+                	"link": "https://modrinth.com/user/Chai"
             	}
         	]
     	},
