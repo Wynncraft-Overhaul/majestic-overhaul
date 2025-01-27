@@ -249,8 +249,7 @@
             	}
         	]
     	},
-    	},
-	        	{
+	{
         	"name": "Fzzy Config",
         	"version": "0.6.3+1.21.3",
         	"source": "modrinth",
