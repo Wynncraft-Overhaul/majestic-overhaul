@@ -1,6 +1,6 @@
 {
     "manifest_version": 3,
-    "modpack_version": "2.0.0",
+    "modpack_version": "2.0.1",
     "name": "1.21 Majestic Overhaul",
     "subtitle": "LEGACY PACK",
     "description": "<p style=\"font-size: 1.4em;margin-top: 0;\">1.21 Legacy version of Immersive Pack</p>",
@@ -21,18 +21,6 @@
         "minecraft_version": "1.21"
     },
     "mods": [
-        {
-            "name": "Physics Mod",
-            "version": "3.0.16",
-            "source": "modrinth",
-            "location": "physicsmod",
-            "authors": [
-                {
-                    "name": "haubna",
-                    "link": "https://modrinth.com/user/haubna"
-                }
-            ]
-        },
         {
             "name": "Wynncraft Dynamic Weather",
             "version": "1.0.1-1.21",
@@ -518,18 +506,6 @@
                 {
                     "name": "FlashyReese",
                     "link": "https://modrinth.com/user/FlashyReese"
-                }
-            ]
-        },
-        {
-            "name": "ImmediatelyFast",
-            "version": "1.2.18+1.21-fabric",
-            "source": "modrinth",
-            "location": "immediatelyfast",
-            "authors": [
-                {
-                    "name": "RaphiMC",
-                    "link": "https://modrinth.com/user/RaphiMC"
                 }
             ]
         },
