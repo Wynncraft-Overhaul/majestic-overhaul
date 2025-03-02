@@ -58,6 +58,18 @@
         	]
     	},
     	{
+        	"name": "Better FPS Render Distance",
+        	"version": "1.20-6.0",
+        	"source": "ddl",
+        	"location": "https://mediafilez.forgecdn.net/files/5723/261/betterfpsdist-fabric-1.21-6.0.jar",
+        	"authors": [
+            	{
+                	"name": "someaddon",
+                	"link": "https://www.curseforge.com/members/someaddon"
+            	}
+        	]
+    	},
+    	{
         	"name": "Bobby",
         	"version": "5.2.6+mc1.21.4",
         	"source": "modrinth",
@@ -466,6 +478,18 @@
         	]
     	},
     	{
+        	"name": "RemoveHUD",
+        	"version": "1.3b6",
+        	"source": "modrinth",
+        	"location": "removehud",
+        	"authors": [
+            	{
+                	"name": "IzzyDotExe",
+                	"link": "https://modrinth.com/user/IzzyDotExe"
+            	}
+        	]
+    	},
+    	{
         	"name": "ScalableLux",
         	"version": "0.1.2+beta.1+fabric.6d46f24",
         	"source": "modrinth",
@@ -587,7 +611,7 @@
     	},
     	{
         	"name": "Wynntils",
-        	"version": "v3.0.0",
+        	"version": "v3.0.8",
         	"source": "modrinth",
         	"location": "wynntils",
         	"authors": [
@@ -607,7 +631,8 @@
                 	"name": "commander",
                 	"link": "https://modrinth.com/user/commander"
             	}
-        	]
+        	],
+        	"id": "wynntils-config"
     	},
     	{
         	"name": "Weather Changer",
@@ -736,6 +761,12 @@
             "name": "Wynntils",
             "default": true,
             "description": "Quality of life features for Wynncraft"
+        },
+        {
+            "id": "wynntils-config",
+            "name": "Wynntils Preset Config",
+            "default": true,
+            "description": "Minimalist Wynntils settings applied on launch"
         },
         {
             "id": "options-txt",
