@@ -23,7 +23,7 @@
     "mods": [
     	{
         	"name": "Flashback",
-        	"version": "0.16.0",
+        	"version": "0.18.0",
         	"source": "modrinth",
         	"location": "flashback",
         	"authors": [
@@ -94,14 +94,14 @@
         	]
     	},
     	{
-        	"name": "C2ME",
-        	"version": "0.3.2+alpha.0.30+1.21.4",
-        	"source": "modrinth",
-        	"location": "c2me-fabric",
+        	"name": "Better FPS Render Distance",
+        	"version": "1.20-6.0",
+        	"source": "ddl",
+        	"location": "https://mediafilez.forgecdn.net/files/5723/261/betterfpsdist-fabric-1.21-6.0.jar",
         	"authors": [
             	{
-                	"name": "ishland",
-                	"link": "https://modrinth.com/user/ishland"
+                	"name": "someaddon",
+                	"link": "https://www.curseforge.com/members/someaddon"
             	}
         	]
     	},
@@ -169,7 +169,7 @@
         	"name": "Cupboard",
         	"version": "2.9",
         	"source": "ddl",
-        	"location": "https://mediafilez.forgecdn.net/files/6078/150/cupboard-1.21-2.9.jar",
+        	"location": "https://mediafilez.forgecdn.net/files/6114/706/cupboard-fabric-1.21-2.9.jar",
         	"authors": [
             	{
                 	"name": "someaddon",
@@ -363,6 +363,18 @@
         	]
     	},
     	{
+        	"name": "Iceberg",
+        	"version": "1.2.13",
+        	"source": "modrinth",
+        	"location": "iceberg",
+        	"authors": [
+            	{
+                	"name": "Grend",
+                	"link": "https://modrinth.com/user/Grend"
+            	}
+        	]
+    	},
+    	{
         	"name": "Iris",
         	"version": "1.8.5+1.21.4-fabric",
         	"source": "modrinth",
@@ -395,6 +407,18 @@
             	{
                 	"name": "2No2Name",
                 	"link": "https://modrinth.com/user/2No2Name"
+            	}
+        	]
+    	},
+    	{
+        	"name": "Legendary Tooltips",
+        	"version": "1.5.1",
+        	"source": "modrinth",
+        	"location": "legendary-tooltips",
+        	"authors": [
+            	{
+                	"name": "Grend",
+                	"link": "https://modrinth.com/user/Grend"
             	}
         	]
     	},
@@ -579,6 +603,18 @@
         	]
     	},
     	{
+        	"name": "Prism",
+        	"version": "1.0.10",
+        	"source": "modrinth",
+        	"location": "prism-lib",
+        	"authors": [
+            	{
+                	"name": "Grend",
+                	"link": "https://modrinth.com/user/Grend"
+            	}
+        	]
+    	},
+    	{
         	"name": "Reese's Sodium Options",
         	"version": "mc1.21.4-1.8.3+fabric",
         	"source": "modrinth",
@@ -587,6 +623,18 @@
             	{
                 	"name": "FlashyReese",
                 	"link": "https://modrinth.com/user/FlashyReese"
+            	}
+        	]
+    	},
+    	{
+        	"name": "RemoveHUD",
+        	"version": "1.3b6",
+        	"source": "modrinth",
+        	"location": "removehud",
+        	"authors": [
+            	{
+                	"name": "IzzyDotExe",
+                	"link": "https://modrinth.com/user/IzzyDotExe"
             	}
         	]
     	},
@@ -760,7 +808,7 @@
     	},
     	{
         	"name": "Wynntils",
-        	"version": "v3.0.0",
+        	"version": "v3.0.8",
         	"source": "modrinth",
         	"location": "wynntils",
         	"authors": [
@@ -780,7 +828,8 @@
                 	"name": "commander",
                 	"link": "https://modrinth.com/user/commander"
             	}
-        	]
+        	],
+        	"id": "wynntils-config"
     	},
     	{
         	"name": "Weather Changer",
@@ -943,18 +992,6 @@
         	]
     	},
     	{
-        	"name": "Fresh Animations",
-        	"version": "1.9.3",
-        	"source": "modrinth",
-        	"location": "fresh-animations",
-        	"authors": [
-            	{
-                	"name": "FreshLX",
-                	"link": "https://modrinth.com/user/FreshLX"
-            	}
-        	]
-    	},
-    	{
         	"name": "Fresh Moves",
         	"id": "fresh-moves",
         	"version": "3.1.1",
@@ -995,9 +1032,6 @@
             ]
         },
         {
-            "location": "resourcepacks/Wynnic_Mobs_Overwrite.zip"
-        },
-        {
             "location": ".bobby",
             "id": "bobby-file"
         },
@@ -1035,6 +1069,12 @@
             "name": "bobby-file",
             "default": true,
             "hidden": true
+        },
+        {
+            "id": "wynntils-config",
+            "name": "Wynntils Preset Config",
+            "default": true,
+            "description": "Minimalist Wynntils settings applied on launch"
         },
         {
             "id": "euphoria-patches",
