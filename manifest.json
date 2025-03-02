@@ -58,6 +58,19 @@
         	]
     	},
     	{
+        	"name": "Auto HUD",
+        	"version": "8.2+1.21.3-fabric",
+        	"source": "modrinth",
+        	"location": "autohud",
+        	"authors": [
+            	{
+                	"name": "Crendgrim",
+                	"link": "https://modrinth.com/user/Crendgrim"
+            	}
+        	],
+        	"id": "auto-hud"
+    	},
+    	{
         	"name": "Barrier's Don't Block Rain",
         	"version": "1.0.5",
         	"source": "modrinth",
@@ -90,6 +103,18 @@
             	{
                 	"name": "Johni0702",
                 	"link": "https://modrinth.com/user/Johni0702"
+            	}
+        	]
+    	},
+    	{
+        	"name": "Better FPS Render Distance",
+        	"version": "1.20-6.0",
+        	"source": "ddl",
+        	"location": "https://mediafilez.forgecdn.net/files/5723/261/betterfpsdist-fabric-1.21-6.0.jar",
+        	"authors": [
+            	{
+                	"name": "someaddon",
+                	"link": "https://www.curseforge.com/members/someaddon"
             	}
         	]
     	},
@@ -181,7 +206,7 @@
         	"name": "Cupboard",
         	"version": "2.9",
         	"source": "ddl",
-        	"location": "https://mediafilez.forgecdn.net/files/6078/150/cupboard-1.21-2.9.jar",
+        	"location": "https://mediafilez.forgecdn.net/files/6114/706/cupboard-fabric-1.21-2.9.jar",
         	"authors": [
             	{
                 	"name": "someaddon",
@@ -401,6 +426,18 @@
         	]
     	},
     	{
+        	"name": "Iceberg",
+        	"version": "1.2.13",
+        	"source": "modrinth",
+        	"location": "iceberg",
+        	"authors": [
+            	{
+                	"name": "Grend",
+                	"link": "https://modrinth.com/user/Grend"
+            	}
+        	]
+    	},
+    	{
         	"name": "Iris",
         	"version": "1.8.5+1.21.4-fabric",
         	"source": "modrinth",
@@ -433,6 +470,18 @@
             	{
                 	"name": "2No2Name",
                 	"link": "https://modrinth.com/user/2No2Name"
+            	}
+        	]
+    	},
+    	{
+        	"name": "Legendary Tooltips",
+        	"version": "1.5.1",
+        	"source": "modrinth",
+        	"location": "legendary-tooltips",
+        	"authors": [
+            	{
+                	"name": "Grend",
+                	"link": "https://modrinth.com/user/Grend"
             	}
         	]
     	},
@@ -617,6 +666,18 @@
         	]
     	},
     	{
+        	"name": "Prism",
+        	"version": "1.0.10",
+        	"source": "modrinth",
+        	"location": "prism-lib",
+        	"authors": [
+            	{
+                	"name": "Grend",
+                	"link": "https://modrinth.com/user/Grend"
+            	}
+        	]
+    	},
+    	{
         	"name": "Reese's Sodium Options",
         	"version": "mc1.21.4-1.8.3+fabric",
         	"source": "modrinth",
@@ -625,6 +686,18 @@
             	{
                 	"name": "FlashyReese",
                 	"link": "https://modrinth.com/user/FlashyReese"
+            	}
+        	]
+    	},
+    	{
+        	"name": "RemoveHUD",
+        	"version": "1.3b6",
+        	"source": "modrinth",
+        	"location": "removehud",
+        	"authors": [
+            	{
+                	"name": "IzzyDotExe",
+                	"link": "https://modrinth.com/user/IzzyDotExe"
             	}
         	]
     	},
@@ -749,6 +822,18 @@
         	]
     	},
     	{
+        	"name": "Tiny Item Animations",
+        	"version": "1.2.2",
+        	"source": "modrinth",
+        	"location": "tiny-item-animations",
+        	"authors": [
+            	{
+                	"name": "Trivaxy",
+                	"link": "https://modrinth.com/user/Trivaxy"
+            	}
+        	]
+    	},
+    	{
         	"name": "ukulib",
         	"version": "1.6.0+1.21.4",
         	"source": "modrinth",
@@ -810,7 +895,7 @@
     	},
     	{
         	"name": "Voices of Wynn",
-        	"version": "1.10.2",
+        	"version": "v1.10.4",
         	"source": "modrinth",
         	"location": "vow",
         	"authors": [
@@ -823,13 +908,25 @@
     	},
     	{
         	"name": "Wynntils",
-        	"version": "v3.0.0",
+        	"version": "v3.0.8",
         	"source": "modrinth",
         	"location": "wynntils",
         	"authors": [
             	{
                 	"name": "wynntils",
                 	"link": "https://modrinth.com/organization/wynntils"
+            	}
+        	]
+    	},
+    	{
+        	"name": "Wakes",
+        	"version": "0.2.2-1.21.4",
+        	"source": "modrinth",
+        	"location": "satin-free-wakes",
+        	"authors": [
+            	{
+                	"name": "Commander",
+                	"link": "https://modrinth.com/user/commander"
             	}
         	]
     	},
@@ -843,7 +940,8 @@
                 	"name": "commander",
                 	"link": "https://modrinth.com/user/commander"
             	}
-        	]
+        	],
+        	"id": "wynntils-config"
     	},
     	{
         	"name": "Weather Changer",
@@ -1094,6 +1192,12 @@
     ],
     "features": [
         {
+            "id": "wynntils-config",
+            "name": "Wynntils Preset Config",
+            "default": true,
+            "description": "Minimalist Wynntils settings applied on launch"
+        },
+        {
             "id": "first-person-model",
             "name": "First Person Model",
             "default": false,
@@ -1104,6 +1208,12 @@
             "name": "Dynamic Crosshair",
             "default": true,
             "description": "Hides the crosshair when not in use"
+        },
+        {
+            "id": "auto-hud",
+            "name": "AutoHUD",
+            "default": false,
+            "description": "Hides the hotbar when not in use"
         },
         {
             "id": "vow",
