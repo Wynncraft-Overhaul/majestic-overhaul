@@ -131,18 +131,6 @@
         	]
     	},
     	{
-        	"name": "C2ME",
-        	"version": "0.3.2+alpha.0.30+1.21.4",
-        	"source": "modrinth",
-        	"location": "c2me-fabric",
-        	"authors": [
-            	{
-                	"name": "ishland",
-                	"link": "https://modrinth.com/user/ishland"
-            	}
-        	]
-    	},
-    	{
         	"name": "Capes",
         	"version": "1.5.4+1.21.4",
         	"source": "modrinth",
