@@ -21,6 +21,19 @@
         "minecraft_version": "1.21.4"
     },
     "mods": [
+	{
+        	"name": "Flashback",
+        	"version": "0.18.0",
+        	"source": "modrinth",
+        	"location": "flashback",
+        	"authors": [
+            	{
+                	"name": "Moulberry",
+                	"link": "https://modrinth.com/user/Moulberry"
+            	}
+        	],
+        	"id": "flashback"
+    	},
     	{
         	"name": "3D Skin Layers",
         	"version": "1.7.4",
@@ -1374,6 +1387,12 @@
             "name": "Zoomify",
             "default": false,
             "description": "Adds toggable zoom"
+        },
+	{
+            "id": "flashback",
+            "name": "Flashback",
+            "default": false,
+            "description": "Record replays of your gameplay"
         },
         {
             "id": "options-txt",
