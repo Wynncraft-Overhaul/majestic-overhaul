@@ -1176,7 +1176,8 @@
                 	"name": "EminGT",
                 	"link": "https://modrinth.com/user/EminGT"
             	}
-	]
+	],
+        	"id": "shaders"
     	}
 ],
 "include": [
@@ -1189,8 +1190,7 @@
                     "name": "Kiocifer",
                     "link": "https://forums.wynncraft.com/threads/kios-models.288166/"
             	}
-        	],
-        	"id": "weapon-packs"
+        	]
     	},
         {
             "location": ".bobby",
