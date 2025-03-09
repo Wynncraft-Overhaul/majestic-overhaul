@@ -1058,7 +1058,8 @@
                 	"name": "JoeFly",
                 	"link": "https://modrinth.com/user/JoeFly"
             	}
-        	]
+        	],
+        	"id": "cubic-sun"
     	},
     	{
         	"name": "Fungal Orchestral Pack",
@@ -1070,7 +1071,8 @@
                 	"name": "VillagerFilms",
                 	"link": "https://www.youtube.com/@musicalmushroomvillagerfil4539"
             	}
-        	]
+        	],
+        	"id": "sounds"
     	},
     	{
         	"name": "Wynncraft Tooltips",
@@ -1082,7 +1084,8 @@
                 	"name": "Focal_Salt",
                 	"link": "https://modrinth.com/user/Focal_Salt"
             	}
-        	]
+        	],
+        	"id": "tooltips"
     	},
     	{
         	"name": "Water Improved",
@@ -1106,7 +1109,8 @@
                 	"name": "Rythew",
                 	"link": "https://modrinth.com/user/Rythew"
             	}
-        	]
+        	],
+        	"id": "weapons"
     	},
     	{
         	"name": "Wynnic Fables & Legends",
@@ -1145,7 +1149,8 @@
                 	"name": "TrasTick",
                 	"link": "https://modrinth.com/user/TrasTick"
             	}
-        	]
+        	],
+        	"id": "enough-anims"
     	}
 	],
 	"shaderpacks": [
