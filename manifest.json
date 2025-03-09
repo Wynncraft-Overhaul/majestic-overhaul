@@ -1140,7 +1140,6 @@
     	},
     	{
         	"name": "Fresh Moves",
-        	"id": "fresh-moves",
         	"version": "3.1.1",
         	"source": "modrinth",
         	"location": "tras-fresh-player",
