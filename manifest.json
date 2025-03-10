@@ -1258,7 +1258,7 @@
         },
 	{
             "id": "immersive-sounds",
-            "name": "Sound Mods",
+            "name": "Immersive Sounds",
             "default": false,
             "description": "Mods to make various sounds more immersive"
         },
@@ -1276,13 +1276,13 @@
         },
 	{
             "id": "rain",
-            "name": "Rain mods",
+            "name": "Toggable Weather",
             "default": false,
             "description": "Mods to support toggable weather"
         },
 	{
             "id": "better-water",
-            "name": "Water mods",
+            "name": "Immersive Water Mods",
             "default": false,
             "description": "Immersive water effects like cascades and wakes"
         },
@@ -1305,16 +1305,16 @@
             "description": "Carry your weapon on your back"
         },
 	{
-            "id": "shoulder",
-            "name": "Shoulder Surfing",
-            "default": false,
-            "description": "Toggable shoulder surfing perspective"
-        },
-	{
             "id": "enough-anim",
             "name": "Player Animation Mods",
             "default": false,
             "description": "Immersive player animations"
+        },
+	{
+            "id": "shoulder",
+            "name": "Shoulder Surfing Reloaded",
+            "default": false,
+            "description": "Toggable shoulder surfing perspective"
         },
 	{
             "id": "3d-skin",
@@ -1372,7 +1372,7 @@
         },
 	{
             "id": "better-options",
-            "name": "Better Option Mods",
+            "name": "Better Options Mods",
             "default": false,
             "description": "Mods to improve the option menus"
         },
