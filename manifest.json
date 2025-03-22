@@ -13,6 +13,8 @@
     "settings_background": "https://i.ibb.co/XCzqF7x/back-2.png",
     "icon": true,
     "trend": false,
+    "is_new": false,
+	"category": "Immersive",
     "uuid": "41a82bfb43bd4ea2aa962137b25288d1",
     "max_mem": 4096,
     "java_args": "-XX:+UnlockExperimentalVMOptions -XX:+UseG1GC -XX:G1NewSizePercent=20 -XX:G1ReservePercent=20 -XX:MaxGCPauseMillis=50 -XX:G1HeapRegionSize=32M",
