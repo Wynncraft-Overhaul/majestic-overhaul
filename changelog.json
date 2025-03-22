@@ -1,38 +1,38 @@
 {
   "entries": [
     {
-      "title": "Major Performance Update",
-      "contents": "<p>This release brings significant performance improvements across the board:</p><ul><li>Reduced memory usage by 30%</li><li>Fixed lag spikes in busy areas</li><li>Improved startup time</li></ul>",
-      "date": "March 18, 2025",
-      "version": "2.3.0",
+      "title": "New Visual Enhancements",
+      "contents": "<p>This release brings new visual improvements and other updates:</p><ul><li>ADDED: AutoHUD, Legendary Tooltips, Tiny Item Animations, RemoveHUD, BetterFPSRD, Iceberg, Prism & Wakes</li><li>UPDATED: Cupboard, Voices of Wynn & Wynntils</li><li>Made the Wynntils Preset Config optional</li></ul>",
+      "date": "March 2, 2025",
+      "version": "3.0.2",
+      "importance": "minor"
+    },
+    {
+      "title": "Minor Fix",
+      "contents": "<p>Fixed a GUI issue caused by Immediately Fast</p>",
+      "date": "January 28, 2025",
+      "version": "3.0.1",
+      "importance": "bugfix"
+    },
+    {
+      "title": "Major Modpack Update",
+      "contents": "<p>Major update bringing all modpacks to Minecraft 1.21.4</p><ul><li>ADDED: Particular & Zoomify</li><li>UPDATED: Wynntils & Voices of Wynn</li><li>Updated the Legacy Pack to 1.21</li></ul>",
+      "date": "January 28, 2025", 
+      "version": "3.0.0",
       "importance": "major"
     },
     {
-      "title": "New Visual Enhancements",
-      "contents": "<p>Added several visual improvements to the modpack:</p><ul><li>Enhanced water reflections</li><li>Better lighting in caves and dungeons</li><li>New particle effects for spells</li></ul>",
-      "date": "March 5, 2025",
-      "version": "2.2.0",
-      "importance": "minor"
-    },
-    {
-      "title": "Quest Tracker Improvements",
-      "contents": "<p>Updates to the quest tracking system:</p><ul><li>Fixed quest markers sometimes not appearing</li><li>Added ability to filter quests by type</li><li>Improved quest list organization</li></ul>",
-      "date": "February 20, 2025", 
-      "version": "2.1.1",
-      "importance": "minor"
-    },
-    {
-      "title": "Bug Fixes",
-      "contents": "<p>Several important bug fixes:</p><ul><li>Fixed crash when entering certain dungeons</li><li>Resolved incompatibility with latest game update</li><li>Fixed minimap issues in new zones</li></ul>",
-      "date": "February 10, 2025",
-      "version": "2.1.0",
-      "importance": "bugfix"
+      "title": "Major Modpack Update",
+      "contents": "<p>Updated all modpacks to Minecraft 1.21</p><ul><li>Created a new light-weight modpack: MAJESTIC LITE</li><li>Created a new beta testing modpack: BETA PACK</li><li></li></ul>",
+      "date": "July 1, 2024",
+      "version": "2.0.0",
+      "importance": "major"
     },
     {
       "title": "Initial Release",
       "contents": "<p>First public release of the Wynncraft Overhaul modpack installer! Features include:</p><ul><li>Easy one-click installation</li><li>Support for multiple launchers</li><li>Customizable mod selection</li></ul>",
-      "date": "January 25, 2025",
-      "version": "2.0.0",
+      "date": "May 4, 2024",
+      "version": "1.0.0",
       "importance": "major"
     }
   ]
