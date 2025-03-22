@@ -1,0 +1,39 @@
+{
+  "entries": [
+    {
+      "title": "Major Performance Update",
+      "contents": "<p>This release brings significant performance improvements across the board:</p><ul><li>Reduced memory usage by 30%</li><li>Fixed lag spikes in busy areas</li><li>Improved startup time</li></ul>",
+      "date": "March 18, 2025",
+      "version": "2.3.0",
+      "importance": "major"
+    },
+    {
+      "title": "New Visual Enhancements",
+      "contents": "<p>Added several visual improvements to the modpack:</p><ul><li>Enhanced water reflections</li><li>Better lighting in caves and dungeons</li><li>New particle effects for spells</li></ul>",
+      "date": "March 5, 2025",
+      "version": "2.2.0",
+      "importance": "minor"
+    },
+    {
+      "title": "Quest Tracker Improvements",
+      "contents": "<p>Updates to the quest tracking system:</p><ul><li>Fixed quest markers sometimes not appearing</li><li>Added ability to filter quests by type</li><li>Improved quest list organization</li></ul>",
+      "date": "February 20, 2025", 
+      "version": "2.1.1",
+      "importance": "minor"
+    },
+    {
+      "title": "Bug Fixes",
+      "contents": "<p>Several important bug fixes:</p><ul><li>Fixed crash when entering certain dungeons</li><li>Resolved incompatibility with latest game update</li><li>Fixed minimap issues in new zones</li></ul>",
+      "date": "February 10, 2025",
+      "version": "2.1.0",
+      "importance": "bugfix"
+    },
+    {
+      "title": "Initial Release",
+      "contents": "<p>First public release of the Wynncraft Overhaul modpack installer! Features include:</p><ul><li>Easy one-click installation</li><li>Support for multiple launchers</li><li>Customizable mod selection</li></ul>",
+      "date": "January 25, 2025",
+      "version": "2.0.0",
+      "importance": "major"
+    }
+  ]
+}
