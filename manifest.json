@@ -17,7 +17,6 @@
     "icon": true,
 	"is_new": false,
 	"category": "Beta",
-	"short_description": "Beta Testing",
     "uuid": "2e8531e9233446ee9239b9c4e1c44ebc",
     "max_mem": 4096,
     "java_args": "-XX:+UnlockExperimentalVMOptions -XX:+UseG1GC -XX:G1NewSizePercent=20 -XX:G1ReservePercent=20 -XX:MaxGCPauseMillis=50 -XX:G1HeapRegionSize=32M",
