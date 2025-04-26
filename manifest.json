@@ -453,18 +453,6 @@
             ]
         },
         {
-            "name": "FabricSkyboxes",
-            "version": "mc1.21-0.7.4",
-            "source": "modrinth",
-            "location": "fabricskyboxes",
-            "authors": [
-                {
-                    "name": "AMereBagatelle",
-                    "link": "https://modrinth.com/user/AMereBagatelle"
-                }
-            ]
-        },
-        {
             "name": "Falling Leaves",
             "version": "1.16.0+1.21",
             "source": "modrinth",
@@ -497,18 +485,6 @@
                 {
                     "name": "Fuzs",
                     "link": "https://modrinth.com/user/Fuzs"
-                }
-            ]
-        },
-        {
-            "name": "FabricSkyBoxes Interop",
-            "version": "mc1.21-1.4.0",
-            "source": "modrinth",
-            "location": "fabricskyboxes-interop",
-            "authors": [
-                {
-                    "name": "FlashyReese",
-                    "link": "https://modrinth.com/user/FlashyReese"
                 }
             ]
         },
