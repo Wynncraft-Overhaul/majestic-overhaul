@@ -27,8 +27,8 @@
     	{
         	"name": "Flashback",
         	"version": "0.32.0",
-        	"source": "modrinth",
-        	"location": "flashback",
+        	"source": "dll",
+        	"location": "https://cdn.modrinth.com/data/4das1Fjq/versions/HXwuY7t7/Flashback-0.32.0-for-MC1.21.4.jar",
         	"authors": [
             	{
                 	"name": "Moulberry",
