@@ -186,8 +186,8 @@
     	{
         	"name": "Cull Leaves",
         	"version": "4.0.3-fabric",
-        	"source": "ddl",
-        	"location": "https://mediafilez.forgecdn.net/files/5441/879/cullleaves-fabric-3.4.0.jar",
+        	"source": "modrinth",
+        	"location": "cull-leaves",
         	"authors": [
             	{
                 	"name": "motschen",
