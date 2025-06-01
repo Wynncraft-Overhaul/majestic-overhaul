@@ -900,6 +900,18 @@
         	"id": "vow"
     	},
     	{
+        	"name": "Variants-CIT",
+        	"version": "3.6.1+1.21.4",
+        	"source": "modrinth",
+        	"location": "variants-cit",
+        	"authors": [
+            	{
+                	"name": "Estecka",
+                	"link": "https://modrinth.com/user/Estecka"
+            	}
+        	]
+    	},
+    	{
         	"name": "Wynntils",
         	"version": "v3.0.18",
         	"source": "modrinth",
@@ -1061,7 +1073,7 @@
     	{
         	"name": "Wynnic Fables & Legends",
         	"id": "weapon-packs",
-        	"version": "FLC9",
+        	"version": "FLC10",
         	"source": "modrinth",
         	"location": "wynncraft-fables-legends",
         	"authors": [
@@ -1076,7 +1088,7 @@
         	"id": "weapon-packs",
         	"version": "2.1.1",
         	"source": "modrinth",
-        	"location": "wynn-fl2",
+        	"location": "2.2_VCIT",
         	"authors": [
             	{
                 	"name": "Rythew",
