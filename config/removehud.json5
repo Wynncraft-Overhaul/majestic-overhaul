@@ -13,7 +13,7 @@
 	"StatusEffectOverlay": true,
 	"SpectatorHud": false,
 	"SpectatorMenu": false,
-	"HeldItemTooltip": false,
+	"HeldItemTooltip": true,
 	"MountJumpbar": true,
 	"MountHealth": false,
 	"BossBar": true,
