@@ -1587,5 +1587,117 @@
       ],
       "dependencies": ["iris"]
     } 
+  ],
+
+  "include": [
+    {
+      "id": "kios-models",
+      "name": "Kios Models",
+      "description": "Custom weapon models for Wynncraft",
+      "source": "github",
+      "location": "resourcepacks/KiosWynnModels-Archangel.zip",
+      "version": "1.0",
+      "optional": true,
+      "default_enabled": false,
+      "category": "TEXTURES",
+      "authors": [
+        {
+          "name": "Kiocifer",
+          "link": "https://forums.wynncraft.com/threads/kios-models.288166/"
+        }
+      ]
+    },
+    {
+      "id": "panorama",
+      "name": "Overhaul Panorama",
+      "description": "Custom menu panorama",
+      "source": "github",
+      "location": "resourcepacks/Wynncraft_Overhaul_Panorama.zip",
+      "version": "1.0",
+      "optional": true,
+      "default_enabled": true,
+      "category": "TEXTURES",
+      "authors": [
+        {
+          "name": "Elysium",
+          "link": "https://www.youtube.com/@elysium_music"
+        }
+      ]
+    },
+    {
+      "id": "landscapes",
+      "name": "Wynnic Landscapes Remastered",
+      "description": "Custom grass and dirt textures",
+      "source": "github",
+      "location": "resourcepacks/Wynnic_Landscapes_Remastered.zip",
+      "version": "1.0",
+      "optional": true,
+      "default_enabled": true,
+      "category": "TEXTURES",
+      "authors": [
+        {
+          "name": "Olinus10",
+          "link": "https://www.youtube.com/@Olinus10"
+        }
+      ]
+    },
+    {
+      "id": "config",
+      "name": "Configs",
+      "description": "Config presets for the Overhaul modpack",
+      "source": "github",
+      "location": "config",
+      "version": "1.0",
+      "optional": false,
+      "default_enabled": true,
+      "category": "OPTIONS"
+    },
+    {
+      "id": "options",
+      "name": "Options.txt",
+      "description": "Default settings for the Overhaul modpack",
+      "source": "github",
+      "location": "options.txt",
+      "version": "1.0",
+      "optional": false,
+      "default_enabled": true,
+      "category": "OPTIONS"
+    },
+    {
+      "id": "unbound-settings",
+      "name": "Complementary Unbound Settings",
+      "description": "Shader settings for Complementary unbound",
+      "source": "github",
+      "location": "shaderpacks/ComplementaryUnbound_r5.2.2.zip.txt",
+      "version": "1.0",
+      "optional": true,
+      "default_enabled": true,
+      "category": "SHADERS",
+      "dependencies": ["complementary-unbound"]
+    },
+      {
+      "id": "euphoria-settings",
+      "name": "Complementary Unbound Settings",
+      "description": "Shader settings for Euphoria Patches",
+      "source": "github",
+      "location": "shaderpacks/ComplementaryUnbound_r5.2.2 + EuphoriaPatches_1.3.2.txt",
+      "version": "1.0",
+      "optional": true,
+      "default_enabled": false,
+      "category": "SHADERS",
+      "dependencies": ["complementary-unbound", "euphoria-patches"] 
+    },
+    {
+      "id": "bobby-folder",
+      "name": "Bobby World Data",
+      "description": "Bobby data for Wynncraft",
+      "source": "github",
+      "location": ".bobby",
+      "version": "1.0",
+      "optional": true,
+      "default_enabled": true,
+      "category": "VISUALS",
+      "dependencies": ["bobby"]
+    },
   ]
 }
