@@ -1,0 +1,1591 @@
+{
+  "manifest_version": 3,
+  "modpack_version": "1.0.0",
+  "minecraft_version": "1.21.4",
+  "name": "Majestic Overhaul",
+  "subtitle": "Universal Modpack",
+  "description": "A complete overhaul experience for Wynncraft with customizable features",
+  "icon": true,
+  "uuid": "wynncraft-overhaul-universal",
+  "version": "1.0.0",
+  "short_description": "Customizable Wynncraft Modpack",
+  "category": "gameplay",
+  
+  "loader": {
+    "type": "fabric",
+    "version": "0.16.10",
+    "minecraft_version": "1.21.4"
+  },
+  
+  "max_mem": 8128,
+  "min_mem": 1024,
+  "java_args": "-XX:+UseG1GC -XX:+UnlockExperimentalVMOptions -XX:G1NewSizePercent=20 -XX:G1ReservePercent=20 -XX:MaxGCPauseMillis=50 -XX:G1HeapRegionSize=32M",
+  
+  "mods": [
+    {
+      "id": "flashback",
+      "name": "Flashback",
+      "description": "Record replays of your gameplay",
+      "source": "modrinth",
+      "location": "flashback",
+      "version": "0.18.0",
+      "optional": true,
+      "default_enabled": false,
+      "category": "RECORDING",
+      "authors": [
+        {
+          "name": "Moulberry",
+          "link": "https://modrinth.com/user/Moulberry"
+        }
+      ]
+    },
+    {
+      "id": "3dskinlayers",
+      "name": "3D Skin Layers",
+      "description": "3D player skins",
+      "source": "modrinth",
+      "location": "3dskinlayers",
+      "version": "1.7.4",
+      "optional": true,
+      "default_enabled": false,
+      "category": "PLAYER",
+      "authors": [
+        {
+          "name": "tr7zw",
+          "link": "https://modrinth.com/user/tr7zw"
+        }
+      ]
+    },
+    {
+      "id": "ambientSOUND",
+      "name": "AmbientSOUND",
+      "description": "Adds immersive ambient SOUND",
+      "source": "modrinth",
+      "location": "ambientSOUND",
+      "version": "6.1.3",
+      "optional": true,
+      "default_enabled": false,
+      "category": "SOUND",
+      "authors": [
+        {
+          "name": "creativemd",
+          "link": "https://modrinth.com/user/creativemd"
+        }
+      ]
+    },
+    {
+      "id": "architectury-api",
+      "name": "Architectury API",
+      "description": "An API for modern Minecraft architectures",
+      "source": "modrinth",
+      "location": "architectury-api",
+      "version": "15.0.1+fabric",
+      "optional": false,
+      "default_enabled": true,
+      "category": "LIBRARY",
+      "authors": [
+        {
+          "name": "MaxNeedsSnacks",
+          "link": "https://modrinth.com/user/MaxNeedsSnacks"
+        }
+      ]
+    },
+    {
+      "id": "autohud",
+      "name": "Auto HUD",
+      "description": "Hide the hotbar and crosshair when not in use",
+      "source": "modrinth",
+      "location": "autohud",
+      "version": "8.2+1.21.3-fabric",
+      "optional": true,
+      "default_enabled": false,
+      "category": "GUI",
+      "authors": [
+        {
+          "name": "Crendgrim",
+          "link": "https://modrinth.com/user/Crendgrim"
+        }
+      ]
+    },
+    {
+      "id": "barriers-dont-block-rain",
+      "name": "Barrier's Don't Block Rain",
+      "description": "Makes barriers not block rain effects",
+      "source": "modrinth",
+      "location": "barriers-dont-block-rain",
+      "version": "1.0.5",
+      "optional": true,
+      "default_enabled": false,
+      "category": "IMMERSIVE",
+      "authors": [
+        {
+          "name": "commander",
+          "link": "https://modrinth.com/user/commander"
+        }
+      ]
+    },
+    {
+      "id": "betterf3",
+      "name": "BetterF3",
+      "description": "Improves the F3 debug screen",
+      "source": "modrinth",
+      "location": "betterf3",
+      "version": "13.0.0",
+      "optional": true,
+      "default_enabled": false,
+      "category": "OPTIONS",
+      "authors": [
+        {
+          "name": "TreyRuffy",
+          "link": "https://modrinth.com/user/TreyRuffy"
+        }
+      ]
+    },
+    {
+      "id": "bobby",
+      "name": "Bobby",
+      "description": "Increase render distance past the server cap",
+      "source": "modrinth",
+      "location": "bobby",
+      "version": "5.2.6+mc1.21.4",
+      "optional": true,
+      "default_enabled": false,
+      "category": "IMMERSIVE",
+      "authors": [
+        {
+          "name": "Johni0702",
+          "link": "https://modrinth.com/user/Johni0702"
+        }
+      ]
+    },
+    {
+      "id": "betterfpsdist-fabric-1.21-6.0.jar",
+      "name": "Better FPS Render Distance",
+      "description": "Improves FPS with higher render distances",
+      "source": "ddl",
+      "location": "https://mediafilez.forgecdn.net/files/5723/261/betterfpsdist-fabric-1.21-6.0.jar",
+      "version": "1.20-6.0",
+      "optional": true,
+      "default_enabled": false,
+      "category": "OPTIMIZATION",
+      "authors": [
+        {
+          "name": "someaddon",
+          "link": "https://www.curseforge.com/members/someaddon"
+        }
+      ]
+    },
+    {
+      "id": "c2me-fabric",
+      "name": "C2ME",
+      "description": "Chunk loading optimization mod",
+      "source": "modrinth",
+      "location": "c2me-fabric",
+      "version": "0.3.2+alpha.0.30+1.21.4",
+      "optional": true,
+      "default_enabled": false,
+      "category": "OPTIMIZATION",
+      "authors": [
+        {
+          "name": "ishland",
+          "link": "https://modrinth.com/user/ishland"
+        }
+      ]
+    },
+    {
+      "id": "capes",
+      "name": "Capes",
+      "description": "Adds custom capes",
+      "source": "modrinth",
+      "location": "capes",
+      "version": "1.5.4+1.21.4",
+      "optional": true,
+      "default_enabled": false,
+      "category": "PLAYER",
+      "authors": [
+        {
+          "name": "caelthecolher",
+          "link": "https://modrinth.com/user/caelthecolher"
+        }
+      ]
+    },
+    {
+      "id": "chatanimation",
+      "name": "Chat Animation",
+      "description": "Adds an animation to chat messages",
+      "source": "modrinth",
+      "location": "chatanimation",
+      "version": "1.0.6",
+      "optional": true,
+      "default_enabled": false,
+      "category": "ANIMATIONS",
+      "authors": [
+        {
+          "name": "Ezzenix",
+          "link": "https://modrinth.com/user/Ezzenix"
+        }
+      ]
+    },
+    {
+      "id": "cicada",
+      "name": "CICADA",
+      "description": "Development Aid",
+      "source": "modrinth",
+      "location": "cicada",
+      "version": "0.10.2+1.21.4-and-above",
+      "optional": false,
+      "default_enabled": true,
+      "category": "LIBRARY",
+      "authors": [
+        {
+          "name": "enjarai",
+          "link": "https://modrinth.com/user/enjarai"
+        }
+      ]
+    },
+    {
+      "id": "cloth-config",
+      "name": "Cloth Config API",
+      "description": "Configuration API for Fabric mods",
+      "source": "modrinth",
+      "location": "cloth-config",
+      "version": "17.0.144+fabric",
+      "optional": false,
+      "default_enabled": true,
+      "category": "LIBRARY",
+      "authors": [
+        {
+          "name": "shedaniel",
+          "link": "https://modrinth.com/user/shedaniel"
+        }
+      ]
+    },
+    {
+      "id": "controlling",
+      "name": "Controlling",
+      "description": "Adds search and filtering to the key bindings menu",
+      "source": "modrinth",
+      "location": "controlling",
+      "version": "22.0.3",
+      "optional": true,
+      "default_enabled": false,
+      "category": "OPTIONS",
+      "authors": [
+        {
+          "name": "jaredlll08",
+          "link": "https://modrinth.com/user/jaredlll08"
+        }
+      ]
+    },
+    {
+      "id": "cullleaves-fabric-3.4.0.jar",
+      "name": "Cull Leaves",
+      "description": "Optimizes leaf rendering",
+      "source": "ddl",
+      "location": "https://mediafilez.forgecdn.net/files/5441/879/cullleaves-fabric-3.4.0.jar",
+      "version": "4.0.3-fabric",
+      "optional": true,
+      "default_enabled": false,
+      "category": "OPTIMIZATION",
+      "authors": [
+        {
+          "name": "motschen",
+          "link": "https://www.curseforge.com/members/motschen"
+        }
+      ]
+    },
+    {
+      "id": "cupboard-fabric-1.21-2.9.jar",
+      "name": "Cupboard",
+      "description": "LIBRARY mod",
+      "source": "ddl",
+      "location": "https://mediafiles.forgecdn.net/files/6114/706/cupboard-fabric-1.21-2.9.jar",
+      "version": "2.9",
+      "optional": false,
+      "default_enabled": true,
+      "category": "LIBRARY",
+      "authors": [
+        {
+          "name": "someaddon",
+          "link": "https://www.curseforge.com/members/someaddon"
+        }
+      ]
+    },
+    {
+      "id": "continuity",
+      "name": "Continuity",
+      "description": "Connected textures for resource packs",
+      "source": "modrinth",
+      "location": "continuity",
+      "version": "3.0.0+1.21.4",
+      "optional": true,
+      "default_enabled": false,
+      "category": "MISC",
+      "authors": [
+        {
+          "name": "PepperCode1",
+          "link": "https://modrinth.com/user/PepperCode1"
+        }
+      ]
+    },
+    {
+      "id": "creativecore",
+      "name": "CreativeCore",
+      "description": "Core LIBRARY mod",
+      "source": "modrinth",
+      "location": "creativecore",
+      "version": "2.12.22",
+      "optional": false,
+      "default_enabled": true,
+      "category": "LIBRARY",
+      "authors": [
+        {
+          "name": "creativemd",
+          "link": "https://modrinth.com/user/creativemd"
+        }
+      ]
+    },
+    {
+      "id": "debugify",
+      "name": "Debugify",
+      "description": "Fixes vanilla Minecraft bugs",
+      "source": "modrinth",
+      "location": "debugify",
+      "version": "1.21.4+1.1",
+      "optional": true,
+      "default_enabled": false,
+      "category": "OPTIMIZATION",
+      "authors": [
+        {
+          "name": "isxander",
+          "link": "https://modrinth.com/user/isxander"
+        }
+      ]
+    },
+    {
+      "id": "dynamiccrosshair",
+      "name": "Dynamic Crosshair",
+      "description": "Makes the crosshair change based on what you're looking at",
+      "source": "modrinth",
+      "location": "dynamiccrosshair",
+      "version": "9.3+1.21.3-fabric",
+      "optional": true,
+      "default_enabled": false,
+      "category": "GUI",
+      "authors": [
+        {
+          "name": "Crendgrim",
+          "link": "https://modrinth.com/user/Crendgrim"
+        }
+      ]
+    },
+    {
+      "id": "entity-model-features",
+      "name": "Entity Model Features",
+      "description": "Adds features to entity models",
+      "source": "modrinth",
+      "location": "entity-model-features",
+      "version": "2.4.1",
+      "optional": true,
+      "default_enabled": false,
+      "category": "MISC",
+      "authors": [
+        {
+          "name": "Traben",
+          "link": "https://modrinth.com/user/Traben"
+        }
+      ]
+    },
+    {
+      "id": "entitytexturefeatures",
+      "name": "Entity Texture Features",
+      "description": "Adds more features to entity textures",
+      "source": "modrinth",
+      "location": "entitytexturefeatures",
+      "version": "6.2.10",
+      "optional": true,
+      "default_enabled": false,
+      "category": "MISC",
+      "authors": [
+        {
+          "name": "Traben",
+          "link": "https://modrinth.com/user/Traben"
+        }
+      ]
+    },
+    {
+      "id": "entityculling",
+      "name": "Entity Culling",
+      "description": "Optimizes entity rendering",
+      "source": "modrinth",
+      "location": "entityculling",
+      "version": "1.7.2",
+      "optional": true,
+      "default_enabled": false,
+      "category": "OPTIMIZATION",
+      "authors": [
+        {
+          "name": "tr7zw",
+          "link": "https://modrinth.com/user/tr7zw"
+        }
+      ]
+    },
+    {
+      "id": "entity-view-distance",
+      "name": "Entity View Distance",
+      "description": "Allows for entity render distance adjustment",
+      "source": "modrinth",
+      "location": "entity-view-distance",
+      "version": "1.4.0+1.21.4",
+      "optional": true,
+      "default_enabled": false,
+      "category": "OPTIMIZATION",
+      "authors": [
+        {
+          "name": "Patbox",
+          "link": "https://modrinth.com/user/Patbox"
+        }
+      ]
+    },
+    {
+      "id": "ebe",
+      "name": "Enhanced Block Entities",
+      "description": "Optimizes block entity rendering",
+      "source": "modrinth",
+      "location": "ebe",
+      "version": "0.11.3+1.21.4",
+      "optional": true,
+      "default_enabled": false,
+      "category": "OPTIMIZATION",
+      "authors": [
+        {
+          "name": "FoundationGames",
+          "link": "https://modrinth.com/user/FoundationGames"
+        }
+      ]
+    },
+    {
+      "id": "euphoria-patches",
+      "name": "Euphoria Patches",
+      "description": "Adds extra shader settings",
+      "source": "modrinth",
+      "location": "euphoria-patches",
+      "version": "1.4.3-r5.3-fabric",
+      "optional": true,
+      "default_enabled": false,
+      "category": "SHADERS",
+      "authors": [
+        {
+          "name": "SpacEagle17",
+          "link": "https://modrinth.com/user/SpacEagle17"
+        },
+        {
+          "name": "isuewo",
+          "link": "https://modrinth.com/user/isuewo"
+        }
+      ]
+    },
+    {
+      "id": "first-person-model",
+      "name": "First Person Model",
+      "description": "Adds the player model into the first person view",
+      "source": "modrinth",
+      "location": "first-person-model",
+      "version": "2.4.8",
+      "optional": true,
+      "default_enabled": false,
+      "category": "ANIMATIONS",
+      "authors": [
+        {
+          "name": "tr7zw",
+          "link": "https://modrinth.com/user/tr7zw"
+        }
+      ]
+    },
+    {
+      "id": "fabric-api",
+      "name": "Fabric API",
+      "description": "LIBRARY mod for fabric loader",
+      "source": "modrinth",
+      "location": "fabric-api",
+      "version": "0.115.0+1.21.4",
+      "optional": false,
+      "default_enabled": true,
+      "category": "LIBRARY",
+      "authors": [
+        {
+          "name": "modmuss50",
+          "link": "https://modrinth.com/user/modmuss50"
+        }
+      ]
+    },
+    {
+      "id": "fabric-language-kotlin",
+      "name": "Fabric Language Kotlin",
+      "description": "Kotlin language support for Fabric mods",
+      "source": "modrinth",
+      "location": "fabric-language-kotlin",
+      "version": "1.13.0+kotlin.2.1.0",
+      "optional": false,
+      "default_enabled": true,
+      "category": "LIBRARY",
+      "authors": [
+        {
+          "name": "modmuss50",
+          "link": "https://modrinth.com/user/modmuss50"
+        }
+      ]
+    },
+    {
+      "id": "fallingleaves",
+      "name": "Falling Leaves",
+      "description": "Falling leaves from trees",
+      "source": "modrinth",
+      "location": "fallingleaves",
+      "version": "1.16.6+1.21.4",
+      "optional": true,
+      "default_enabled": false,
+      "category": "IMMERSIVE",
+      "authors": [
+        {
+          "name": "Fourmisain",
+          "link": "https://modrinth.com/user/Fourmisain"
+        }
+      ]
+    },
+    {
+      "id": "fzzy-config",
+      "name": "Fzzy Config",
+      "description": "Config LIBRARY for mods",
+      "source": "modrinth",
+      "location": "fzzy-config",
+      "version": "0.6.3+1.21.3",
+      "optional": false,
+      "default_enabled": true,
+      "category": "LIBRARY",
+      "authors": [
+        {
+          "name": "fzzyhmstrs",
+          "link": "https://modrinth.com/user/fzzyhmstrs"
+        }
+      ]
+    },
+    {
+      "id": "ferrite-core",
+      "name": "FerriteCore",
+      "description": "Memory usage optimization mod",
+      "source": "modrinth",
+      "location": "ferrite-core",
+      "version": "7.1.1-fabric",
+      "optional": true,
+      "default_enabled": false,
+      "category": "OPTIMIZATION",
+      "authors": [
+        {
+          "name": "malte0811",
+          "link": "https://modrinth.com/user/malte0811"
+        }
+      ]
+    },
+    {
+      "id": "forge-config-api-port",
+      "name": "Forge Config API Port",
+      "description": "Port of Forge's config API to Fabric",
+      "source": "modrinth",
+      "location": "forge-config-api-port",
+      "version": "v21.4.1-1.21.4-Fabric",
+      "optional": false,
+      "default_enabled": true,
+      "category": "LIBRARY",
+      "authors": [
+        {
+          "name": "Fuzs",
+          "link": "https://modrinth.com/user/Fuzs"
+        }
+      ]
+    },
+    {
+      "id": "iceberg",
+      "name": "Iceberg",
+      "description": "LIBRARY mod",
+      "source": "modrinth",
+      "location": "iceberg",
+      "version": "1.2.13",
+      "optional": false,
+      "default_enabled": true,
+      "category": "LIBRARY",
+      "authors": [
+        {
+          "name": "Grend",
+          "link": "https://modrinth.com/user/Grend"
+        }
+      ]
+    },
+    {
+      "id": "iris",
+      "name": "Iris",
+      "description": "Shader mod compatible with OptiFine shaders",
+      "source": "modrinth",
+      "location": "iris",
+      "version": "1.8.5+1.21.4-fabric",
+      "optional": true,
+      "default_enabled": false,
+      "category": "SHADERS",
+      "authors": [
+        {
+          "name": "IMS",
+          "link": "https://modrinth.com/user/IMS"
+        }
+      ],
+      "dependencies": ["sodium"]
+    },
+    {
+      "id": "krypton",
+      "name": "Krypton",
+      "description": "Network stack optimization mod",
+      "source": "modrinth",
+      "location": "krypton",
+      "version": "0.2.8",
+      "optional": true,
+      "default_enabled": false,
+      "category": "OPTIMIZATION",
+      "authors": [
+        {
+          "name": "astei",
+          "link": "https://modrinth.com/user/astei"
+        }
+      ]
+    },
+    {
+      "id": "lithium",
+      "name": "Lithium",
+      "description": "Game logic optimization mod",
+      "source": "modrinth",
+      "location": "lithium",
+      "version": "mc1.21.4-0.14.5-fabric",
+      "optional": true,
+      "default_enabled": false,
+      "category": "OPTIMIZATION",
+      "authors": [
+        {
+          "name": "2No2Name",
+          "link": "https://modrinth.com/user/2No2Name"
+        }
+      ],
+      "dependencies": ["sodium"]
+    },
+    {
+      "id": "legendary-tooltips",
+      "name": "Legendary Tooltips",
+      "description": "Adds enhanced tooltips with rarity borders",
+      "source": "modrinth",
+      "location": "legendary-tooltips",
+      "version": "1.5.1",
+      "optional": true,
+      "default_enabled": false,
+      "category": "GUI",
+      "authors": [
+        {
+          "name": "Grend",
+          "link": "https://modrinth.com/user/Grend"
+        }
+      ]
+    },
+    {
+      "id": "macos-input-fixes",
+      "name": "MacOS Input Fixes",
+      "description": "Fixes input issues on macOS",
+      "source": "modrinth",
+      "location": "macos-input-fixes",
+      "version": "1.8",
+      "optional": true,
+      "default_enabled": false,
+      "category": "OPTIONS",
+      "authors": [
+        {
+          "name": "hamarb123",
+          "link": "https://modrinth.com/user/hamarb123"
+        }
+      ]
+    },
+    {
+      "id": "midnightlib",
+      "name": "MidnightLib",
+      "description": "LIBRARY mod",
+      "source": "modrinth",
+      "location": "midnightlib",
+      "version": "1.6.6-fabric",
+      "optional": false,
+      "default_enabled": true,
+      "category": "LIBRARY",
+      "authors": [
+        {
+          "name": "Motschen",
+          "link": "https://modrinth.com/user/Motschen"
+        }
+      ]
+    },
+    {
+      "id": "modernfix",
+      "name": "ModernFix",
+      "description": "Performance optimizations and bug fixes",
+      "source": "modrinth",
+      "location": "modernfix",
+      "version": "5.20.1+mc1.21.4",
+      "optional": true,
+      "default_enabled": false,
+      "category": "OPTIMIZATION",
+      "authors": [
+        {
+          "name": "embeddedt",
+          "link": "https://modrinth.com/user/embeddedt"
+        }
+      ]
+    },
+    {
+      "id": "modmenu",
+      "name": "Mod Menu",
+      "description": "Adds a mod menu to configure mods",
+      "source": "modrinth",
+      "location": "modmenu",
+      "version": "13.0.0",
+      "optional": false,
+      "default_enabled": true,
+      "category": "LIBRARY",
+      "authors": [
+        {
+          "name": "Prospector",
+          "link": "https://modrinth.com/user/Prospector"
+        }
+      ]
+    },
+    {
+      "id": "morechathistory",
+      "name": "More Chat History",
+      "description": "Increases chat history limit",
+      "source": "modrinth",
+      "location": "morechathistory",
+      "version": "1.3.1",
+      "optional": true,
+      "default_enabled": false,
+      "category": "MISC",
+      "authors": [
+        {
+          "name": "JackFred2",
+          "link": "https://modrinth.com/user/JackFred2"
+        }
+      ]
+    },
+    {
+      "id": "moreculling",
+      "name": "More Culling",
+      "description": "Adds more culling optimizations",
+      "source": "modrinth",
+      "location": "moreculling",
+      "version": "1.2.3",
+      "optional": true,
+      "default_enabled": false,
+      "category": "OPTIMIZATION",
+      "authors": [
+        {
+          "name": "FX",
+          "link": "https://modrinth.com/user/FX"
+        }
+      ]
+    },
+    {
+      "id": "mru",
+      "name": "MRU",
+      "description": "API LIBRARY for mods",
+      "source": "modrinth",
+      "location": "mru",
+      "version": "1.0.7+1.21.3-fabric",
+      "optional": false,
+      "default_enabled": true,
+      "category": "LIBRARY",
+      "authors": [
+        {
+          "name": "mineblock11",
+          "link": "https://modrinth.com/user/mineblock11"
+        }
+      ]
+    },
+    {
+      "id": "no-resource-pack-warnings",
+      "name": "No Resource Pack Warnings",
+      "description": "Removes resource pack warning messages",
+      "source": "modrinth",
+      "location": "no-resource-pack-warnings",
+      "version": "1.3.0",
+      "optional": true,
+      "default_enabled": false,
+      "category": "OPTIONS",
+      "authors": [
+        {
+          "name": "Space Walker",
+          "link": "https://modrinth.com/user/Space%20Walker"
+        }
+      ]
+    },
+    {
+      "id": "not-enough-animations",
+      "name": "Not Enough Animations",
+      "description": "Adds more player animations",
+      "source": "modrinth",
+      "location": "not-enough-animations",
+      "version": "1.9.1",
+      "optional": true,
+      "default_enabled": false,
+      "category": "ANIMATIONS",
+      "authors": [
+        {
+          "name": "tr7zw",
+          "link": "https://modrinth.com/user/tr7zw"
+        }
+      ]
+    },
+    {
+      "id": "notifier-1.2.0-1.21.jar",
+      "name": "Notifier",
+      "description": "Adds notification system",
+      "source": "ddl",
+      "location": "https://github.com/Wynncraft-Overhaul/notifier/releases/download/1.2.0-1.21/notifier-1.2.0-1.21.jar",
+      "version": "1.2.0-1.21",
+      "optional": false,
+      "default_enabled": true,
+      "category": "MISC",
+      "authors": [
+        {
+          "name": "commander",
+          "link": "https://modrinth.com/user/commander"
+        }
+      ]
+    },
+    {
+      "id": "owo-lib",
+      "name": "oωo (owo-lib)",
+      "description": "LIBRARY mod",
+      "source": "modrinth",
+      "location": "owo-lib",
+      "version": "0.12.20+1.21.4",
+      "optional": false,
+      "default_enabled": true,
+      "category": "LIBRARY",
+      "authors": [
+        {
+          "name": "glisco",
+          "link": "https://modrinth.com/user/glisco"
+        }
+      ]
+    },
+    {
+      "id": "particle-rain",
+      "name": "Particle Rain",
+      "description": "Enhances rain with particles",
+      "source": "modrinth",
+      "location": "particle-rain",
+      "version": "3.0.8",
+      "optional": true,
+      "default_enabled": false,
+      "category": "IMMERSIVE",
+      "authors": [
+        {
+          "name": "PigCart",
+          "link": "https://modrinth.com/user/PigCart"
+        }
+      ]
+    },
+    {
+      "id": "particle-core",
+      "name": "Particle Core",
+      "description": "Core LIBRARY for particle effects",
+      "source": "modrinth",
+      "location": "particle-core",
+      "version": "0.2.5+1.21.4",
+      "optional": true,
+      "default_enabled": false,
+      "category": "OPTIMIZATION",
+      "authors": [
+        {
+          "name": "fzzyhmstrs",
+          "link": "https://modrinth.com/user/fzzyhmstrs"
+        }
+      ]
+    },
+    {
+      "id": "particular",
+      "name": "Particular",
+      "description": "Adds water effects",
+      "source": "modrinth",
+      "location": "particular",
+      "version": "1.1.1+1.21.4",
+      "optional": true,
+      "default_enabled": false,
+      "category": "IMMERSIVE",
+      "authors": [
+        {
+          "name": "Chai",
+          "link": "https://modrinth.com/user/Chai"
+        }
+      ]
+    },
+    {
+      "id": "presence-footsteps",
+      "name": "Presence Footsteps",
+      "description": "Adds realistic footstep sounds",
+      "source": "modrinth",
+      "location": "presence-footsteps",
+      "version": "1.10.4+1.21.4",
+      "optional": true,
+      "default_enabled": false,
+      "category": "SOUND",
+      "authors": [
+        {
+          "name": "Sollace",
+          "link": "https://modrinth.com/user/Sollace"
+        }
+      ]
+    },
+    {
+      "id": "prism-lib",
+      "name": "Prism",
+      "description": "Library mod",
+      "source": "modrinth",
+      "location": "prism-lib",
+      "version": "1.0.10",
+      "optional": false,
+      "default_enabled": true,
+      "category": "LIBRARY",
+      "authors": [
+        {
+          "name": "Grend",
+          "link": "https://modrinth.com/user/Grend"
+        }
+      ]
+    },
+    {
+      "id": "reeses-sodium-options",
+      "name": "Reese's Sodium Options",
+      "description": "Enhances Sodium's options menu",
+      "source": "modrinth",
+      "location": "reeses-sodium-options",
+      "version": "mc1.21.4-1.8.3+fabric",
+      "optional": true,
+      "default_enabled": true,
+      "category": "OPTIONS",
+      "authors": [
+        {
+          "name": "FlashyReese",
+          "link": "https://modrinth.com/user/FlashyReese"
+        }
+      ],
+      "dependencies": ["sodium"]
+    },
+    {
+      "id": "removehud",
+      "name": "RemoveHUD",
+      "description": "Adds toggle to hide the HUD",
+      "source": "modrinth",
+      "location": "removehud",
+      "version": "1.3b6",
+      "optional": true,
+      "default_enabled": false,
+      "category": "GUI",
+      "authors": [
+        {
+          "name": "IzzyDotExe",
+          "link": "https://modrinth.com/user/IzzyDotExe"
+        }
+      ]
+    },
+    {
+      "id": "scalablelux",
+      "name": "ScalableLux",
+      "description": "Enhances lighting performance",
+      "source": "modrinth",
+      "location": "scalablelux",
+      "version": "0.1.2+beta.1+fabric.6d46f24",
+      "optional": true,
+      "default_enabled": false,
+      "category": "OPTIMIZATION",
+      "authors": [
+        {
+          "name": "ishland",
+          "link": "https://modrinth.com/user/ishland"
+        }
+      ]
+    },
+    {
+      "id": "sodium",
+      "name": "Sodium",
+      "description": "Performance optimization mod for rendering",
+      "source": "modrinth",
+      "location": "sodium",
+      "version": "mc1.21.4-0.6.6-fabric",
+      "optional": false,
+      "default_enabled": true,
+      "category": "OPTIMIZATION",
+      "authors": [
+        {
+          "name": "IMS",
+          "link": "https://modrinth.com/user/IMS"
+        }
+      ]
+    },
+    {
+      "id": "sound",
+      "name": "Sound",
+      "description": "Sound enhancement mod",
+      "source": "modrinth",
+      "location": "sound",
+      "version": "2.3.2+1.21.4-fabric",
+      "optional": true,
+      "default_enabled": false,
+      "category": "SOUND",
+      "authors": [
+        {
+          "name": "mineblock11",
+          "link": "https://modrinth.com/user/mineblock11"
+        }
+      ]
+    },
+    {
+      "id": "searchables",
+      "name": "Searchables",
+      "description": "Adds search functionality to various menus",
+      "source": "modrinth",
+      "location": "searchables",
+      "version": "1.0.3",
+      "optional": true,
+      "default_enabled": false,
+      "category": "OPTIONS",
+      "authors": [
+        {
+          "name": "jaredlll08",
+          "link": "https://modrinth.com/user/jaredlll08"
+        }
+      ]
+    },
+    {
+      "id": "serverpack-priority",
+      "name": "Server Pack Priority",
+      "description": "Gives server resource packs higher priority",
+      "source": "modrinth",
+      "location": "serverpack-priority",
+      "version": "1.0.2-1.21",
+      "optional": true,
+      "default_enabled": false,
+      "category": "MISC",
+      "authors": [
+        {
+          "name": "commander",
+          "link": "https://modrinth.com/user/commander"
+        }
+      ]
+    },
+    {
+      "id": "shoulder-surfing-reloaded",
+      "name": "Shoulder Surfing Reloaded",
+      "description": "Toggable shoulder surfing perspective",
+      "source": "modrinth",
+      "location": "shoulder-surfing-reloaded",
+      "version": "1.21.4-4.8.0+fabric",
+      "optional": true,
+      "default_enabled": false,
+      "category": "PLAYER",
+      "authors": [
+        {
+          "name": "Exopandora",
+          "link": "https://modrinth.com/user/Exopandora"
+        }
+      ]
+    },
+    {
+      "id": "sodium-extra",
+      "name": "Sodium Extra",
+      "description": "Extra features for Sodium",
+      "source": "modrinth",
+      "location": "sodium-extra",
+      "version": "mc1.21.4-0.6.1+fabric",
+      "optional": true,
+      "default_enabled": true,
+      "category": "OPTIONS",
+      "authors": [
+        {
+          "name": "FlashyReese",
+          "link": "https://modrinth.com/user/FlashyReese"
+        }
+      ],
+      "dependencies": ["sodium"]
+    },
+    {
+      "id": "sound-physics-remastered",
+      "name": "Sound Physics Remastered",
+      "description": "Adds realistic sound physics",
+      "source": "modrinth",
+      "location": "sound-physics-remastered",
+      "version": "fabric-1.21.4-1.4.8",
+      "optional": true,
+      "default_enabled": false,
+      "category": "SOUND",
+      "authors": [
+        {
+          "name": "henkelmax",
+          "link": "https://modrinth.com/user/henkelmax"
+        }
+      ]
+    },
+    {
+      "id": "spark",
+      "name": "Spark",
+      "description": "Performance profiling tool",
+      "source": "modrinth",
+      "location": "spark",
+      "version": "1.10.121-fabric",
+      "optional": true,
+      "default_enabled": true,
+      "category": "MISC",
+      "authors": [
+        {
+          "name": "lucko",
+          "link": "https://modrinth.com/user/lucko"
+        }
+      ]
+    },
+    {
+      "id": "placeholder-api",
+      "name": "Text Placeholder API",
+      "description": "Placeholder API for text",
+      "source": "modrinth",
+      "location": "placeholder-api",
+      "version": "2.5.1+1.21.3",
+      "optional": false,
+      "default_enabled": true,
+      "category": "LIBRARY",
+      "authors": [
+        {
+          "name": "Patbox",
+          "link": "https://modrinth.com/user/Patbox"
+        }
+      ]
+    },
+    {
+      "id": "tiny-item-animations",
+      "name": "Tiny Item Animations",
+      "description": "Adds an animation when moving items in the inventory",
+      "source": "modrinth",
+      "location": "tiny-item-animations",
+      "version": "1.2.2",
+      "optional": true,
+      "default_enabled": false,
+      "category": "GUI",
+      "authors": [
+        {
+          "name": "Trivaxy",
+          "link": "https://modrinth.com/user/Trivaxy"
+        }
+      ]
+    },
+    {
+      "id": "ukulib",
+      "name": "ukulib",
+      "description": "LIBRARY mod",
+      "source": "modrinth",
+      "location": "ukulib",
+      "version": "1.6.0+1.21.4",
+      "optional": false,
+      "default_enabled": true,
+      "category": "LIBRARY",
+      "authors": [
+        {
+          "name": "uku",
+          "link": "https://modrinth.com/user/uku"
+        }
+      ]
+    },
+    {
+      "id": "videotape",
+      "name": "Video Tape",
+      "description": "Lets you record gameplay videos",
+      "source": "modrinth",
+      "location": "videotape",
+      "version": "1.5.0",
+      "optional": true,
+      "default_enabled": false,
+      "category": "OPTIMIZATION",
+      "authors": [
+        {
+          "name": "Anthus",
+          "link": "https://modrinth.com/user/Anthus"
+        }
+      ]
+    },
+    {
+      "id": "visuality",
+      "name": "Visuality",
+      "description": "Immersive particle effects",
+      "source": "modrinth",
+      "location": "visuality",
+      "version": "0.7.9+1.21.4",
+      "optional": true,
+      "default_enabled": false,
+      "category": "IMMERSIVE",
+      "authors": [
+        {
+          "name": "PinkGoosik",
+          "link": "https://modrinth.com/user/PinkGoosik"
+        }
+      ]
+    },
+    {
+      "id": "viewboboptions",
+      "name": "View Bobbing Options",
+      "description": "Customizable view bobbing settings",
+      "source": "modrinth",
+      "location": "viewboboptions",
+      "version": "0.3.1+1.21.2",
+      "optional": true,
+      "default_enabled": false,
+      "category": "OPTIONS",
+      "authors": [
+        {
+          "name": "GravityIO",
+          "link": "https://modrinth.com/user/GravityIO"
+        }
+      ]
+    },
+    {
+      "id": "wavey-capes",
+      "name": "Wavey Capes",
+      "description": "Adds physics to capes",
+      "source": "modrinth",
+      "location": "wavey-capes",
+      "version": "1.5.1",
+      "optional": true,
+      "default_enabled": false,
+      "category": "PLAYER",
+      "authors": [
+        {
+          "name": "tr7zw",
+          "link": "https://modrinth.com/user/tr7zw"
+        }
+      ]
+    },
+    {
+      "id": "vow",
+      "name": "Voices of Wynn",
+      "description": "Adds voice acting to NPCs",
+      "source": "modrinth",
+      "location": "vow",
+      "version": "v1.10.4",
+      "optional": true,
+      "default_enabled": false,
+      "category": "SOUND",
+      "authors": [
+        {
+          "name": "Kmaxi",
+          "link": "https://www.curseforge.com/members/kmaxii"
+        }
+      ]
+    },
+    {
+      "id": "wynntils",
+      "name": "Wynntils",
+      "description": "Quality of life features for Wynncraft",
+      "source": "modrinth",
+      "location": "wynntils",
+      "version": "v3.0.8",
+      "optional": true,
+      "default_enabled": false,
+      "category": "WYNNTILS",
+      "authors": [
+        {
+          "name": "wynntils",
+          "link": "https://modrinth.com/organization/wynntils"
+        }
+      ]
+    },
+    {
+      "id": "satin-free-wakes",
+      "name": "Wakes",
+      "description": "Adds wake effects to water",
+      "source": "modrinth",
+      "location": "satin-free-wakes",
+      "version": "0.2.2-1.21.4",
+      "optional": true,
+      "default_enabled": false,
+      "category": "IMMERSIVE",
+      "authors": [
+        {
+          "name": "Commander",
+          "link": "https://modrinth.com/user/commander"
+        }
+      ]
+    },
+    {
+      "id": "wynntils-config-sharing-1.0.0-1.21.jar",
+      "name": "Wynntils Config Share",
+      "description": "Preset Wynntils settings",
+      "source": "ddl",
+      "location": "https://github.com/Commander07/Wynntils-Config-Sharing/releases/download/1.0.0-1.21/wynntils-config-sharing-1.0.0-1.21.jar",
+      "version": "1.0.0-1.21",
+      "optional": true,
+      "default_enabled": false,
+      "category": "WYNNTILS",
+      "authors": [
+        {
+          "name": "commander",
+          "link": "https://modrinth.com/user/commander"
+        }
+      ],
+      "dependencies": ["wynntils"]
+    },
+    {
+      "id": "weather-changer",
+      "name": "Weather Changer",
+      "description": "Allows changing the weather locally",
+      "source": "modrinth",
+      "location": "weather-changer",
+      "version": "1.2.1",
+      "optional": true,
+      "default_enabled": false,
+      "category": "IMMERSIVE",
+      "authors": [
+        {
+          "name": "Lucaslah",
+          "link": "https://modrinth.com/user/Lucaslah"
+        }
+      ],
+     "dependencies": ["barriers-dont-block-rain"]
+    },
+    {
+      "id": "weaponmaster",
+      "name": "YDM's Weapon Master",
+      "description": "Carry your weapon on your back",
+      "source": "modrinth",
+      "location": "weaponmaster",
+      "version": "1.21.4+fabric+4.2.7",
+      "optional": true,
+      "default_enabled": false,
+      "category": "PLAYER",
+      "authors": [
+        {
+          "name": "YourDailyModder",
+          "link": "https://modrinth.com/user/YourDailyModder"
+        }
+      ]
+    },
+    {
+      "id": "yosbr",
+      "name": "Your Options Shall Be Respected",
+      "description": "Persists mod configurations",
+      "source": "modrinth",
+      "location": "yosbr",
+      "version": "0.1.2",
+      "optional": false,
+      "default_enabled": true,
+      "category": "OPTIONS",
+      "authors": [
+        {
+          "name": "shedaniel",
+          "link": "https://modrinth.com/user/shedaniel"
+        }
+      ]
+    },
+    {
+      "id": "yacl",
+      "name": "YetAnotherConfigfabricLib",
+      "description": "Configuration LIBRARY",
+      "source": "modrinth",
+      "location": "yacl",
+      "version": "3.6.2+1.21.4-fabric",
+      "optional": false,
+      "default_enabled": true,
+      "category": "LIBRARY",
+      "authors": [
+        {
+          "name": "isxander",
+          "link": "https://modrinth.com/user/isxander"
+        }
+      ]
+    },
+    {
+      "id": "zoomify",
+      "name": "Zoomify",
+      "description": "Adds toggable zoom",
+      "source": "modrinth",
+      "location": "zoomify",
+      "version": "2.14.2+1.21.3",
+      "optional": true,
+      "default_enabled": false,
+      "category": "MISC",
+      "authors": [
+        {
+          "name": "isxander",
+          "link": "https://modrinth.com/user/isxander"
+        }
+      ]
+    }
+  ],
+  
+  "resourcepacks": [
+    {
+      "id": "cubic-sun-moon",
+      "name": "Cubic Sun & Moon",
+      "description": "Make the sun and moon cubic",
+      "source": "modrinth",
+      "location": "cubic-sun-moon",
+      "version": "1.8",
+      "optional": true,
+      "default_enabled": false,
+      "category": "TEXTUREPACKS",
+      "authors": [
+        {
+          "name": "JoeFly",
+          "link": "https://modrinth.com/user/JoeFly"
+        }
+      ]
+    },
+    {
+      "id": "fungal-orchestral-pack",
+      "name": "Fungal Orchestral Pack",
+      "description": "Enhanced orchestral music",
+      "source": "ddl",
+      "location": "https://drive.usercontent.google.com/download?id=1fFcSizsWvgKH1k69s1QHnkPqGHQqPeAu",
+      "version": "3.1",
+      "optional": true,
+      "default_enabled": false,
+      "category": "TEXTUREPACKS",
+      "authors": [
+        {
+          "name": "VillagerFilms",
+          "link": "https://www.youtube.com/@musicalmushroomvillagerfil4539"
+        }
+      ]
+    },
+    {
+      "id": "wynncraft-tooltips",
+      "name": "Wynncraft Tooltips",
+      "description": "Improved tooltips for Wynncraft items",
+      "source": "modrinth",
+      "location": "wynncraft-tooltips",
+      "version": "2.0.0",
+      "optional": true,
+      "default_enabled": false,
+      "category": "TEXTUREPACKS",
+      "authors": [
+        {
+          "name": "Focal_Salt",
+          "link": "https://modrinth.com/user/Focal_Salt"
+        }
+      ]
+    },
+    {
+      "id": "water-improved",
+      "name": "Water Improved",
+      "description": "Enhanced water textures",
+      "source": "ddl",
+      "location": "https://mediafilez.forgecdn.net/files/4584/788/Water%2BImproved.zip",
+      "version": "1.20.1",
+      "optional": true,
+      "default_enabled": false,
+      "category": "TEXTUREPACKS",
+      "authors": [
+        {
+          "name": "hottubbug",
+          "link": "https://legacy.curseforge.com/members/hottubbug"
+        }
+      ]
+    },
+    {
+      "id": "wynncraft-donjons",
+      "name": "Wynncraft Donjons",
+      "description": "Custom weapon models",
+      "source": "modrinth",
+      "location": "wynncraft-donjons",
+      "version": "DJN2",
+      "optional": true,
+      "default_enabled": false,
+      "category": "TEXTUREPACKS",
+      "authors": [
+        {
+          "name": "Rythew",
+          "link": "https://modrinth.com/user/Rythew"
+        }
+      ]
+    },
+    {
+      "id": "wynncraft-fables-legends",
+      "name": "Wynnic Fables & Legends",
+      "description": "Custom weapon models",
+      "source": "modrinth",
+      "location": "wynncraft-fables-legends",
+      "version": "FLC9",
+      "optional": true,
+      "default_enabled": false,
+      "category": "TEXTUREPACKS",
+      "authors": [
+        {
+          "name": "Rythew",
+          "link": "https://modrinth.com/user/Rythew"
+        }
+      ]
+    },
+    {
+      "id": "wynn-fl2",
+      "name": "Wynnic Fables & Legends -2-",
+      "description": "More custom weapon models",
+      "source": "modrinth",
+      "location": "wynn-fl2",
+      "version": "2.1.1",
+      "optional": true,
+      "default_enabled": false,
+      "category": "TEXTUREPACKS",
+      "authors": [
+        {
+          "name": "Rythew",
+          "link": "https://modrinth.com/user/Rythew"
+        }
+      ]
+    },
+    {
+      "id": "tras-fresh-PLAYER",
+      "name": "Fresh Moves",
+      "description": "Enhanced player animations",
+      "source": "modrinth",
+      "location": "tras-fresh-PLAYER",
+      "version": "3.1.1",
+      "optional": true,
+      "default_enabled": false,
+      "category": "TEXTUREPACKS",
+      "authors": [
+        {
+          "name": "TrasTick",
+          "link": "https://modrinth.com/user/TrasTick"
+        }
+      ],
+      "dependencies": ["entitytexturefeatures", "entity-model-features"]
+    }
+  ],
+  
+  "shaderpacks": [
+    {
+      "id": "complementary-unbound",
+      "name": "Complementary Unbound",
+      "description": "Beautiful shader with excellent performance",
+      "source": "modrinth",
+      "location": "complementary-unbound",
+      "version": "r5.3",
+      "optional": true,
+      "default_enabled": false,
+      "category": "SHADERS",
+      "authors": [
+        {
+          "name": "EminGT",
+          "link": "https://modrinth.com/user/EminGT"
+        }
+      ],
+      "dependencies": ["iris"]
+    } 
+  ]
+}
