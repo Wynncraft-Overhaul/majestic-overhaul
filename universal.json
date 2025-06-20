@@ -1698,6 +1698,6 @@
       "default_enabled": true,
       "category": "VISUALS",
       "dependencies": ["bobby"]
-    },
+    }
   ]
 }
