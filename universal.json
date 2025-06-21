@@ -1537,7 +1537,7 @@
       "description": "More custom weapon models",
       "source": "modrinth",
       "location": "wynn-fl2",
-      "version": "2.1.1",
+      "version": "2.2_VCIT",
       "optional": true,
       "default_enabled": false,
       "category": "TEXTUREPACKS",
