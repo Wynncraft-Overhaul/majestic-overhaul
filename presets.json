@@ -20,6 +20,7 @@
     },
     {
       "id": "majestic",
+      "preset_version": "1.1",
       "name": "MAJESTIC OVERHAUL",
       "description": "A fully immersive experience with beautiful graphics and enhanced gameplay",
       "author": "Wynncraft Overhaul Team",
@@ -131,7 +132,7 @@
     },
     {
       "id": "performance",
-      "preset_version": "1.0",
+      "preset_version": "1.1",
       "name": "OPTIMIZED OVERHAUL",
       "description": "Nothing immersive, just FPS boosts for maximum performance",
       "author": "Wynncraft Overhaul Team",
