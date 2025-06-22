@@ -1670,7 +1670,7 @@
       "source": "github",
       "location": "shaderpacks/ComplementaryUnbound_r5.2.2.zip.txt",
       "version": "1.0",
-      "optional": true,
+      "optional": false,
       "default_enabled": true,
       "category": "SHADERS",
       "dependencies": ["complementary-unbound"]
@@ -1682,7 +1682,7 @@
       "source": "github",
       "location": "shaderpacks/ComplementaryUnbound_r5.2.2 + EuphoriaPatches_1.3.2.txt",
       "version": "1.0",
-      "optional": true,
+      "optional": false,
       "default_enabled": false,
       "category": "SHADERS",
       "dependencies": ["complementary-unbound", "euphoria-patches"] 
@@ -1694,7 +1694,7 @@
       "source": "github",
       "location": ".bobby",
       "version": "1.0",
-      "optional": true,
+      "optional": false,
       "default_enabled": true,
       "category": "VISUALS",
       "dependencies": ["bobby"]
