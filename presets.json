@@ -20,7 +20,7 @@
     },
     {
       "id": "majestic",
-      "preset_version": "1.1",
+      "preset_version": "1.2",
       "name": "MAJESTIC OVERHAUL",
       "description": "A fully immersive experience with beautiful graphics and enhanced gameplay",
       "author": "Wynncraft Overhaul Team",
@@ -30,7 +30,7 @@
         "3dskinlayers",
         "ambientsounds",
         "architectury-api",
-        "autohud",
+        "kios-models",
         "barriers-dont-block-rain",
         "betterf3",
         "bobby",
