@@ -1661,6 +1661,7 @@
       "version": "1.0",
       "optional": false,
       "default_enabled": true,
+      "ignore_update": true,
       "category": "OPTIONS"
     },
     {
