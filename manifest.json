@@ -1,6 +1,6 @@
 {
     "manifest_version": 3,
-    "modpack_version": "3.0.3",
+    "modpack_version": "3.0.4",
     "name": "Majestic Overhaul",
     "subtitle": "MAJESTIC OVERHAUL",
     "description": "<p style=\"font-size: 1.4em;margin-top: 0;\">A fully immersive experience</p>",
@@ -149,7 +149,7 @@
     	},
     	{
         	"name": "CICADA",
-        	"version": "0.10.2+1.21.4-and-above",
+        	"version": "0.13.1+1.21.4",
         	"source": "modrinth",
         	"location": "cicada",
         	"authors": [
