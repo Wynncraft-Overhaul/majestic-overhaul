@@ -15,7 +15,7 @@
       "recommended_java_args": "-XX:+UnlockExperimentalVMOptions -XX:+UseG1GC -XX:G1NewSizePercent=20 -XX:G1ReservePercent=20 -XX:MaxGCPauseMillis=50 -XX:G1HeapRegionSize=32M",
       "category": "Custom",
       "trending": false,
-      "background": "https://i.ibb.co/jkpFLwDJ/background-installer-blue.png",
+      "background": "https://i.ibb.co/hb1R0N7/2025-03-19-13-37-48.png",
       "color": "#22063980"
     },
     {
@@ -177,7 +177,7 @@
       "recommended_java_args": "-XX:+UnlockExperimentalVMOptions -XX:+UseG1GC -XX:G1NewSizePercent=20 -XX:G1ReservePercent=20 -XX:MaxGCPauseMillis=50 -XX:G1HeapRegionSize=32M",
       "category": "Optimization",
       "trending": false,
-      "background": "https://i.ibb.co/Rf4p8Kv/2025-03-19-13-37-48.png",
+      "background": "https://i.ibb.co/5hWxYTBL/2025-03-19-13-29-21.png",
       "color": "#22063980"
     }
   ]
