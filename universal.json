@@ -3,7 +3,13 @@
   "modpack_version": "1.0.0",
   "minecraft_version": "1.21.4",
   "name": "Majestic Overhaul",
+  "subtitle": "Universal Modpack",
+  "description": "A complete overhaul experience for Wynncraft with customizable features",
   "icon": true,
+  "uuid": "wynncraft-overhaul-universal",
+  "version": "1.0.0",
+  "short_description": "Customizable Wynncraft Modpack",
+  "category": "gameplay",
   "loader": {
     "type": "fabric",
     "version": "0.16.10",
