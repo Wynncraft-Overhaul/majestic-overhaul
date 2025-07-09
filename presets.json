@@ -15,7 +15,7 @@
       "recommended_java_args": "-XX:+UnlockExperimentalVMOptions -XX:+UseG1GC -XX:G1NewSizePercent=20 -XX:G1ReservePercent=20 -XX:MaxGCPauseMillis=50 -XX:G1HeapRegionSize=32M",
       "category": "Custom",
       "trending": false,
-      "background": "https://i.ibb.co/tMx1kwvL/2025-03-19-13-47-30.png",
+      "background": "https://i.ibb.co/JRyS0WG3/2025-03-19-13-47-30.png",
       "color": "#22063980"
     },
     {
@@ -127,7 +127,7 @@
       "recommended_java_args": "-XX:+UnlockExperimentalVMOptions -XX:+UseG1GC -XX:G1NewSizePercent=20 -XX:G1ReservePercent=20 -XX:MaxGCPauseMillis=50 -XX:G1HeapRegionSize=32M",
       "category": "Immersive",
       "trending": true,
-      "background": "https://i.ibb.co/RTXVm5TV/2025-03-19-16-30-39.png",
+      "background": "https://i.ibb.co/9HxCLMHC/2025-03-19-16-30-39.png",
       "color": "#22063980"
     },
     {
