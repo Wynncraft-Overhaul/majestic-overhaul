@@ -39,9 +39,9 @@
       ]
     },
     {
-      "id": "ambientSOUND",
-      "name": "AmbientSOUND",
-      "description": "Adds immersive ambient SOUND",
+      "id": "ambientsound",
+      "name": "Ambient Sound",
+      "description": "Adds immersive ambient sound",
       "source": "modrinth",
       "location": "ambientSOUND",
       "version": "6.1.3",
@@ -1955,8 +1955,8 @@
       "source": "github",
       "location": ".bobby",
       "version": "1.0",
-      "optional": false,
-      "default_enabled": true,
+      "optional": true,
+      "default_enabled": false,
       "category": "VISUALS",
       "dependencies": ["bobby"]
     }
