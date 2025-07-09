@@ -39,11 +39,11 @@
       ]
     },
     {
-      "id": "ambientsound",
-      "name": "Ambient Sound",
+      "id": "ambientsounds",
+      "name": "Ambient Sounds",
       "description": "Adds immersive ambient sound",
       "source": "modrinth",
-      "location": "ambientSOUND",
+      "location": "ambientsounds",
       "version": "6.1.3",
       "optional": true,
       "default_enabled": false,
