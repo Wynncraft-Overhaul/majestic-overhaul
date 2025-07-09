@@ -47,7 +47,7 @@
       "author": "Wynncraft Overhaul Team",
       "icon": "performance_icon.png",
       "enabled_features": [
-        "default",
+        "default"
 
       ],
       "recommended_memory": 4096,
