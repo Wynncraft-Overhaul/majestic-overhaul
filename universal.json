@@ -265,7 +265,7 @@
       "description": "Development Aid",
       "source": "modrinth",
       "location": "cicada",
-      "version": "0.10.2+1.21.4-and-above",
+      "version": "0.13.1+1.21.4",
       "optional": false,
       "default_enabled": true,
       "category": "LIBRARY",
@@ -1408,6 +1408,23 @@
         }
       ]
     },
+        {
+      "id": "variants-cit",
+      "name": "Video Tape",
+      "description": "Supports CIT models in texturepacks",
+      "source": "modrinth",
+      "location": "variants-cit",
+      "version": "3.6.1+1.21.4",
+      "optional": false,
+      "default_enabled": true,
+      "category": "TEXTUREPACKS",
+      "authors": [
+        {
+          "name": "Estecka",
+          "link": "https://modrinth.com/user/Estecka"
+        }
+      ]
+    },
     {
       "id": "visuality",
       "name": "Visuality",
@@ -1465,7 +1482,7 @@
       "description": "Adds voice acting to NPCs",
       "source": "modrinth",
       "location": "vow",
-      "version": "v1.11.1",
+      "version": "v1.10.7",
       "optional": true,
       "default_enabled": false,
       "category": "SOUND",
@@ -1482,7 +1499,7 @@
       "description": "Quality of life features for Wynncraft",
       "source": "modrinth",
       "location": "wynntils",
-      "version": "v3.0.8",
+      "version": "v3.1.3",
       "optional": true,
       "default_enabled": false,
       "category": "WYNNTILS",
@@ -1705,19 +1722,19 @@
       ]
     },
     {
-      "id": "water-improved",
-      "name": "Water Improved",
+      "id": "clearer-water",
+      "name": "Clearer Water",
       "description": "Enhanced water textures",
-      "source": "ddl",
-      "location": "https://mediafilez.forgecdn.net/files/4584/788/Water%2BImproved.zip",
-      "version": "1.20.1",
+      "source": "modrinth",
+      "location": "clearer-water",
+      "version": "1.3",
       "optional": true,
       "default_enabled": false,
       "category": "TEXTUREPACKS",
       "authors": [
         {
-          "name": "hottubbug",
-          "link": "https://legacy.curseforge.com/members/hottubbug"
+          "name": "Mugget",
+          "link": "https://modrinth.com/user/Mugget"
         }
       ]
     },
@@ -1744,7 +1761,7 @@
       "description": "Custom weapon models",
       "source": "modrinth",
       "location": "wynncraft-fables-legends",
-      "version": "FLC9",
+      "version": "FLC10",
       "optional": true,
       "default_enabled": false,
       "category": "TEXTUREPACKS",
