@@ -1,16 +1,9 @@
 {
-  "manifest_version": 4,
-  "modpack_version": "2.1.6",
+  "manifest_version": 3,
+  "modpack_version": "1.0.0",
   "minecraft_version": "1.21.4",
   "name": "Majestic Overhaul",
-  "subtitle": "Universal Modpack",
-  "description": "A complete overhaul experience for Wynncraft with customizable features",
   "icon": true,
-  "uuid": "wynncraft-overhaul-universal",
-  "version": "1.0.6",
-  "short_description": "Customizable Wynncraft Modpack",
-  "category": "gameplay",
-  
   "loader": {
     "type": "fabric",
     "version": "0.16.10",
@@ -22,23 +15,6 @@
   "java_args": "-XX:+UseG1GC -XX:+UnlockExperimentalVMOptions -XX:G1NewSizePercent=20 -XX:G1ReservePercent=20 -XX:MaxGCPauseMillis=50 -XX:G1HeapRegionSize=32M",
   
   "mods": [
-    {
-      "id": "flashback",
-      "name": "Flashback",
-      "description": "Record replays of your gameplay",
-      "source": "modrinth",
-      "location": "flashback",
-      "version": "0.18.0",
-      "optional": true,
-      "default_enabled": false,
-      "category": "RECORDING",
-      "authors": [
-        {
-          "name": "Moulberry",
-          "link": "https://modrinth.com/user/Moulberry"
-        }
-      ]
-    },
     {
       "id": "3dskinlayers",
       "name": "3D Skin Layers",
@@ -91,23 +67,6 @@
       ]
     },
     {
-      "id": "autohud",
-      "name": "Auto HUD",
-      "description": "Hide the hotbar and crosshair when not in use",
-      "source": "modrinth",
-      "location": "autohud",
-      "version": "8.2+1.21.3-fabric",
-      "optional": true,
-      "default_enabled": false,
-      "category": "GUI",
-      "authors": [
-        {
-          "name": "Crendgrim",
-          "link": "https://modrinth.com/user/Crendgrim"
-        }
-      ]
-    },
-    {
       "id": "barriers-dont-block-rain",
       "name": "Barrier's Don't Block Rain",
       "description": "Makes barriers not block rain effects",
@@ -121,6 +80,57 @@
         {
           "name": "commander",
           "link": "https://modrinth.com/user/commander"
+        }
+      ]
+    },
+    {
+      "id": "bettergrassify",
+      "name": "Barrier's Don't Block Rain",
+      "description": "OptiFine's Fancy and Fast better grass",
+      "source": "modrinth",
+      "location": "bettergrassify",
+      "version": "1.7.0+fabric.1.21.4",
+      "optional": true,
+      "default_enabled": false,
+      "category": "IMMERSIVE",
+      "authors": [
+        {
+          "name": "UltimatChamp",
+          "link": "https://modrinth.com/user/UltimatChamp"
+        }
+      ]
+    },
+    {
+      "id": "better-clouds",
+      "name": "Barrier's Don't Block Rain",
+      "description": "Beautiful clouds in touch with the vanilla style",
+      "source": "modrinth",
+      "location": "better-clouds",
+      "version": "1.8.12+1.21.4-fabric-r",
+      "optional": true,
+      "default_enabled": false,
+      "category": "IMMERSIVE",
+      "authors": [
+        {
+          "name": "qendolin",
+          "link": "https://modrinth.com/user/qendolin"
+        }
+      ]
+    },
+    {
+      "id": "better-mount-hud",
+      "name": "Better Mount HUD",
+      "description": "Improves the ingame HUD while riding a mount",
+      "source": "modrinth",
+      "location": "better-mount-hud",
+      "version": "1.2.5",
+      "optional": true,
+      "default_enabled": false,
+      "category": "GUI",
+      "authors": [
+        {
+          "name": "Lortseam",
+          "link": "https://modrinth.com/user/Lortseam"
         }
       ]
     },
@@ -159,7 +169,7 @@
       ]
     },
     {
-      "id": "betterfpsdist-fabric-1.21-6.0.jar",
+      "id": "betterfpsdist-fabric",
       "name": "Better FPS Render Distance",
       "description": "Improves FPS with higher render distances",
       "source": "ddl",
@@ -172,6 +182,23 @@
         {
           "name": "someaddon",
           "link": "https://www.curseforge.com/members/someaddon"
+        }
+      ]
+    },
+    {
+      "id": "badoptimizations",
+      "name": "Better FPS Render Distance",
+      "description": "Optimization mod that focuses on things other than rendering",
+      "source": "modrinth",
+      "location": "badoptimizations",
+      "version": "2.3.0",
+      "optional": true,
+      "default_enabled": false,
+      "category": "OPTIMIZATION",
+      "authors": [
+        {
+          "name": "thosea",
+          "link": "https://modrinth.com/user/thosea"
         }
       ]
     },
@@ -242,6 +269,24 @@
           "link": "https://modrinth.com/user/enjarai"
         }
       ]
+    },
+    {
+      "id": "chunks-fade-in",
+      "name": "Chunks fade in",
+      "description": "A simple mod that adds fade-in animation for chunks",
+      "source": "modrinth",
+      "location": "chunks-fade-in",
+      "version": "v2.0.7-1.21.4-fabric",
+      "optional": true,
+      "default_enabled": false,
+      "category": "IMMERSIVE",
+      "authors": [
+        {
+          "name": "kerudion",
+          "link": "https://modrinth.com/user/kerudion"
+        }
+      ],
+      "dependencies": ["sodium"]
     },
     {
       "id": "cloth-config",
@@ -346,6 +391,23 @@
       ]
     },
     {
+      "id": "coolrain",
+      "name": "Cool Rain",
+      "description": "Creates ambient sounds for certain blocks during rain",
+      "source": "modrinth",
+      "location": "coolrain",
+      "version": "1.1.0-1.21.4",
+      "optional": false,
+      "default_enabled": true,
+      "category": "SOUNDS",
+      "authors": [
+        {
+          "name": "Jaiz",
+          "link": "https://modrinth.com/user/Jaiz"
+        }
+      ]
+    },
+    {
       "id": "debugify",
       "name": "Debugify",
       "description": "Fixes vanilla Minecraft bugs",
@@ -359,6 +421,23 @@
         {
           "name": "isxander",
           "link": "https://modrinth.com/user/isxander"
+        }
+      ]
+    },
+    {
+      "id": "distanthorizons",
+      "name": "Distant Horizons",
+      "description": "LODs for Minecraft",
+      "source": "modrinth",
+      "location": "distanthorizons",
+      "version": "2.3.2-b-1.21.4",
+      "optional": true,
+      "default_enabled": false,
+      "category": "IMMERSIVE",
+      "authors": [
+        {
+          "name": "jeseibel",
+          "link": "https://modrinth.com/user/jeseibel"
         }
       ]
     },
@@ -588,6 +667,23 @@
       ]
     },
     {
+      "id": "flashback",
+      "name": "Flashback",
+      "description": "Record replays of your gameplay",
+      "source": "modrinth",
+      "location": "flashback",
+      "version": "0.18.0",
+      "optional": true,
+      "default_enabled": false,
+      "category": "RECORDING",
+      "authors": [
+        {
+          "name": "Moulberry",
+          "link": "https://modrinth.com/user/Moulberry"
+        }
+      ]
+    },
+    {
       "id": "forge-config-api-port",
       "name": "Forge Config API Port",
       "description": "Port of Forge's config API to Fabric",
@@ -618,6 +714,40 @@
         {
           "name": "Grend",
           "link": "https://modrinth.com/user/Grend"
+        }
+      ]
+    },
+    {
+      "id": "immersive-hotbar",
+      "name": "Immersive Hotbar",
+      "description": "Adds animations to the hotbar to make it more immersive",
+      "source": "modrinth",
+      "location": "immersive-hotbar",
+      "version": "1.0.4-1.21.2-1.21.4",
+      "optional": true,
+      "default_enabled": false,
+      "category": "GUI",
+      "authors": [
+        {
+          "name": "DerpDerpling",
+          "link": "https://modrinth.com/user/DerpDerpling"
+        }
+      ]
+    },
+    {
+      "id": "immersivethunder",
+      "name": "Immersive Thunder",
+      "description": "Realistic and dynamic thunder sounds",
+      "source": "ddl",
+      "location": "https://cdn.modrinth.com/data/uKjKoMsj/versions/CbGWNjO8/immersivethunder-fabric-1.21.4-1.3.0.jar",
+      "version": "1.3.0",
+      "optional": true,
+      "default_enabled": false,
+      "category": "SOUNDS",
+      "authors": [
+        {
+          "name": "netcatgirl",
+          "link": "https://modrinth.com/user/netcatgirl"
         }
       ]
     },
@@ -884,7 +1014,7 @@
       "description": "Enhances rain with particles",
       "source": "modrinth",
       "location": "particle-rain",
-      "version": "3.0.8",
+      "version": "4-alpha.2+1.21.4-fabric",
       "optional": true,
       "default_enabled": false,
       "category": "IMMERSIVE",
@@ -893,7 +1023,8 @@
           "name": "PigCart",
           "link": "https://modrinth.com/user/PigCart"
         }
-      ]
+      ],
+      "dependencies": ["yacl"]
     },
     {
       "id": "particle-core",
@@ -926,6 +1057,23 @@
         {
           "name": "Chai",
           "link": "https://modrinth.com/user/Chai"
+        }
+      ]
+    },
+    {
+      "id": "palladium",
+      "name": "Palladium",
+      "description": "Optimization for memory and shaders",
+      "source": "modrinth",
+      "location": "mpalladium",
+      "version": "1.1.7-1.21.4-Fabric",
+      "optional": true,
+      "default_enabled": true,
+      "category": "OPTIMIZATION",
+      "authors": [
+        {
+          "name": "Mr.Toad",
+          "link": "https://modrinth.com/user/Mr.Toad"
         }
       ]
     },
@@ -1046,6 +1194,40 @@
         {
           "name": "mineblock11",
           "link": "https://modrinth.com/user/mineblock11"
+        }
+      ]
+    },
+    {
+      "id": "simplefog",
+      "name": "Simple Fog Control",
+      "description": "Allows simple control over water, nether and terrain fog",
+      "source": "modrinth",
+      "location": "simplefog",
+      "version": "2.0.7",
+      "optional": true,
+      "default_enabled": false,
+      "category": "IMMERSIVE",
+      "authors": [
+        {
+          "name": "Draradech",
+          "link": "https://modrinth.com/user/Draradech"
+        }
+      ]
+    },
+      {
+      "id": "subtle-effects",
+      "name": "Subtle Effects",
+      "description": "Immersive particles and sounds",
+      "source": "modrinth",
+      "location": "subtle-effects",
+      "version": "1.9.4-hotfix.1",
+      "optional": true,
+      "default_enabled": false,
+      "category": "IMMERSIVE",
+      "authors": [
+        {
+          "name": "MincraftEinstein",
+          "link": "https://modrinth.com/user/MincraftEinstein"
         }
       ]
     },
@@ -1277,14 +1459,14 @@
       "description": "Adds voice acting to NPCs",
       "source": "modrinth",
       "location": "vow",
-      "version": "v1.10.4",
+      "version": "v1.11.1",
       "optional": true,
       "default_enabled": false,
       "category": "SOUND",
       "authors": [
         {
           "name": "Kmaxi",
-          "link": "https://www.curseforge.com/members/kmaxii"
+          "link": "https://modrinth.com/user/kmaxi"
         }
       ]
     },
@@ -1304,6 +1486,24 @@
           "link": "https://modrinth.com/organization/wynntils"
         }
       ]
+    },
+    {
+      "id": "wynncraft-dynamic-weather",
+      "name": "Wynncraft Dynamic Weather",
+      "description": "A mod that implements a dynamic weather engine",
+      "source": "modrinth",
+      "location": "wynncraft-dynamic-weather",
+      "version": "1.1.0-beta-1.21.4",
+      "optional": true,
+      "default_enabled": false,
+      "category": "IMMERSIVE",
+      "authors": [
+        {
+          "name": "quikjay",
+          "link": "https://modrinth.com/user/quikjay"
+        }
+      ],
+     "dependencies": ["barriers-dont-block-rain"]
     },
     {
       "id": "satin-free-wakes",
@@ -1374,6 +1574,24 @@
           "link": "https://modrinth.com/user/YourDailyModder"
         }
       ]
+    },
+      {
+      "id": "wynnvista",
+      "name": "Wynn Vista",
+      "description": "Distant Horizons render distance when outside the Wynncraft map",
+      "source": "modrinth",
+      "location": "wynnvista",
+      "version": "0.7.1,
+      "optional": true,
+      "default_enabled": false,
+      "category": "IMMERSION",
+      "authors": [
+        {
+          "name": "DrBiznes",
+          "link": "https://modrinth.com/user/DrBiznes"
+        }
+      ],
+     "dependencies": ["distanthorizons"]
     },
     {
       "id": "yosbr",
@@ -1549,7 +1767,24 @@
       ]
     },
     {
-      "id": "tras-fresh-PLAYER",
+      "id": "gentler-weather-sounds",
+      "name": "Gentler Weather Sounds",
+      "description": "Weather sounds you wont mind listening to",
+      "source": "modrinth",
+      "location": "gentler-weather-sounds",
+      "version": "1.6.0",
+      "optional": true,
+      "default_enabled": false,
+      "category": "TEXTUREPACKS",
+      "authors": [
+        {
+          "name": "VesMaybeVesper",
+          "link": "https://modrinth.com/user/VesMaybeVesper"
+        }
+      ]
+    },
+    {
+      "id": "fresh-moves",
       "name": "Fresh Moves",
       "description": "Enhanced player animations",
       "source": "modrinth",
@@ -1583,6 +1818,24 @@
         {
           "name": "EminGT",
           "link": "https://modrinth.com/user/EminGT"
+        }
+      ],
+      "dependencies": ["iris"]
+    },
+    {
+      "id": "photon-shader",
+      "name": "Photon Shaders",
+      "description": "Beautiful shader with realistic clouds and weather",
+      "source": "modrinth",
+      "location": "photon-shader",
+      "version": "v1.2a",
+      "optional": true,
+      "default_enabled": false,
+      "category": "SHADERS",
+      "authors": [
+        {
+          "name": "sixthsurge",
+          "link": "https://modrinth.com/user/sixthsurge"
         }
       ],
       "dependencies": ["iris"]
@@ -1650,6 +1903,7 @@
       "version": "1.0",
       "optional": false,
       "default_enabled": true,
+      "ignore_update": true,
       "category": "OPTIONS"
     },
     {
