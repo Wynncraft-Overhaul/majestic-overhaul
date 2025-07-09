@@ -329,7 +329,7 @@
       ]
     },
     {
-      "id": "cullleaves-fabric-3.4.0.jar",
+      "id": "cullleaves-fabric",
       "name": "Cull Leaves",
       "description": "Optimizes leaf rendering",
       "source": "ddl",
@@ -403,8 +403,8 @@
       "source": "modrinth",
       "location": "coolrain",
       "version": "1.1.0-1.21.4",
-      "optional": false,
-      "default_enabled": true,
+      "optional": true,
+      "default_enabled": false,
       "category": "SOUND",
       "authors": [
         {
@@ -981,7 +981,7 @@
       ]
     },
     {
-      "id": "notifier-1.2.0-1.21.jar",
+      "id": "notifier",
       "name": "Notifier",
       "description": "Adds notification system",
       "source": "ddl",
@@ -1074,7 +1074,7 @@
       "location": "mpalladium",
       "version": "1.1.7-1.21.4-Fabric",
       "optional": true,
-      "default_enabled": true,
+      "default_enabled": false,
       "category": "OPTIMIZATION",
       "authors": [
         {
@@ -1124,7 +1124,7 @@
       "source": "modrinth",
       "location": "reeses-sodium-options",
       "version": "mc1.21.4-1.8.3+fabric",
-      "optional": true,
+      "optional": false,
       "default_enabled": true,
       "category": "OPTIONS",
       "authors": [
@@ -1295,7 +1295,7 @@
       "source": "modrinth",
       "location": "sodium-extra",
       "version": "mc1.21.4-0.6.1+fabric",
-      "optional": true,
+      "optional": false,
       "default_enabled": true,
       "category": "OPTIONS",
       "authors": [
@@ -1330,7 +1330,7 @@
       "source": "modrinth",
       "location": "spark",
       "version": "1.10.121-fabric",
-      "optional": true,
+      "optional": false,
       "default_enabled": true,
       "category": "MISC",
       "authors": [
@@ -1529,7 +1529,7 @@
       ]
     },
     {
-      "id": "wynntils-config-sharing-1.0.0-1.21.jar",
+      "id": "wynntils-config-sharing",
       "name": "Wynntils Config Share",
       "description": "Preset Wynntils settings",
       "source": "ddl",
@@ -1873,7 +1873,7 @@
       "source": "github",
       "location": "resourcepacks/Wynncraft_Overhaul_Panorama.zip",
       "version": "1.0",
-      "optional": true,
+      "optional": false,
       "default_enabled": true,
       "category": "TEXTURES",
       "authors": [
@@ -1891,7 +1891,7 @@
       "location": "resourcepacks/Wynnic_Landscapes_Remastered.zip",
       "version": "1.0",
       "optional": true,
-      "default_enabled": true,
+      "default_enabled": false,
       "category": "TEXTURES",
       "authors": [
         {
@@ -1931,8 +1931,8 @@
       "source": "github",
       "location": "shaderpacks/ComplementaryUnbound_r5.2.2.zip.txt",
       "version": "1.0",
-      "optional": false,
-      "default_enabled": true,
+      "optional": true,
+      "default_enabled": false,
       "category": "SHADERS",
       "dependencies": ["complementary-unbound"]
     },
@@ -1943,7 +1943,7 @@
       "source": "github",
       "location": "shaderpacks/ComplementaryUnbound_r5.2.2 + EuphoriaPatches_1.3.2.txt",
       "version": "1.0",
-      "optional": false,
+      "optional": true,
       "default_enabled": false,
       "category": "SHADERS",
       "dependencies": ["complementary-unbound", "euphoria-patches"] 
