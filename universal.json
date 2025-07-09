@@ -91,7 +91,7 @@
     },
     {
       "id": "bettergrassify",
-      "name": "Barrier's Don't Block Rain",
+      "name": "Better Grassify",
       "description": "OptiFine's Fancy and Fast better grass",
       "source": "modrinth",
       "location": "bettergrassify",
@@ -99,7 +99,7 @@
       "optional": true,
       "default_enabled": false,
       "category": "IMMERSIVE",
-      "authors": [
+      "authors": [f
         {
           "name": "UltimatChamp",
           "link": "https://modrinth.com/user/UltimatChamp"
@@ -108,7 +108,7 @@
     },
     {
       "id": "better-clouds",
-      "name": "Barrier's Don't Block Rain",
+      "name": "Better Clouds",
       "description": "Beautiful clouds in touch with the vanilla style",
       "source": "modrinth",
       "location": "better-clouds",
@@ -193,7 +193,7 @@
     },
     {
       "id": "badoptimizations",
-      "name": "Better FPS Render Distance",
+      "name": "Bad Optimizations",
       "description": "Optimization mod that focuses on things other than rendering",
       "source": "modrinth",
       "location": "badoptimizations",
@@ -405,7 +405,7 @@
       "version": "1.1.0-1.21.4",
       "optional": false,
       "default_enabled": true,
-      "category": "SOUNDS",
+      "category": "SOUND",
       "authors": [
         {
           "name": "Jaiz",
@@ -1509,7 +1509,7 @@
           "link": "https://modrinth.com/user/quikjay"
         }
       ],
-     "dependencies": ["barriers-dont-block-rain"]
+     "dependencies": ["barriers-dont-block-rain", "particle-rain"]
     },
     {
       "id": "satin-free-wakes",
@@ -1590,7 +1590,7 @@
       "version": "0.7.1",
       "optional": true,
       "default_enabled": false,
-      "category": "IMMERSION",
+      "category": "IMMERSIVE",
       "authors": [
         {
           "name": "DrBiznes",
