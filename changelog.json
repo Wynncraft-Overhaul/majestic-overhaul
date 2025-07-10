@@ -1,5 +1,12 @@
 {
   "entries": [
+      {
+      "title": "Minor Mod Update",
+      "contents": "<p>This update updated certain mods:</p><ul><li>UPDATED: CIDADA, Wynntils</li></ul>",
+      "date": "July 7, 2025",
+      "version": "3.0.3",
+      "importance": "minor"
+    },
     {
       "title": "New Visual Enhancements",
       "contents": "<p>This release brings new visual improvements and other updates:</p><ul><li>ADDED: AutoHUD, Legendary Tooltips, Tiny Item Animations, RemoveHUD, BetterFPSRD, Iceberg, Prism & Wakes</li><li>UPDATED: Cupboard, Voices of Wynn & Wynntils</li><li>Made the Wynntils Preset Config optional</li></ul>",
