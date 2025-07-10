@@ -277,24 +277,6 @@
       ]
     },
     {
-      "id": "chunks-fade-in",
-      "name": "Chunks fade in",
-      "description": "A simple mod that adds fade-in animation for chunks",
-      "source": "modrinth",
-      "location": "chunks-fade-in",
-      "version": "v2.0.7-1.21.4-fabric",
-      "optional": true,
-      "default_enabled": false,
-      "category": "IMMERSIVE",
-      "authors": [
-        {
-          "name": "kerudion",
-          "link": "https://modrinth.com/user/kerudion"
-        }
-      ],
-      "dependencies": ["sodium"]
-    },
-    {
       "id": "cloth-config",
       "name": "Cloth Config API",
       "description": "Configuration API for Fabric mods",
@@ -644,7 +626,7 @@
       "description": "Config LIBRARY for mods",
       "source": "modrinth",
       "location": "fzzy-config",
-      "version": "0.6.3+1.21.3",
+      "version": "0.7.0+1.21.3",
       "optional": false,
       "default_enabled": true,
       "category": "LIBRARY",
@@ -749,7 +731,7 @@
       "version": "1.3.0",
       "optional": true,
       "default_enabled": false,
-      "category": "SOUNDS",
+      "category": "SOUND",
       "authors": [
         {
           "name": "netcatgirl",
@@ -1357,6 +1339,23 @@
         }
       ]
     },
+        {
+      "id": "toadlib",
+      "name": "Palladium",
+      "description": "Library mod",
+      "source": "modrinth",
+      "location": "toadlib",
+      "version": "1.3.1-1.21.2-1.21.4-fabric",
+      "optional": false,
+      "default_enabled": true,
+      "category": "LIBRARY",
+      "authors": [
+        {
+          "name": "Mr.Toad",
+          "link": "https://modrinth.com/user/Mr.Toad"
+        }
+      ]
+    },
     {
       "id": "tiny-item-animations",
       "name": "Tiny Item Animations",
@@ -1639,7 +1638,7 @@
       "description": "Configuration LIBRARY",
       "source": "modrinth",
       "location": "yacl",
-      "version": "3.6.2+1.21.4-fabric",
+      "version": "3.7.1+1.21.4-fabric",
       "optional": false,
       "default_enabled": true,
       "category": "LIBRARY",
@@ -1974,7 +1973,7 @@
       "version": "1.0",
       "optional": true,
       "default_enabled": false,
-      "category": "VISUALS",
+      "category": "IMMERSIVE",
       "dependencies": ["bobby"]
     }
   ]
