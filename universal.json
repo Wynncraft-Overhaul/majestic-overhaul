@@ -1653,6 +1653,23 @@
       ]
     },
     {
+      "id": "no-armor",
+      "name": "No Armor",
+      "description": "Make armor invisible",
+      "source": "modrinth",
+      "location": "no-armor",
+      "version": "1.0.3",
+      "optional": true,
+      "default_enabled": false,
+      "category": "TEXTUREPACKS",
+      "authors": [
+        {
+          "name": "Saaturnidae",
+          "link": "https://modrinth.com/user/Saaturnidae"
+        }
+      ]
+    },
+    {
       "id": "fungal-orchestral-pack",
       "name": "Fungal Orchestral Pack",
       "description": "Enhanced orchestral music",
