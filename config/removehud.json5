@@ -14,9 +14,13 @@
 	"SpectatorHud": false,
 	"SpectatorMenu": false,
 	"HeldItemTooltip": true,
+	// Held item tooltip X offset
+	"HeldItemTooltipXOffset": 0,
+	// Held item tooltip Y offset
+	"HeldItemTooltipYOffset": 0,
 	"MountJumpbar": true,
 	"MountHealth": false,
-	"BossBar": true,
+	"BossBar": false,
 	// Health hearts
 	"HpBar": true,
 	// HP bar X offset
@@ -43,10 +47,23 @@
 	"FoodYOffset": 0,
 	"SpyglassOverlay": true,
 	"PortalOverlay": true,
-	// Frost Overlay, Pumkin head, etc...
+	// Frost Overlay, Pumpkin head, etc...
 	"OtherOverlays": true,
 	"Vignette": true,
 	"ExpBar": true,
+	// Exp bar X offset
+	"ExpBarXOffset": 0,
+	// Exp Tooltip Y offset
+	"ExpBarYOffset": 0,
 	"Crosshairs": true,
-	"HotBar": true
+	"HotBar": true,
+	// Hotbar X offset
+	"HotBarXOffset": 0,
+	// Hotbar Y offset
+	"HotBarYOffset": 0,
+	"OverlayMessage": true,
+	// Overlay Message X offset
+	"OverlayMessageXOffset": 0,
+	// Overlay Message Y offset
+	"OverlayMessageYOffset": 0
 }
