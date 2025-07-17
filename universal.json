@@ -1,6 +1,6 @@
 {
   "manifest_version": 3,
-  "modpack_version": "1.0.0",
+  "modpack_version": "1.0.1",
   "minecraft_version": "1.21.4",
   "name": "Majestic Overhaul",
   "subtitle": "Universal Modpack",
@@ -1857,7 +1857,7 @@
       "version": "1.0",
       "optional": true,
       "default_enabled": false,
-      "category": "TEXTURES",
+      "category": "TEXTUREPACKS",
       "authors": [
         {
           "name": "Kiocifer",
@@ -1874,7 +1874,7 @@
       "version": "1.0",
       "optional": false,
       "default_enabled": true,
-      "category": "TEXTURES",
+      "category": "TEXTUREPACKS",
       "authors": [
         {
           "name": "Elysium",
@@ -1891,7 +1891,7 @@
       "version": "1.0",
       "optional": true,
       "default_enabled": false,
-      "category": "TEXTURES",
+      "category": "TEXTUREPACKS",
       "authors": [
         {
           "name": "Olinus10",
@@ -1937,7 +1937,7 @@
     },
       {
       "id": "euphoria-settings",
-      "name": "Complementary Unbound Settings",
+      "name": "Euphoria Settings",
       "description": "Shader settings for Euphoria Patches",
       "source": "github",
       "location": "shaderpacks/ComplementaryUnbound_r5.2.2 + EuphoriaPatches_1.3.2.txt",
