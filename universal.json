@@ -1856,7 +1856,7 @@
       "location": "resourcepacks/KiosWynnModels-Archangel.zip",
       "version": "1.0",
       "optional": true,
-      "optional": true,
+      "can_reset": true,
       "default_enabled": false,
       "category": "TEXTUREPACKS",
       "authors": [
@@ -1874,7 +1874,7 @@
       "location": "resourcepacks/Wynncraft_Overhaul_Panorama.zip",
       "version": "1.0",
       "optional": false,
-      "optional": true,
+      "can_reset": true,
       "default_enabled": true,
       "category": "TEXTUREPACKS",
       "authors": [
@@ -1892,7 +1892,7 @@
       "location": "resourcepacks/Wynnic_Landscapes_Remastered.zip",
       "version": "1.0",
       "optional": true,
-      "optional": true,
+      "can_reset": true,
       "default_enabled": false,
       "category": "TEXTUREPACKS",
       "authors": [
