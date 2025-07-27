@@ -1124,6 +1124,14 @@
 	]
     	}
 ],
+"remote_include": [
+        {
+            "location": "https://www.dropbox.com/scl/fi/x6fndt2a9qjlsj524olqv/play.wynncraft.com.zip?rlkey=hwrt0hie321d34u244uzoder3&st=xrp9py35&dl=1",
+            "id": "bobby-file",
+            "path": ".bobby",
+            "version": "1.0"
+        }
+    ],
 "include": [
         {
             "location": "resourcepacks/KiosWynnModels-Archangel.zip",
@@ -1135,10 +1143,6 @@
                     "link": "https://forums.wynncraft.com/threads/kios-models.288166/"
                 }
             ]
-        },
-        {
-            "location": ".bobby",
-            "id": "bobby-file"
         },
         {
             "location": "config"
