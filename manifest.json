@@ -1064,13 +1064,16 @@
             "location": "resourcepacks/Wynnic_Landscapes_Remastered.zip"
         }
     ],
-    "features": [
+	"remote_include": [
         {
+            "location": "https://www.dropbox.com/scl/fi/x6fndt2a9qjlsj524olqv/play.wynncraft.com.zip?rlkey=hwrt0hie321d34u244uzoder3&st=xrp9py35&dl=1",
             "id": "bobby-file",
-            "name": "bobby-file",
-            "default": true,
-            "hidden": true
-        },
+            "path": ".bobby",
+            "version": "1.0"
+        }
+    ],
+    "features": [
+
         {
             "id": "wynntils-config",
             "name": "Wynntils Preset Config",
