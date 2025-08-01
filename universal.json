@@ -29,7 +29,7 @@
       "location": "3dskinlayers",
       "version": "1.7.4",
       "optional": true,
-      "default_enabled": False,
+      "default_enabled": false,
       "category": "PLAYER",
       "authors": [
         {
