@@ -20,7 +20,7 @@
 	"HeldItemTooltipYOffset": 0,
 	"MountJumpbar": true,
 	"MountHealth": false,
-	"BossBar": false,
+	"BossBar": true,
 	// Health hearts
 	"HpBar": true,
 	// HP bar X offset
