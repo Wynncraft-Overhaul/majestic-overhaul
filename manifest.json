@@ -147,7 +147,7 @@
     	},
     	{
         	"name": "CICADA",
-        	"version": "0.10.2+1.21.4-and-above",
+        	"version": "0.14.2+1.21.4",
         	"source": "modrinth",
         	"location": "cicada",
         	"authors": [
