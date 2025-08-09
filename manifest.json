@@ -1,6 +1,6 @@
 {
     "manifest_version": 3,
-    "modpack_version": "3.0.3",
+    "modpack_version": "3.0.5",
     "name": "Majestic Creator",
     "subtitle": "CREATOR PACK",
     "description": "<p style=\"font-size: 1.4em;margin-top: 0;\">Immersive modpack for content creators</p>",
@@ -899,7 +899,7 @@
     	},
     	{
         	"name": "Wynntils",
-        	"version": "v3.0.23",
+        	"version": "v3.2.2",
         	"source": "modrinth",
         	"location": "wynntils",
         	"authors": [
