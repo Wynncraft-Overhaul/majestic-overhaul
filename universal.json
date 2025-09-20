@@ -166,7 +166,7 @@
       "version": "5.2.6+mc1.21.4",
       "optional": true,
       "default_enabled": false,
-      "category": "IMMERSIVE",
+      "category": "RENDER DISTANCE",
       "authors": [
         {
           "name": "Johni0702",
@@ -421,7 +421,7 @@
       "version": "2.3.2-b-1.21.4",
       "optional": true,
       "default_enabled": false,
-      "category": "IMMERSIVE",
+      "category": "RENDER DISTANCE",
       "authors": [
         {
           "name": "jeseibel",
@@ -1177,7 +1177,7 @@
       "version": "2.0.7",
       "optional": true,
       "default_enabled": false,
-      "category": "IMMERSIVE",
+      "category": "RENDER DISTANCE",
       "authors": [
         {
           "name": "Draradech",
@@ -1464,10 +1464,27 @@
       "description": "Quality of life features for Wynncraft",
       "source": "modrinth",
       "location": "wynntils",
-      "version": "v3.1.3",
+      "version": "v3.2.11",
       "optional": true,
       "default_enabled": false,
-      "category": "WYNNTILS",
+      "category": "WYNNCRAFT",
+      "authors": [
+        {
+          "name": "wynntils",
+          "link": "https://modrinth.com/organization/wynntils"
+        }
+      ]
+    },
+    {
+      "id": "wynnstacks",
+      "name": "WynnStacks",
+      "description": "Debuff Tracker for Wynncraft",
+      "source": "modrinth",
+      "location": "wynnstacks",
+      "version": "1.6.8",
+      "optional": true,
+      "default_enabled": false,
+      "category": "WYNNCRAFT",
       "authors": [
         {
           "name": "wynntils",
@@ -1519,7 +1536,7 @@
       "version": "1.0.0-1.21",
       "optional": true,
       "default_enabled": false,
-      "category": "WYNNTILS",
+      "category": "WYNNCRAFT",
       "authors": [
         {
           "name": "commander",
@@ -1572,7 +1589,7 @@
       "version": "0.7.1",
       "optional": true,
       "default_enabled": false,
-      "category": "IMMERSIVE",
+      "category": "RENDER DISTANCE",
       "authors": [
         {
           "name": "DrBiznes",
@@ -1964,7 +1981,7 @@
       "optional": true,
       "can_reset": true,
       "default_enabled": false,
-      "category": "IMMERSIVE",
+      "category": "RENDER DISTANCE",
       "dependencies": ["bobby"]
     }
   ],
@@ -1980,7 +1997,7 @@
           "optional": true,
           "default_enabled": false,
           "can_reset": true,
-          "category": "IMMERSIVE",
+          "category": "RENDER DISTANCE",
           "dependencies": ["distanthorizons"]
         }
       ]
