@@ -506,7 +506,7 @@
     	},
     	{
         	"name": "Searchables",
-        	"version": "1.0.3",
+        	"version": "1.0.4",
         	"source": "modrinth",
         	"location": "searchables",
         	"authors": [
@@ -602,7 +602,7 @@
     	},
     	{
         	"name": "Wynntils",
-        	"version": "v3.2.2",
+        	"version": "v3.2.14",
         	"source": "modrinth",
         	"location": "wynntils",
         	"authors": [
