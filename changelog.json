@@ -46,15 +46,15 @@
   "homepage_config": {
     "stats": {
       "stat1_value": "100+",
-      "stat1_label": "MODS",
+      "stat1_label": "FEATURES",
       "stat2_value": "300+", 
       "stat2_label": "FPS",
       "stat3_value": "20K+",
       "stat3_label": "DOWNLOADS"
     },
     "footer_button": {
-      "text": "JOIN OUR DISCORD",
-      "link": "https://discord.gg/olinus-corner-778965021656743966"
+      "text": "SUBSCRIBE",
+      "link": "https://www.youtube.com/@Olinus10"
     }
   }
 }
