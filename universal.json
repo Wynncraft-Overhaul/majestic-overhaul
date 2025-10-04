@@ -1,6 +1,6 @@
 {
   "manifest_version": 3,
-  "modpack_version": "1.0.0",
+  "modpack_version": "4.0.0",
   "minecraft_version": "1.21.4",
   "name": "Majestic Overhaul",
   "subtitle": "Universal Modpack",
@@ -12,7 +12,7 @@
   "category": "gameplay",
   "loader": {
     "type": "fabric",
-    "version": "0.16.10",
+    "version": "0.17.2",
     "minecraft_version": "1.21.4"
   },
   
@@ -1447,7 +1447,7 @@
       "description": "Adds voice acting to NPCs",
       "source": "modrinth",
       "location": "vow",
-      "version": "v1.10.7",
+      "version": "v1.11.3",
       "optional": true,
       "default_enabled": false,
       "category": "SOUND",
@@ -1464,7 +1464,7 @@
       "description": "Quality of life features for Wynncraft",
       "source": "modrinth",
       "location": "wynntils",
-      "version": "v3.2.11",
+      "version": "v3.2.14",
       "optional": true,
       "default_enabled": false,
       "category": "WYNNCRAFT",
