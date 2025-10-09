@@ -282,7 +282,7 @@ _version = 3
 			updateBranch = "AUTO"
 			#
 			# Automatically check for updates on game launch?
-			enableAutoUpdater = true
+			enableAutoUpdater = false
 			#
 			# Should Distant Horizons silently, automatically download and install new versions? 
 			# This setting is force disabled on dedicated servers for stability reasons.
@@ -306,7 +306,7 @@ _version = 3
 			# DEFAULT: Default lod renderer 
 			# DEBUG: Debug testing renderer 
 			# DISABLED: Disable rendering
-			rendererMode = "DEFAULT"
+			rendererMode = "DISABLED"
 			#
 			# If enabled the LODs will render as wireframe.
 			renderWireframe = false
@@ -624,7 +624,7 @@ _version = 3
 				blocksToIgnore = "NON_COLLIDING"
 				#
 				# The radius of the mod's render distance. (measured in chunks)
-				lodChunkRenderDistanceRadius = 256
+				lodChunkRenderDistanceRadius = 306
 				#
 				# What the value should vanilla Minecraft's texture LodBias be? 
 				# If set to 0 the mod wont overwrite vanilla's default (which so happens to also be 0)
@@ -694,7 +694,7 @@ _version = 3
 				# 
 				# USE_WORLD_FOG_COLOR: Use the world's fog color. 
 				# USE_SKY_COLOR: Use the sky's color.
-				colorMode = "USE_SKY_COLOR"
+				colorMode = "USE_WORLD_FOG_COLOR"
 				#
 				# How should the fog thickness should be calculated? 
 				# 
