@@ -1464,7 +1464,7 @@
       "description": "Quality of life features for Wynncraft",
       "source": "modrinth",
       "location": "wynntils",
-      "version": "v3.2.14",
+      "version": "v3.3.0",
       "optional": true,
       "default_enabled": false,
       "category": "WYNNCRAFT",
