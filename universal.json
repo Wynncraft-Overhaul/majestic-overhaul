@@ -537,7 +537,7 @@
       "description": "Adds extra shader settings",
       "source": "modrinth",
       "location": "euphoria-patches",
-      "version": "1.4.3-r5.3-fabric",
+      "version": "1.7.2-r5.6.1-fabric",
       "optional": true,
       "default_enabled": false,
       "category": "SHADERS",
