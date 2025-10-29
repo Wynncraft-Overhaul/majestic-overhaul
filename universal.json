@@ -1991,7 +1991,7 @@
           "name": "Distant Horizons Server Data",
           "description": "Pre-generated LOD data for Wynncraft",
           "source": "ddl",
-          "location": "https://www.dropbox.com/scl/fi/qwfal703pxi2ibobn1xd0/WYNN.zip?rlkey=autdcfz9zpb0jetd24ms0h2xo&st=sj1bdyo9&dl=1",
+          "location": "https://www.dropbox.com/scl/fi/uxxdd9r0m8b41h6lav2pa/Wynncraft.zip?rlkey=znyfiine70xd5aov962xoyuxt&st=jor3zj3f&dl=1",
           "path": "Distant_Horizons_server_data",
           "version": "2.1",
           "optional": true,
