@@ -1153,7 +1153,7 @@
     },
     {
       "id": "sound",
-      "name": "Sound",
+      "name": "Sounds",
       "description": "Sound enhancement mod",
       "source": "modrinth",
       "location": "sound",
@@ -1164,7 +1164,7 @@
       "authors": [
         {
           "name": "mineblock11",
-          "link": "https://modrinth.com/user/mineblock11"
+          "link": "https://modrinth.com/user/imb11"
         }
       ]
     },
@@ -1447,7 +1447,7 @@
       "description": "Adds voice acting to NPCs",
       "source": "modrinth",
       "location": "vow",
-      "version": "v1.11.3",
+      "version": "v1.12.0",
       "optional": true,
       "default_enabled": false,
       "category": "SOUND",
@@ -1464,7 +1464,7 @@
       "description": "Quality of life features for Wynncraft",
       "source": "modrinth",
       "location": "wynntils",
-      "version": "v3.3.3",
+      "version": "v3.3.4",
       "optional": true,
       "default_enabled": false,
       "category": "WYNNCRAFT",
@@ -1658,7 +1658,7 @@
       "description": "Make the sun and moon cubic",
       "source": "modrinth",
       "location": "cubic-sun-moon",
-      "version": "1.8",
+      "version": "1.8.4",
       "optional": true,
       "default_enabled": false,
       "category": "TEXTUREPACKS",
