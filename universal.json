@@ -1671,18 +1671,18 @@
     },
     {
       "id": "no-armor",
-      "name": "No Armor",
+      "name": "No Armor +",
       "description": "Make armor invisible",
       "source": "modrinth",
-      "location": "no-armor",
-      "version": "1.0.3",
+      "location": "no-armor-+",
+      "version": "1.0001",
       "optional": true,
       "default_enabled": false,
       "category": "TEXTUREPACKS",
       "authors": [
         {
-          "name": "Saaturnidae",
-          "link": "https://modrinth.com/user/Saaturnidae"
+          "name": "Squarcles",
+          "link": "https://modrinth.com/user/Squarcles"
         }
       ]
     },
