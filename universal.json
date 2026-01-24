@@ -709,7 +709,7 @@
       "id": "immersive-hotbar",
       "name": "Immersive Hotbar",
       "description": "Adds animations to the hotbar to make it more immersive",
-      "source": "dll",
+      "source": "ddl",
       "location": "https://cdn.modrinth.com/data/hsPB5xMD/versions/PWyVOLow/immersive-hotbar-1.0.4-1.21.2-1.21.4.jar",
       "version": "1.0.4-1.21.2-1.21.4",
       "optional": true,
