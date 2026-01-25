@@ -1963,7 +1963,7 @@
       "name": "Euphoria Settings",
       "description": "Shader settings for Euphoria Patches",
       "source": "github",
-      "location": "shaderpacks/ComplementaryUnbound_r5.2.2 %2B EuphoriaPatches_1.3.2.txt",
+      "location": "shaderpacks/ComplementaryUnbound_r5.2.2%20%2B%20EuphoriaPatches_1.3.2.txt",
       "version": "1.0",
       "optional": true,
       "can_reset": true,
