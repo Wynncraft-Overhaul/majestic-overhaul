@@ -1498,7 +1498,7 @@
       "description": "A mod that implements a dynamic weather engine",
       "source": "modrinth",
       "location": "wynncraft-dynamic-weather",
-      "version": "1.1.0-beta-1.21.4",
+      "version": "1.1.0-1.21.4",
       "optional": true,
       "default_enabled": false,
       "category": "IMMERSIVE",
