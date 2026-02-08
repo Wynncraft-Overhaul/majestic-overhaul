@@ -1797,8 +1797,9 @@
       "default_enabled": false,
       "category": "SHADERS",
       "dependencies": ["complementary-unbound", "euphoria-patches"] 
-    },
+    }
   ],
+  
   "remote_include": [
         {
           "id": "distant-horizons-data",
@@ -1827,8 +1828,7 @@
           "can_reset": true,
           "category": "RENDER DISTANCE",
           "dependencies": ["bobby"]
-
-    },
+        },
         {
           "id": "voxy-data",
           "name": "Voxy Server Data",
@@ -1843,6 +1843,5 @@
           "category": "RENDER DISTANCE",
           "dependencies": ["voxy"]
         }
-
       ]
     }
