@@ -1341,23 +1341,6 @@
       ]
     },
     {
-      "id": "wynnstacks",
-      "name": "WynnStacks",
-      "description": "Debuff Tracker for Wynncraft",
-      "source": "ddl",
-      "location": "https://cdn.modrinth.com/data/MQMIPXvM/versions/pXbY55wI/WynnStacks-1.6.9.jar",
-      "version": "1.6.9",
-      "optional": true,
-      "default_enabled": false,
-      "category": "WYNNCRAFT",
-      "authors": [
-        {
-          "name": "wynntils",
-          "link": "https://modrinth.com/organization/wynntils"
-        }
-      ]
-    },
-    {
       "id": "wynncraft-dynamic-weather",
       "name": "Wynncraft Dynamic Weather",
       "description": "A mod that implements a dynamic weather engine",
