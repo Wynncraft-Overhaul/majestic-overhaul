@@ -952,7 +952,7 @@
       "name": "Particular",
       "description": "Adds water effects",
       "source": "modrinth",
-      "location": "particular",
+      "location": "particular-reforged",
       "version": "1.3.2",
       "optional": true,
       "default_enabled": false,
