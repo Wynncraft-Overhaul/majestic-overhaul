@@ -1658,12 +1658,30 @@
       ],
       "dependencies": ["iris"]
     },
+        {
+      "id": "bsl",
+      "name": "BSL Shaders",
+      "description": "It's bright, colorful, and distinct.",
+      "source": "modrinth",
+      "location": "bsl-shaders",
+      "version": "10.1.1",
+      "optional": true,
+      "default_enabled": false,
+      "category": "SHADERS",
+      "authors": [
+        {
+          "name": "CaptTatsu",
+          "link": "https://modrinth.com/user/CaptTatsu"
+        }
+      ],
+      "dependencies": ["iris"]
+    },
     {
       "id": "photon-shader",
       "name": "Photon Shaders",
       "description": "Beautiful shader with realistic clouds and weather",
-      "source": "modrinth",
-      "location": "photon-shader",
+      "source": "dll",
+      "location": "https://codeload.github.com/sixthsurge/photon/zip/refs/heads/main",
       "version": "v1.2a",
       "optional": true,
       "default_enabled": false,
