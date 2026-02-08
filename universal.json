@@ -1664,7 +1664,7 @@
       "name": "Photon Shaders",
       "description": "Beautiful shader with realistic clouds and weather",
       "source": "ddl",
-      "location": "https://codeload.github.com/sixthsurge/photon/zip/refs/heads/main",
+      "location": "https://github.com/sixthsurge/photon/archive/refs/heads/main.zip",
       "version": "v1.2a",
       "optional": true,
       "default_enabled": false,
