@@ -1238,6 +1238,23 @@
         }
       ]
     },
+            {
+      "id": "rsls",
+      "name": "Raise Sound Limit Simplified",
+      "description": "Raises the sound limit",
+      "source": "modrinth",
+      "location": "rsls",
+      "version": "1.1.14",
+      "optional": false,
+      "default_enabled": true,
+      "category": "SOUNDS",
+      "authors": [
+        {
+          "name": "ishland",
+          "link": "https://modrinth.com/user/ishland"
+        }
+      ]
+    },
     {
       "id": "visuality",
       "name": "Visuality",
