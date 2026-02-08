@@ -44,7 +44,7 @@
       "description": "Adds immersive ambient sound",
       "source": "modrinth",
       "location": "ambientsounds",
-      "version": "6.3.3",
+      "version": "6.3.4",
       "optional": true,
       "default_enabled": false,
       "category": "SOUND",
