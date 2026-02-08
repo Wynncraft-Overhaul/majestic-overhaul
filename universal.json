@@ -1769,6 +1769,19 @@
       "category": "SHADERS",
       "dependencies": ["complementary-unbound"]
     },
+        {
+      "id": "photon-settings",
+      "name": "Photon Settings",
+      "description": "Shader settings for Photon shaders",
+      "source": "github",
+      "location": "shaderpacks/main.zip.txt",
+      "version": "1.0",
+      "optional": true,
+      "can_reset": true,
+      "default_enabled": false,
+      "category": "SHADERS",
+      "dependencies": ["photon-shader"]
+    },
       {
       "id": "euphoria-settings",
       "name": "Euphoria Settings",
