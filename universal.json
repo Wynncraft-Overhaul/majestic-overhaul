@@ -1207,7 +1207,7 @@
     {
       "id": "placeholder-api",
       "name": "Text Placeholder API",
-      "description": "Placeholder API for text"
+      "description": "Placeholder API for text",
       "source": "modrinth",
       "location": "placeholder-api",
       "version": "2.8.1+1.21.10",
