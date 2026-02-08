@@ -1,0 +1,2 @@
+#Sun Feb 08 12:40:31 CET 2026
+PURKINJE_SHIFT=false
