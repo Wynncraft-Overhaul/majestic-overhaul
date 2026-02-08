@@ -43,7 +43,7 @@
       "name": "Ambient Sounds",
       "description": "Adds immersive ambient sound",
       "source": "ddl",
-      "location": "https://cdn.modrinth.com/data/fM515JnW/versions/iYzwKdCI/AmbientSounds_FABRIC_v6.3.3_mc1.21.11.jar",
+      "location": "https://cdn.modrinth.com/data/fM515JnW/versions/cgDWHFGZ/AmbientSounds_FABRIC_v6.3.4_mc1.21.11.jar",
       "version": "6.3.4",
       "optional": true,
       "default_enabled": false,
