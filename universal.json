@@ -1091,8 +1091,8 @@
       "source": "modrinth",
       "location": "searchables",
       "version": "1.0.2",
-      "optional": true,
-      "default_enabled": false,
+      "optional": false,
+      "default_enabled": true,
       "category": "OPTIONS",
       "authors": [
         {
