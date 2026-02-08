@@ -1,11 +1,15 @@
 # Don't change this! Version used to track needed updates.
 version = 0
-enderPearlTrail = true
-snowballTrailDensity = 0.5
+attackedChickenFeathers = true
+attackedParrotFeathers = true
+attackedSnowGolemSnowflakes = true
+attackedSheepFluff = true
+attackedSlimeSlime = true
 allayMagicDensity = 0.2
 vexMagicDensity = 0.2
 sheepShearFluff = true
 improvedDragonFireballTrail = true
+dragonsBreathClouds = true
 commandBlockMinecartParticles = "ON"
 endCrystalParticles = true
 minecartSparksDisplayType = "DEFAULT"
@@ -18,15 +22,18 @@ replaceSpellCasterParticles = true
 ironGolemCrackParticles = true
 spectralArrowParticles = true
 wardenDeathSoulParticles = true
-xpBottleParticlesDisplayType = "DEFAULT"
-xpBottleParticlesDensity = 10
-eggSmashSoundVolume = 0.5
 freezingSnowFlakes = true
-
-[attacked]
-chickenFeathers = true
-parrotFeathers = true
-snowGolemSnowflakes = true
+featherTicklingPandas = true
+improvedPandaSneezes = true
+villagerWorkAtWorkstationParticles = true
+improvedBrownMooshroomFeedingEffects = true
+improvedMooshroomShearingEffects = true
+replaceBlazeSmoke = true
+animalFeedingParticles = true
+animalFeedingSoundVolume = 1.0
+underwaterEntityPoofBubbles = true
+improvedWetWolfShakeEffects = true
+improvedVillagerSweatingEffects = true
 
 [sleeping]
 playerSnoreChance = 1.0
@@ -46,8 +53,11 @@ adjustNameTagWhenSleeping = true
 drowningBubblesDisplayType = "DEFAULT"
 drowningBubblesDensity = 10
 drowningBubbleAlpha = 1.0
+forceDrowningBubblesToColumn = false
 potionRingsDisplayType = "DEFAULT"
 potionRingsParticleType = "BOTH"
+potionRingsScale = 1.0
+potionRingsAlpha = 1.0
 NPCsHavePotionRings = true
 
 [humanoids.frostyBreath]
@@ -58,8 +68,9 @@ seasons = "DEFAULT"
 additionalBiomes = [  ]
 
 [humanoids.player]
+enableBreathingEffectsInCreative = true
 stomachGrowlingThreshold = 6
-stomachGrowlingVolume = 1.0
+stomachGrowlingVolume = 0.0
 stomachGrowlingWaitTime = 15
 heartBeatingThreshold = 6
 heartbeatVolume = 1.0
@@ -74,26 +85,21 @@ lessViewBlocking = false
 playerFell = true
 mobFell = true
 landMaceAttack = true
-playerRunning = true
-mobRunning = true
+playerRunning = false
+mobRunning = false
 playerRunningRequiresSpeed = false
 
 [burning]
-smoke = "OFF"
-flames = false
-sparks = false
-sounds = false
+smokeType = "OFF"
+smokeDensity = 0.0
+flamesDensity = 0.0
+sparksDensity = 0.0
+soundVolume = 0.0
+entityBlocklist = [
+    "minecraft:lightning_bolt"
+]
+overrideDyedFlamesEffects = true
 extinguishSteam = false
-
-[itemRarity]
-particlesDisplayType = "OFF"
-particleColorType = "NAME_COLOR"
-mixedColorName = true
-useItemBorder = true
-colorOverrides = [  ]
-particleMaxHeight = 1.0
-particleMaxSpeed = 1.0
-particleDensity = 1.0
 
 [explosives]
 tntUpdateSmoke = true
@@ -101,3 +107,19 @@ tntFlamesDensity = 1
 tntSparks = true
 creeperSmoke = "UPDATED"
 creeperSparks = true
+
+[splashes]
+splashEffects = true
+splashRipples = true
+splashDroplets = true
+splashBubbles = true
+explosionsCauseSplashes = true
+splashOverlayTint = 0.2
+splashOverlayAlpha = 0.8
+splashVelocityThreshold = 0.35
+entityBlocklist = [  ]
+secondarySplash = true
+secondarySplashRipples = false
+secondarySplashVelocityThreshold = 0.3
+lavaSplashes = true
+lavaSplashRipples = true
