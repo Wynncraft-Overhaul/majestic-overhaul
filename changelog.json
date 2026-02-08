@@ -1,5 +1,12 @@
 {
   "entries": [
+          {
+      "title": "1.21.11 UPDATE",
+      "contents": "<p>Updated the modpack to 1.21.11</p><ul><li>New VOXY render distance support</li><li>REMOVED: Wynncraft Donjons, Wynncraft Fables and Legends, Falling Leaves(replaced by Particular), Iceberg, Legendary Tooltips, Prism Lib, Ukulib, Wynncraft Tooltips</li><li>UPDATED: Wynntils & Voices of Wynn</li></ul>",
+      "date": "October 2025",
+      "version": "4.0.0",
+      "importance": "major"
+    },
       {
       "title": "Major Installer Overhaul",
       "contents": "<p>Complete rework of the installer</p><ul><li>New functions and customizability</li><li>NEW: Better Grassify, Better Clouds, Better Mount HUD, Bad Optimizations, Cool Raid, DISTANT HORIZONS, Immersive Hotbar, Particular, Simple Fog Control, Subtle Effects, Variants-CIT, Wynn-Vista, Wynn-Stacks, No Armor, Clearer Water & Gentler Weather Sounds</li><li>UPDATED: Wynntils & Voices of Wynn</li></ul>",
