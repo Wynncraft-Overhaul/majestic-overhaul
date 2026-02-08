@@ -100,7 +100,6 @@
         "options",
         "unbound-settings",
         "euphoria-settings",
-        "bobby-folder",
         "voxy-data"
       ],
       "recommended_memory": 4096,
@@ -155,7 +154,7 @@
         "water-improved",
         "no-armor",
         "options",
-        "bobby-folder"
+        "voxy-data"
 
       ],
       "recommended_memory": 4096,
