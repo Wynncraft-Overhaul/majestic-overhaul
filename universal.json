@@ -124,23 +124,6 @@
       ]
     },
     {
-      "id": "better-mount-hud",
-      "name": "Better Mount HUD",
-      "description": "Improves the ingame HUD while riding a mount",
-      "source": "modrinth",
-      "location": "better-mount-hud",
-      "version": "1.2.6",
-      "optional": true,
-      "default_enabled": false,
-      "category": "GUI",
-      "authors": [
-        {
-          "name": "Lortseam",
-          "link": "https://modrinth.com/user/Lortseam"
-        }
-      ]
-    },
-    {
       "id": "betterf3",
       "name": "BetterF3",
       "description": "Improves the F3 debug screen",
