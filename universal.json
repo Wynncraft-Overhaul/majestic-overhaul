@@ -1813,9 +1813,7 @@
           "can_reset": true,
           "category": "RENDER DISTANCE",
           "dependencies": ["distanthorizons"]
-        }
-      ]
-    },
+        },
         {
           "id": "bobby-folder",
           "name": "Bobby World Data",
@@ -1829,8 +1827,7 @@
           "can_reset": true,
           "category": "RENDER DISTANCE",
           "dependencies": ["bobby"]
-        }
-      ]
+
     },
         {
           "id": "voxy-data",
@@ -1846,6 +1843,6 @@
           "category": "RENDER DISTANCE",
           "dependencies": ["voxy"]
         }
+
       ]
     }
-
