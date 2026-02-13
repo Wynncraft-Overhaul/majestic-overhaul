@@ -1157,9 +1157,9 @@
       "id": "spark",
       "name": "Spark",
       "description": "Performance profiling tool",
-      "source": "modrinth",
-      "location": "spark",
-      "version": "1.10.156-fabric",
+      "source": "ddl",
+      "location": "https://ci.lucko.me/job/spark/514/artifact/spark-fabric/build/libs/spark-1.10.165-fabric.jar",
+      "version": "1.10.165-fabric",
       "optional": false,
       "default_enabled": true,
       "category": "MISC",
@@ -1184,6 +1184,23 @@
         {
           "name": "Patbox",
           "link": "https://modrinth.com/user/Patbox"
+        }
+      ]
+    },
+      {
+      "id": "playeranims",
+      "name": "PlayerAnimationLibrary",
+      "description": "Player animation library mod",
+      "source": "ddl",
+      "location": "https://cdn.modrinth.com/data/ha1mEyJS/versions/97vS1xaQ/PlayerAnimationLibFabric-1.1.6%2Bmc.1.21.11.jar",
+      "version": "1.1.6",
+      "optional": true,
+      "default_enabled": false,
+      "category": "LIBRARY",
+      "authors": [
+        {
+          "name": "ZigyTheBird",
+          "link": "https://modrinth.com/user/ZigyTheBird"
         }
       ]
     },
@@ -1428,6 +1445,24 @@
         }
       ],
      "dependencies": ["distanthorizons"]
+    },
+    {
+      "id": "wynnanimated",
+      "name": "WynnAnimated",
+      "description": "Wynncraft character animations",
+      "source": "ddl",
+      "location": "https://mediafilez.forgecdn.net/files/7617/50/WynnAnimated-0.1.4%2B1.21.11.jar",
+      "version": "1.0.0",
+      "optional": true,
+      "default_enabled": false,
+      "category": "PLAYER",
+      "authors": [
+        {
+          "name": "sweenuss",
+          "link": "https://www.curseforge.com/members/sweenuss/projects"
+        }
+      ],
+     "dependencies": ["wynntils", "playeranims"]
     },
     {
       "id": "yosbr",
