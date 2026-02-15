@@ -101,7 +101,6 @@
         "options",
         "unbound-settings",
         "photon-settings",
-        "euphoria-settings",
         "voxy-data"
       ],
       "recommended_memory": 4096,
