@@ -381,7 +381,7 @@
     {
       "id": "distanthorizons",
       "name": "Distant Horizons",
-      "description": "LODs for Minecraft",
+      "description": "(Incompatbile with VOXY) LODs for Minecraft",
       "source": "modrinth",
       "location": "distanthorizons",
       "version": "2.4.5-b-1.21.11",
