@@ -1,5 +1,7 @@
 name: "Release modified includes"
-on: push
+on: 
+  push:
+  workflow_dispatch: 
 jobs:
   zip_release_include:
     permissions: "write-all"
