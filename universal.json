@@ -55,6 +55,23 @@
         }
       ]
     },
+        {
+      "id": "atmos",
+      "name": "Atmosfera",
+      "description": "ambient sound system with customizable, atmospheric sound",
+      "source": "modrinth",
+      "location": "atmosfera",
+      "version": "2.5.5+mc1.21.11",
+      "optional": true,
+      "default_enabled": false,
+      "category": "SOUND",
+      "authors": [
+        {
+          "name": "Fourmisain",
+          "link": "https://modrinth.com/user/Fourmisain"
+        }
+      ]
+    },
     {
       "id": "architectury-api",
       "name": "Architectury API",
@@ -212,8 +229,8 @@
       "id": "chatanimation",
       "name": "Chat Animation",
       "description": "Adds an animation to chat messages",
-      "source": "modrinth",
-      "location": "chatanimation",
+      "source": "ddl",
+      "location": "https://cdn.modrinth.com/data/DnNYdJsx/versions/MdhlSl4K/chatanimation-fabric-1.21.11-1.1.3.jar",
       "version": "1.1.3",
       "optional": true,
       "default_enabled": false,
@@ -273,6 +290,23 @@
         {
           "name": "jaredlll08",
           "link": "https://modrinth.com/user/jaredlll08"
+        }
+      ]
+    },
+    {
+      "id": "chat-clear",
+      "name": "No Chat Clear",
+      "description": "Prevents your chat from being cleared",
+      "source": "modrinth",
+      "location": "no-chat-clear",
+      "version": "1.0.0",
+      "optional": false,
+      "default_enabled": true,
+      "category": "OPTIONS",
+      "authors": [
+        {
+          "name": "MrKinau",
+          "link": "https://modrinth.com/user/MrKinau"
         }
       ]
     },
@@ -435,7 +469,7 @@
       "description": "Adds more features to entity textures",
       "source": "modrinth",
       "location": "entitytexturefeatures",
-      "version": "7.0.8-fabric-1.21.11",
+      "version": "7.0.13-fabric-1.21.11",
       "optional": true,
       "default_enabled": false,
       "category": "MISC",
@@ -525,7 +559,7 @@
       "description": "LIBRARY mod for fabric loader",
       "source": "modrinth",
       "location": "fabric-api",
-      "version": "0.141.1+1.21.11",
+      "version": "0.141.3+1.21.11",
       "optional": false,
       "default_enabled": true,
       "category": "LIBRARY",
@@ -638,20 +672,71 @@
         }
       ]
     },
+      {
+      "id": "im-ui",
+      "name": "Immersive UI",
+      "description": "Enhance your gameplay experience with animated UI components",
+      "source": "modrinth",
+      "location": "immersive-ui",
+      "version": "0.3.6",
+      "optional": true,
+      "default_enabled": false,
+      "category": "GUI",
+      "authors": [
+        {
+          "name": "catboybinary",
+          "link": "https://modrinth.com/user/catboybinary"
+        }
+      ]
+    },
+      {
+      "id": "im-fast",
+      "name": "ImmediatelyFast",
+      "description": "Speed up immediate mode rendering in Minecraft",
+      "source": "modrinth",
+      "location": "immediatelyfast",
+      "version": "1.14.2+1.21.11-fabric",
+      "optional": true,
+      "default_enabled": false,
+      "category": "OPTIMIZATION",
+      "authors": [
+        {
+          "name": "RaphiMC",
+          "link": "https://modrinth.com/user/RaphiMC"
+        }
+      ]
+    },
+          {
+      "id": "ixeris",
+      "name": "Ixeris",
+      "description": "Buffered raw input and threaded event polling",
+      "source": "modrinth",
+      "location": "ixeris",
+      "version": "4.1.6+1.21.11-fabric",
+      "optional": true,
+      "default_enabled": false,
+      "category": "OPTIMIZATION",
+      "authors": [
+        {
+          "name": "decce6",
+          "link": "https://modrinth.com/user/decce6"
+        }
+      ]
+    },
     {
       "id": "iris",
-      "name": "Iris",
-      "description": "Shader mod compatible with OptiFine shaders",
+      "name": "WynnIris",
+      "description": "Port of Iris compatible with Wynncraft core shaders",
       "source": "modrinth",
-      "location": "iris",
-      "version": "1.10.4+1.21.11-fabric",
+      "location": "wynniris",
+      "version": "1.0.4+1.21.11-fabric",
       "optional": true,
       "default_enabled": false,
       "category": "SHADERS",
       "authors": [
         {
-          "name": "IMS",
-          "link": "https://modrinth.com/user/IMS"
+          "name": "LordGonner",
+          "link": "https://modrinth.com/user/LordGonner"
         }
       ],
       "dependencies": ["sodium"]
@@ -690,6 +775,23 @@
         }
       ],
       "dependencies": ["sodium"]
+    },
+      {
+      "id": "chat-his",
+      "name": "Longer Chat History",
+      "description": "Makes chat history much longer",
+      "source": "modrinth",
+      "location": "longer-chat-history",
+      "version": "1.7",
+      "optional": false,
+      "default_enabled": true,
+      "category": "OPTIONS",
+      "authors": [
+        {
+          "name": "bruv-network",
+          "link": "https://modrinth.com/organization/bruv-network"
+        }
+      ]
     },
     {
       "id": "macos-input-fixes",
@@ -878,6 +980,23 @@
         }
       ]
     },
+        {
+      "id": "octo",
+      "name": "OctoLib",
+      "description": "Collection of shared code for OctoStudios' mods",
+      "source": "modrinth",
+      "location": "octo-lib",
+      "version": "0.6.0.8",
+      "optional": false,
+      "default_enabled": true,
+      "category": "LIBRARY",
+      "authors": [
+        {
+          "name": "Fuzs",
+          "link": "https://modrinth.com/user/Fuzs"
+        }
+      ]
+    },
     {
       "id": "particle-rain",
       "name": "Particle Rain",
@@ -1005,7 +1124,7 @@
       "description": "Performance optimization mod for rendering",
       "source": "modrinth",
       "location": "sodium",
-      "version": "mc1.21.11-0.8.2-fabric",
+      "version": "mc1.21.11-0.8.7-fabric",
       "optional": false,
       "default_enabled": true,
       "category": "OPTIMIZATION",
@@ -1030,6 +1149,23 @@
         {
           "name": "mineblock11",
           "link": "https://modrinth.com/user/imb11"
+        }
+      ]
+    },
+      {
+      "id": "showskin",
+      "name": "Show Me Your Skin",
+      "description": "A mod to hide or customize armor rendering. ",
+      "source": "modrinth",
+      "location": "show-me-your-skin",
+      "version": "2.0.2+1.21.11",
+      "optional": true,
+      "default_enabled": false,
+      "category": "PLAYER",
+      "authors": [
+        {
+          "name": "enjarai",
+          "link": "https://modrinth.com/user/enjarai"
         }
       ]
     },
@@ -1329,7 +1465,7 @@
       "description": "High detail LODs for Minecraft",
       "source": "modrinth",
       "location": "voxy",
-      "version": "0.2.9-alpha",
+      "version": "0.2.13-alpha",
       "optional": true,
       "default_enabled": false,
       "category": "RENDER DISTANCE",
@@ -1346,7 +1482,7 @@
       "description": "Quality of life features for Wynncraft",
       "source": "modrinth",
       "location": "wynntils",
-      "version": "v4.0.0",
+      "version": "v4.1.0-beta.4",
       "optional": true,
       "default_enabled": false,
       "category": "WYNNCRAFT",
@@ -1411,6 +1547,23 @@
       ],
      "dependencies": ["barriers-dont-block-rain"]
     },
+      {
+      "id": "windy",
+      "name": "Windy",
+      "description": "Ambient wind particles",
+      "source": "modrinth",
+      "location": "windy",
+      "version": "1.1.1+1.21.11-fabric",
+      "optional": true,
+      "default_enabled": false,
+      "category": "IMMERSIVE",
+      "authors": [
+        {
+          "name": "bonfiremc",
+          "link": "https://modrinth.com/organization/bonfiremc"
+        }
+      ]
+    },
     {
       "id": "weaponmaster",
       "name": "YDM's Weapon Master",
@@ -1425,6 +1578,23 @@
         {
           "name": "YourDailyModder",
           "link": "https://modrinth.com/user/YourDailyModder"
+        }
+      ]
+    },
+        {
+      "id": "nopet",
+      "name": "Wynncraft Hide Pets",
+      "description": "Toggle pet visibilty",
+      "source": "modrinth",
+      "location": "wynncraft-hide-pets",
+      "version": "1.0.0",
+      "optional": true,
+      "default_enabled": false,
+      "category": "WYNNCRAFT",
+      "authors": [
+        {
+          "name": "xcyn",
+          "link": "https://modrinth.com/user/xcyn"
         }
       ]
     },
@@ -1852,7 +2022,7 @@
           "name": "Bobby World Data",
           "description": "Bobby data for Wynncraft",
           "source": "ddl",
-          "location": "https://www.dropbox.com/scl/fi/yxbqdwbxta6ayuaygt2lm/olinus.wynncraft.com.zip?rlkey=johbqticx6aujxkjtnvibvlju&st=didl299j&dl=1",
+          "location": "https://www.dropbox.com/scl/fi/psrtij436wy89e8aan0uw/olinus.wynncraft.com.zip?rlkey=b7jegbhe07y1t7bgdtx43n3ij&st=4t56l374&dl=1",
           "path": ".bobby",
           "version": "3.0",
           "optional": true,
@@ -1866,7 +2036,7 @@
           "name": "Voxy Server Data",
           "description": "Pre-generated LOD data for Wynncraft",
           "source": "ddl",
-          "location": "https://www.dropbox.com/scl/fi/tgm2xdzxk5rnxysgjmjrc/saves.zip?rlkey=oyylzrdupme78ooaxw9s4qr9s&st=6zflg765&dl=1",
+          "location": "https://www.dropbox.com/scl/fi/pq724hbybxq5x7za3dy63/saves.zip?rlkey=hvv0qfqvqj27ruj2kisddfegp&st=6sgvwra3&dl=1",
           "path": ".voxy",
           "version": "1.0",
           "optional": true,
