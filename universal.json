@@ -1,6 +1,6 @@
 {
   "manifest_version": 3,
-  "modpack_version": "5.0.1",
+  "modpack_version": "5.0.2",
   "minecraft_version": "1.21.11",
   "name": "Majestic Overhaul",
   "subtitle": "Universal Modpack",
@@ -1482,7 +1482,7 @@
       "description": "Quality of life features for Wynncraft",
       "source": "modrinth",
       "location": "wynntils",
-      "version": "v4.1.0-beta.4",
+      "version": "v4.1.0",
       "optional": true,
       "default_enabled": false,
       "category": "WYNNCRAFT",
