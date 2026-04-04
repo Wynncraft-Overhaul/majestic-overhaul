@@ -4,7 +4,7 @@
       "title": "FRUMA EXPANSION UPDATE",
       "contents": "<p>Updated the modpack to work with the Fruma Expansion</p><ul><li>New mods: Atmosfera, Show Me Your Skin, Immersive UI, OctoLib, Ixeris, ImmediatelyFast, No Chat Clear, Longer Chat History, Windy, Wynncraft Hide Pets, WynnIris</li><li>REMOVED: UkuLib, Cupboard</li><li>UPDATED: Wynntils, Voices of Wynn, Sodium, Fabric Api, Fabric Language Kotlin</li></ul>",
       "date": "April 2026",
-      "version": "5.0.2",
+      "version": "5.1.0",
       "importance": "major"
     },
            {
