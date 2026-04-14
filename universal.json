@@ -1,6 +1,6 @@
 {
   "manifest_version": 3,
-  "modpack_version": "5.1.1",
+  "modpack_version": "5.1.2",
   "minecraft_version": "1.21.11",
   "name": "Majestic Overhaul",
   "subtitle": "Universal Modpack",
@@ -729,7 +729,7 @@
       "description": "Port of Iris compatible with Wynncraft core shaders",
       "source": "modrinth",
       "location": "wynniris",
-      "version": "1.0.5+1.21.11-fabric",
+      "version": "1.0.6+1.21.11-fabric",
       "optional": true,
       "default_enabled": false,
       "category": "SHADERS",
