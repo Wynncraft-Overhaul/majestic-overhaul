@@ -1853,7 +1853,7 @@
       "description": "Beautiful shader with realistic clouds and weather",
       "source": "modrinth",
       "location": "photon-shader",
-      "version": "v1.3a",
+      "version": "v1.3b",
       "optional": true,
       "default_enabled": false,
       "category": "SHADERS",
