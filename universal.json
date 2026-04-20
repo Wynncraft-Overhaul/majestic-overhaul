@@ -729,7 +729,7 @@
       "description": "Port of Iris compatible with Wynncraft core shaders",
       "source": "modrinth",
       "location": "wynniris",
-      "version": "1.0.6+1.21.11-fabric",
+      "version": "1.0.7+1.21.11-fabric",
       "optional": true,
       "default_enabled": false,
       "category": "SHADERS",
