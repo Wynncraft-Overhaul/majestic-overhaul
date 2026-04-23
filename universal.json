@@ -1631,8 +1631,7 @@
           "name": "Kmaxi",
           "link": "https://modrinth.com/user/kmaxi"
         }
-      ],
-     "dependencies": ["distanthorizons"]
+      ]
     },
     {
       "id": "wynnanimated",
