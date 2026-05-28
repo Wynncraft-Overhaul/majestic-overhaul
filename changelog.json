@@ -1,5 +1,33 @@
 {
   "entries": [
+         {
+      "title": "Minor update",
+      "contents": "<p>Minor updates and fixes</li></ul>",
+      "date": "May 2026",
+      "version": "5.1.3",
+      "importance": "bugfix"
+    },
+     {
+      "title": "Minor update",
+      "contents": "<p>Minor updates and fixes</li></ul>",
+      "date": "April 2026",
+      "version": "5.1.3",
+      "importance": "bugfix"
+    },
+    {
+      "title": "Minor update",
+      "contents": "<p>Minor updates and fixes</li></ul>",
+      "date": "April 2026",
+      "version": "5.1.2",
+      "importance": "bugfix"
+    },
+    {
+      "title": "Minor update",
+      "contents": "<p>WynnIris support for Fruma skyboxes</li></ul>",
+      "date": "April 2026",
+      "version": "5.1.1",
+      "importance": "bugfix"
+    },
        {
       "title": "FRUMA EXPANSION UPDATE",
       "contents": "<p>Updated the modpack to work with the Fruma Expansion</p><ul><li>New mods: Atmosfera, Show Me Your Skin, Immersive UI, OctoLib, Ixeris, ImmediatelyFast, No Chat Clear, Longer Chat History, Windy, Wynncraft Hide Pets, WynnIris</li><li>REMOVED: UkuLib, Cupboard</li><li>UPDATED: Wynntils, Voices of Wynn, Sodium, Fabric Api, Fabric Language Kotlin</li></ul>",
