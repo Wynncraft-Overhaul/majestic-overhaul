@@ -985,15 +985,15 @@
       "name": "OctoLib",
       "description": "Collection of shared code for OctoStudios' mods",
       "source": "modrinth",
-      "location": "octo-lib",
+      "location": "shatterbyte-lib",
       "version": "0.6.0.8",
       "optional": false,
       "default_enabled": true,
       "category": "LIBRARY",
       "authors": [
         {
-          "name": "Fuzs",
-          "link": "https://modrinth.com/user/Fuzs"
+          "name": "SSKirillSS",
+          "link": "https://modrinth.com/user/SSKirillSS"
         }
       ]
     },
