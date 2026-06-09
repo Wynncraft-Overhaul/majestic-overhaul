@@ -1209,7 +1209,7 @@
       "description": "Adds search functionality to various menus",
       "source": "modrinth",
       "location": "searchables",
-      "version": "1.0.2",
+      "version": "1.0.4",
       "optional": false,
       "default_enabled": true,
       "category": "OPTIONS",
