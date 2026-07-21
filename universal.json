@@ -764,7 +764,7 @@
       "description": "Game logic optimization mod",
       "source": "modrinth",
       "location": "lithium",
-      "version": "mc1.21.11-0.21.2-fabric",
+      "version": "mc1.21.11-0.21.4-fabric",
       "optional": true,
       "default_enabled": false,
       "category": "OPTIMIZATION",
