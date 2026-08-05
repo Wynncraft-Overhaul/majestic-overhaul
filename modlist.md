@@ -1,0 +1,122 @@
+# Majestic Overhaul — Modlist
+
+Modpack version: `5.1.4`  
+Minecraft version: `1.21.11`
+
+## Mods
+- 3D Skin Layers — `1.10.1`
+- Ambient Sounds — `6.3.3`
+- Architectury API — `19.0.1+fabric`
+- Atmosfera — `2.5.5+mc1.21.11`
+- Bad Optimizations — `2.4.1`
+- Barrier's Don't Block Rain — `1.0.6`
+- Better Clouds — `1.11.3+1.21.11-fabric-a`
+- Better Grassify — `1.8.3+fabric.1.21.11`
+- BetterF3 — `17.0.0`
+- Bobby — `5.2.11+mc1.21.11`
+- C2ME — `0.3.6.0.0`
+- Capes — `1.5.10+1.21.11`
+- Chat Animation — `1.1.3`
+- CICADA — `0.14.3+1.21.9-1.21.10`
+- Cloth Config API — `21.11.153+fabric`
+- Continuity — `3.0.1-beta.1+1.21.11`
+- Controlling — `29.0.1`
+- Cool Rain — `1.3.1-1.21.11`
+- CreativeCore — `2.14.9`
+- Cull Leaves — `4.1.1.1+1.21.11-fabric`
+- Cupboard — `3.1`
+- Debugify — `1.21.11+1.0`
+- Distant Horizons — `2.4.5-b-1.21.11`
+- Dynamic Crosshair — `9.11+1.21.11-fabric`
+- Entity Culling — `1.9.4`
+- Entity Model Features — `3.0.10-fabric-1.21.11`
+- Entity Texture Features — `7.0.13-fabric-1.21.11`
+- Entity View Distance — `1.7.1+1.21.11`
+- Euphoria Patches — `1.9.2-r5.8.1-fabric`
+- Fabric API — `0.141.4+1.21.11`
+- Fabric Language Kotlin — `1.13.10+kotlin.2.3.20`
+- FerriteCore — `8.0.3-fabric`
+- First Person Model — `2.6.2`
+- Flashback — `0.39.1`
+- Forge Config API Port — `21.11.1`
+- Fzzy Config — `0.7.5+1.21.11`
+- HUD Manager — `3.4.1+mc1.21.11`
+- ImmediatelyFast — `1.14.2+1.21.11-fabric`
+- Immersive Hotbar — `1.0.4-1.21.9-1.21.11`
+- Immersive UI — `0.3.6`
+- Ixeris — `4.1.6+1.21.11-fabric`
+- Krypton — `0.2.10`
+- Lithium — `mc1.21.11-0.21.4-fabric`
+- Longer Chat History — `1.7`
+- MacOS Input Fixes — `1.11`
+- MidnightLib — `1.9.2+1.21.11-fabric`
+- Mod Menu — `17.0.0-beta.2`
+- ModernFix — `5.25.2-build.4`
+- More Chat History — `1.3.1`
+- More Culling — `1.6.1`
+- MRU — `1.0.26+edge+1.21.11-fabric`
+- No Chat Clear — `1.0.0`
+- No Resource Pack Warnings — `1.4.0`
+- Not Enough Animations — `1.11.2`
+- Notifier — `1.2.0-1.21`
+- OctoLib — `0.6.0.8`
+- oωo (owo-lib) — `0.13.0+1.21.11`
+- Particle Core — `0.3.1+1.21.11`
+- Particle Rain — `v4-beta.10+1.21.11-fabric`
+- Particular — `1.3.2`
+- PlayerAnimationLibrary — `1.1.6`
+- Presence Footsteps — `1.12.3+1.21.11`
+- Raise Sound Limit Simplified — `1.1.14`
+- Reese's Sodium Options — `mc1.21.11-2.0.2+fabric`
+- ScalableLux — `0.1.6+fabric.c25518a`
+- Searchables — `1.0.4`
+- Server Pack Priority — `1.0.2-1.21.11`
+- Shoulder Surfing Reloaded — `1.21.11-4.18.2+fabric`
+- Show Me Your Skin — `2.0.2+1.21.11`
+- Simple Fog Control — `2.0.12`
+- Sodium — `mc1.21.11-0.8.7-fabric`
+- Sodium Extra — `mc1.21.11-0.8.2+fabric`
+- Sound Physics Remastered — `fabric-1.21.11-1.5.1`
+- Sounds — `2.4.22+edge+1.21.11-fabric`
+- Spark — `1.10.170-fabric`
+- Subtle Effects — `1.13.2`
+- Text Placeholder API — `2.8.1+1.21.10`
+- ukulib — `1.10.2+1.21.11`
+- Video Tape — `4.11.1+1.21.9`
+- View Bobbing Options — `0.4.1+1.21.11`
+- Visuality — `0.7.12+1.21.11`
+- Voices of Wynn — `v2.0.3`
+- Voxy — `0.2.13-alpha`
+- Wavey Capes — `1.8.2`
+- Windy — `1.1.1+1.21.11-fabric`
+- Wynn Mounts — `0.1.0`
+- Wynn Vista — `1.0.2`
+- WynnAnimated — `1.0.0`
+- Wynncraft Dynamic Weather — `1.2.0-1.21.11`
+- Wynncraft Hide Pets — `1.0.0`
+- WynnIris — `1.1.1+1.21.11-fabric`
+- Wynntils — `v4.2.6`
+- Wynntils Config Share — `1.0.0-1.21`
+- YDM's Weapon Master — `fabric-1.21.11-4.4.4`
+- YetAnotherConfigfabricLib — `3.8.2+1.21.11-fabric`
+- Your Options Shall Be Respected — `0.1.2`
+- Zoomify — `2.15.1+1.21.11`
+
+## Shaders
+- BSL Shaders — `10.1.1`
+- Complementary Unbound — `r5.8.1`
+- Photon Shaders — `v1.3b`
+
+## Texture Packs
+- Clearer Water — `1.3`
+- Cubic Sun & Moon — `1.8.5`
+- Fresh Moves — `3.1.1`
+- Fungal Orchestral Pack — `3.1`
+- Gentler Weather Sounds — `2.1.0`
+- No Armor + — `1.3`
+- Wynnic Fables & Legends -2- — `2.2.1_VCIT`
+
+## Other (added files)
+- Bobby World Data — `3.0`
+- Distant Horizons Server Data — `2.1`
+- Voxy Server Data — `1.0`

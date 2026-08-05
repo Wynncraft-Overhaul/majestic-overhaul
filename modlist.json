@@ -1,0 +1,453 @@
+{
+  "modpack_name": "Majestic Overhaul",
+  "modpack_version": "5.1.4",
+  "minecraft_version": "1.21.11",
+  "mods": [
+    {
+      "name": "3D Skin Layers",
+      "version": "1.10.1"
+    },
+    {
+      "name": "Ambient Sounds",
+      "version": "6.3.3"
+    },
+    {
+      "name": "Architectury API",
+      "version": "19.0.1+fabric"
+    },
+    {
+      "name": "Atmosfera",
+      "version": "2.5.5+mc1.21.11"
+    },
+    {
+      "name": "Bad Optimizations",
+      "version": "2.4.1"
+    },
+    {
+      "name": "Barrier's Don't Block Rain",
+      "version": "1.0.6"
+    },
+    {
+      "name": "Better Clouds",
+      "version": "1.11.3+1.21.11-fabric-a"
+    },
+    {
+      "name": "Better Grassify",
+      "version": "1.8.3+fabric.1.21.11"
+    },
+    {
+      "name": "BetterF3",
+      "version": "17.0.0"
+    },
+    {
+      "name": "Bobby",
+      "version": "5.2.11+mc1.21.11"
+    },
+    {
+      "name": "C2ME",
+      "version": "0.3.6.0.0"
+    },
+    {
+      "name": "Capes",
+      "version": "1.5.10+1.21.11"
+    },
+    {
+      "name": "Chat Animation",
+      "version": "1.1.3"
+    },
+    {
+      "name": "CICADA",
+      "version": "0.14.3+1.21.9-1.21.10"
+    },
+    {
+      "name": "Cloth Config API",
+      "version": "21.11.153+fabric"
+    },
+    {
+      "name": "Continuity",
+      "version": "3.0.1-beta.1+1.21.11"
+    },
+    {
+      "name": "Controlling",
+      "version": "29.0.1"
+    },
+    {
+      "name": "Cool Rain",
+      "version": "1.3.1-1.21.11"
+    },
+    {
+      "name": "CreativeCore",
+      "version": "2.14.9"
+    },
+    {
+      "name": "Cull Leaves",
+      "version": "4.1.1.1+1.21.11-fabric"
+    },
+    {
+      "name": "Cupboard",
+      "version": "3.1"
+    },
+    {
+      "name": "Debugify",
+      "version": "1.21.11+1.0"
+    },
+    {
+      "name": "Distant Horizons",
+      "version": "2.4.5-b-1.21.11"
+    },
+    {
+      "name": "Dynamic Crosshair",
+      "version": "9.11+1.21.11-fabric"
+    },
+    {
+      "name": "Entity Culling",
+      "version": "1.9.4"
+    },
+    {
+      "name": "Entity Model Features",
+      "version": "3.0.10-fabric-1.21.11"
+    },
+    {
+      "name": "Entity Texture Features",
+      "version": "7.0.13-fabric-1.21.11"
+    },
+    {
+      "name": "Entity View Distance",
+      "version": "1.7.1+1.21.11"
+    },
+    {
+      "name": "Euphoria Patches",
+      "version": "1.9.2-r5.8.1-fabric"
+    },
+    {
+      "name": "Fabric API",
+      "version": "0.141.4+1.21.11"
+    },
+    {
+      "name": "Fabric Language Kotlin",
+      "version": "1.13.10+kotlin.2.3.20"
+    },
+    {
+      "name": "FerriteCore",
+      "version": "8.0.3-fabric"
+    },
+    {
+      "name": "First Person Model",
+      "version": "2.6.2"
+    },
+    {
+      "name": "Flashback",
+      "version": "0.39.1"
+    },
+    {
+      "name": "Forge Config API Port",
+      "version": "21.11.1"
+    },
+    {
+      "name": "Fzzy Config",
+      "version": "0.7.5+1.21.11"
+    },
+    {
+      "name": "HUD Manager",
+      "version": "3.4.1+mc1.21.11"
+    },
+    {
+      "name": "ImmediatelyFast",
+      "version": "1.14.2+1.21.11-fabric"
+    },
+    {
+      "name": "Immersive Hotbar",
+      "version": "1.0.4-1.21.9-1.21.11"
+    },
+    {
+      "name": "Immersive UI",
+      "version": "0.3.6"
+    },
+    {
+      "name": "Ixeris",
+      "version": "4.1.6+1.21.11-fabric"
+    },
+    {
+      "name": "Krypton",
+      "version": "0.2.10"
+    },
+    {
+      "name": "Lithium",
+      "version": "mc1.21.11-0.21.4-fabric"
+    },
+    {
+      "name": "Longer Chat History",
+      "version": "1.7"
+    },
+    {
+      "name": "MacOS Input Fixes",
+      "version": "1.11"
+    },
+    {
+      "name": "MidnightLib",
+      "version": "1.9.2+1.21.11-fabric"
+    },
+    {
+      "name": "Mod Menu",
+      "version": "17.0.0-beta.2"
+    },
+    {
+      "name": "ModernFix",
+      "version": "5.25.2-build.4"
+    },
+    {
+      "name": "More Chat History",
+      "version": "1.3.1"
+    },
+    {
+      "name": "More Culling",
+      "version": "1.6.1"
+    },
+    {
+      "name": "MRU",
+      "version": "1.0.26+edge+1.21.11-fabric"
+    },
+    {
+      "name": "No Chat Clear",
+      "version": "1.0.0"
+    },
+    {
+      "name": "No Resource Pack Warnings",
+      "version": "1.4.0"
+    },
+    {
+      "name": "Not Enough Animations",
+      "version": "1.11.2"
+    },
+    {
+      "name": "Notifier",
+      "version": "1.2.0-1.21"
+    },
+    {
+      "name": "OctoLib",
+      "version": "0.6.0.8"
+    },
+    {
+      "name": "o\u03c9o (owo-lib)",
+      "version": "0.13.0+1.21.11"
+    },
+    {
+      "name": "Particle Core",
+      "version": "0.3.1+1.21.11"
+    },
+    {
+      "name": "Particle Rain",
+      "version": "v4-beta.10+1.21.11-fabric"
+    },
+    {
+      "name": "Particular",
+      "version": "1.3.2"
+    },
+    {
+      "name": "PlayerAnimationLibrary",
+      "version": "1.1.6"
+    },
+    {
+      "name": "Presence Footsteps",
+      "version": "1.12.3+1.21.11"
+    },
+    {
+      "name": "Raise Sound Limit Simplified",
+      "version": "1.1.14"
+    },
+    {
+      "name": "Reese's Sodium Options",
+      "version": "mc1.21.11-2.0.2+fabric"
+    },
+    {
+      "name": "ScalableLux",
+      "version": "0.1.6+fabric.c25518a"
+    },
+    {
+      "name": "Searchables",
+      "version": "1.0.4"
+    },
+    {
+      "name": "Server Pack Priority",
+      "version": "1.0.2-1.21.11"
+    },
+    {
+      "name": "Shoulder Surfing Reloaded",
+      "version": "1.21.11-4.18.2+fabric"
+    },
+    {
+      "name": "Show Me Your Skin",
+      "version": "2.0.2+1.21.11"
+    },
+    {
+      "name": "Simple Fog Control",
+      "version": "2.0.12"
+    },
+    {
+      "name": "Sodium",
+      "version": "mc1.21.11-0.8.7-fabric"
+    },
+    {
+      "name": "Sodium Extra",
+      "version": "mc1.21.11-0.8.2+fabric"
+    },
+    {
+      "name": "Sound Physics Remastered",
+      "version": "fabric-1.21.11-1.5.1"
+    },
+    {
+      "name": "Sounds",
+      "version": "2.4.22+edge+1.21.11-fabric"
+    },
+    {
+      "name": "Spark",
+      "version": "1.10.170-fabric"
+    },
+    {
+      "name": "Subtle Effects",
+      "version": "1.13.2"
+    },
+    {
+      "name": "Text Placeholder API",
+      "version": "2.8.1+1.21.10"
+    },
+    {
+      "name": "ukulib",
+      "version": "1.10.2+1.21.11"
+    },
+    {
+      "name": "Video Tape",
+      "version": "4.11.1+1.21.9"
+    },
+    {
+      "name": "View Bobbing Options",
+      "version": "0.4.1+1.21.11"
+    },
+    {
+      "name": "Visuality",
+      "version": "0.7.12+1.21.11"
+    },
+    {
+      "name": "Voices of Wynn",
+      "version": "v2.0.3"
+    },
+    {
+      "name": "Voxy",
+      "version": "0.2.13-alpha"
+    },
+    {
+      "name": "Wavey Capes",
+      "version": "1.8.2"
+    },
+    {
+      "name": "Windy",
+      "version": "1.1.1+1.21.11-fabric"
+    },
+    {
+      "name": "Wynn Mounts",
+      "version": "0.1.0"
+    },
+    {
+      "name": "Wynn Vista",
+      "version": "1.0.2"
+    },
+    {
+      "name": "WynnAnimated",
+      "version": "1.0.0"
+    },
+    {
+      "name": "Wynncraft Dynamic Weather",
+      "version": "1.2.0-1.21.11"
+    },
+    {
+      "name": "Wynncraft Hide Pets",
+      "version": "1.0.0"
+    },
+    {
+      "name": "WynnIris",
+      "version": "1.1.1+1.21.11-fabric"
+    },
+    {
+      "name": "Wynntils",
+      "version": "v4.2.6"
+    },
+    {
+      "name": "Wynntils Config Share",
+      "version": "1.0.0-1.21"
+    },
+    {
+      "name": "YDM's Weapon Master",
+      "version": "fabric-1.21.11-4.4.4"
+    },
+    {
+      "name": "YetAnotherConfigfabricLib",
+      "version": "3.8.2+1.21.11-fabric"
+    },
+    {
+      "name": "Your Options Shall Be Respected",
+      "version": "0.1.2"
+    },
+    {
+      "name": "Zoomify",
+      "version": "2.15.1+1.21.11"
+    }
+  ],
+  "shaders": [
+    {
+      "name": "BSL Shaders",
+      "version": "10.1.1"
+    },
+    {
+      "name": "Complementary Unbound",
+      "version": "r5.8.1"
+    },
+    {
+      "name": "Photon Shaders",
+      "version": "v1.3b"
+    }
+  ],
+  "texturepacks": [
+    {
+      "name": "Clearer Water",
+      "version": "1.3"
+    },
+    {
+      "name": "Cubic Sun & Moon",
+      "version": "1.8.5"
+    },
+    {
+      "name": "Fresh Moves",
+      "version": "3.1.1"
+    },
+    {
+      "name": "Fungal Orchestral Pack",
+      "version": "3.1"
+    },
+    {
+      "name": "Gentler Weather Sounds",
+      "version": "2.1.0"
+    },
+    {
+      "name": "No Armor +",
+      "version": "1.3"
+    },
+    {
+      "name": "Wynnic Fables & Legends -2-",
+      "version": "2.2.1_VCIT"
+    }
+  ],
+  "other": [
+    {
+      "name": "Bobby World Data",
+      "version": "3.0"
+    },
+    {
+      "name": "Distant Horizons Server Data",
+      "version": "2.1"
+    },
+    {
+      "name": "Voxy Server Data",
+      "version": "1.0"
+    }
+  ]
+}
