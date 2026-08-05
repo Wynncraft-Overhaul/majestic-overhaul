@@ -1,0 +1,33 @@
+name: Generate modlist
+
+on:
+  push:
+    branches:
+      - immersive        # add/adjust other branches you publish from
+    paths:
+      - "universal.json"  # only run when the manifest actually changes
+  workflow_dispatch: {}    # lets you trigger it manually too
+
+permissions:
+  contents: write
+
+jobs:
+  build-modlist:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Generate modlist.json / modlist.md
+        run: python3 scripts/generate_modlist.py
+
+      - name: Commit and push if changed
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: update modlist [skip ci]"
+          file_pattern: "modlist.json modlist.md"
