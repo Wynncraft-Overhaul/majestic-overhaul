@@ -1,6 +1,6 @@
 {
   "manifest_version": 3,
-  "modpack_version": "5.1.4",
+  "modpack_version": "5.1.5",
   "minecraft_version": "1.21.11",
   "name": "Majestic Overhaul",
   "subtitle": "Universal Modpack",
@@ -1124,7 +1124,7 @@
       "description": "Performance optimization mod for rendering",
       "source": "modrinth",
       "location": "sodium",
-      "version": "mc1.21.11-0.8.7-fabric",
+      "version": "mc1.21.11-0.8.12-fabric",
       "optional": false,
       "default_enabled": true,
       "category": "OPTIMIZATION",
@@ -1465,7 +1465,7 @@
       "description": "High detail LODs for Minecraft",
       "source": "modrinth",
       "location": "voxy",
-      "version": "0.2.13-alpha",
+      "version": "0.2.16-beta",
       "optional": true,
       "default_enabled": false,
       "category": "RENDER DISTANCE",
@@ -1477,12 +1477,29 @@
       ]
     },
     {
+      "id": "w-horizon",
+      "name": "WynnHorizon",
+      "description": "Adjusted LODs for Wynncraft",
+      "source": "modrinth",
+      "location": "wynnhorizon",
+      "version": "0.1.0",
+      "optional": true,
+      "default_enabled": false,
+      "category": "RENDER DISTANCE",
+      "authors": [
+        {
+          "name": "dashless",
+          "link": "https://modrinth.com/user/dashless"
+        }
+      ]
+    },
+    {
       "id": "wynntils",
       "name": "Wynntils",
       "description": "Quality of life features for Wynncraft",
       "source": "modrinth",
       "location": "wynntils",
-      "version": "v4.2.6",
+      "version": "v4.2.11",
       "optional": true,
       "default_enabled": false,
       "category": "WYNNCRAFT",
