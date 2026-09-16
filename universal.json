@@ -1528,24 +1528,6 @@
       ],
      "dependencies": ["barriers-dont-block-rain", "particle-rain"]
     },
-    {
-      "id": "wynntils-config-sharing",
-      "name": "Wynntils Config Share",
-      "description": "Preset Wynntils settings",
-      "source": "ddl",
-      "location": "https://github.com/Commander07/Wynntils-Config-Sharing/releases/download/1.0.1-1.21.11/wynntils-config-sharing-1.0.1-1.21.11.jar",
-      "version": "1.0.0-1.21",
-      "optional": true,
-      "default_enabled": false,
-      "category": "WYNNCRAFT",
-      "authors": [
-        {
-          "name": "commander",
-          "link": "https://modrinth.com/user/commander"
-        }
-      ],
-      "dependencies": ["wynntils"]
-    },
       {
       "id": "windy",
       "name": "Windy",
