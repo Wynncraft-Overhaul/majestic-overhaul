@@ -1,6 +1,6 @@
 # Majestic Overhaul — Modlist
 
-Modpack version: `5.1.4`  
+Modpack version: `5.1.5`  
 Minecraft version: `1.21.11`
 
 ## Mods
@@ -74,7 +74,7 @@ Minecraft version: `1.21.11`
 - Shoulder Surfing Reloaded — `1.21.11-4.18.2+fabric`
 - Show Me Your Skin — `2.0.2+1.21.11`
 - Simple Fog Control — `2.0.12`
-- Sodium — `mc1.21.11-0.8.7-fabric`
+- Sodium — `mc1.21.11-0.8.12-fabric`
 - Sodium Extra — `mc1.21.11-0.8.2+fabric`
 - Sound Physics Remastered — `fabric-1.21.11-1.5.1`
 - Sounds — `2.4.22+edge+1.21.11-fabric`
@@ -86,7 +86,7 @@ Minecraft version: `1.21.11`
 - View Bobbing Options — `0.4.1+1.21.11`
 - Visuality — `0.7.12+1.21.11`
 - Voices of Wynn — `v2.0.3`
-- Voxy — `0.2.13-alpha`
+- Voxy — `0.2.16-beta`
 - Wavey Capes — `1.8.2`
 - Windy — `1.1.1+1.21.11-fabric`
 - Wynn Mounts — `0.1.0`
@@ -94,8 +94,9 @@ Minecraft version: `1.21.11`
 - WynnAnimated — `1.0.0`
 - Wynncraft Dynamic Weather — `1.2.0-1.21.11`
 - Wynncraft Hide Pets — `1.0.0`
-- WynnIris — `1.1.1+1.21.11-fabric`
-- Wynntils — `v4.2.6`
+- WynnHorizon — `0.1.0`
+- WynnIris — `1.2.1+1.21.11-fabric`
+- Wynntils — `v4.2.11`
 - Wynntils Config Share — `1.0.0-1.21`
 - YDM's Weapon Master — `fabric-1.21.11-4.4.4`
 - YetAnotherConfigfabricLib — `3.8.2+1.21.11-fabric`

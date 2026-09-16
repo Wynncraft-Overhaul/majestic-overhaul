@@ -1,6 +1,6 @@
 {
   "modpack_name": "Majestic Overhaul",
-  "modpack_version": "5.1.4",
+  "modpack_version": "5.1.5",
   "minecraft_version": "1.21.11",
   "mods": [
     {
@@ -285,7 +285,7 @@
     },
     {
       "name": "Sodium",
-      "version": "mc1.21.11-0.8.7-fabric"
+      "version": "mc1.21.11-0.8.12-fabric"
     },
     {
       "name": "Sodium Extra",
@@ -333,7 +333,7 @@
     },
     {
       "name": "Voxy",
-      "version": "0.2.13-alpha"
+      "version": "0.2.16-beta"
     },
     {
       "name": "Wavey Capes",
@@ -364,12 +364,16 @@
       "version": "1.0.0"
     },
     {
+      "name": "WynnHorizon",
+      "version": "0.1.0"
+    },
+    {
       "name": "WynnIris",
-      "version": "1.1.1+1.21.11-fabric"
+      "version": "1.2.1+1.21.11-fabric"
     },
     {
       "name": "Wynntils",
-      "version": "v4.2.6"
+      "version": "v4.2.11"
     },
     {
       "name": "Wynntils Config Share",
