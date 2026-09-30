@@ -369,15 +369,11 @@
     },
     {
       "name": "WynnIris",
-      "version": "1.2.1+1.21.11-fabric"
+      "version": "1.2.2+1.21.11-fabric"
     },
     {
       "name": "Wynntils",
       "version": "v4.2.11"
-    },
-    {
-      "name": "Wynntils Config Share",
-      "version": "1.0.0-1.21"
     },
     {
       "name": "YDM's Weapon Master",

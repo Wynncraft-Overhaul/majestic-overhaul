@@ -95,9 +95,8 @@ Minecraft version: `1.21.11`
 - Wynncraft Dynamic Weather — `1.2.0-1.21.11`
 - Wynncraft Hide Pets — `1.0.0`
 - WynnHorizon — `0.1.0`
-- WynnIris — `1.2.1+1.21.11-fabric`
+- WynnIris — `1.2.2+1.21.11-fabric`
 - Wynntils — `v4.2.11`
-- Wynntils Config Share — `1.0.0-1.21`
 - YDM's Weapon Master — `fabric-1.21.11-4.4.4`
 - YetAnotherConfigfabricLib — `3.8.2+1.21.11-fabric`
 - Your Options Shall Be Respected — `0.1.2`
