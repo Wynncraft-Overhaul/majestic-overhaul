@@ -1,6 +1,6 @@
 # Majestic Overhaul — Modlist
 
-Modpack version: `5.1.5`  
+Modpack version: `5.2.0`  
 Minecraft version: `1.21.11`
 
 ## Mods
