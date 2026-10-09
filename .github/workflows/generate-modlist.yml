@@ -11,12 +11,18 @@ on:
 permissions:
   contents: write
 
+concurrency:
+  group: modlist-${{ github.ref }}
+  cancel-in-progress: true
+
 jobs:
   build-modlist:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repo
         uses: actions/checkout@v4
+        with:
+          ref: ${{ github.ref_name }}   # always build on the current branch tip
 
       - name: Set up Python
         uses: actions/setup-python@v5
