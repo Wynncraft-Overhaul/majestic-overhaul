@@ -79,6 +79,7 @@ Minecraft version: `1.21.11`
 - Sound Physics Remastered — `fabric-1.21.11-1.5.1`
 - Sounds — `2.4.22+edge+1.21.11-fabric`
 - Spark — `1.10.170-fabric`
+- Spatial GUI — `1.7.1-fabric+1.21.11`
 - Subtle Effects — `1.13.2`
 - Text Placeholder API — `2.8.1+1.21.10`
 - ukulib — `1.10.2+1.21.11`
@@ -96,7 +97,7 @@ Minecraft version: `1.21.11`
 - Wynncraft Hide Pets — `1.0.0`
 - WynnHorizon — `0.1.0`
 - WynnIris — `1.2.2+1.21.11-fabric`
-- Wynntils — `v4.2.11`
+- Wynntils — `v4.2.13`
 - YDM's Weapon Master — `fabric-1.21.11-4.4.4`
 - YetAnotherConfigfabricLib — `3.8.2+1.21.11-fabric`
 - Your Options Shall Be Respected — `0.1.2`
@@ -111,10 +112,10 @@ Minecraft version: `1.21.11`
 - Clearer Water — `1.3`
 - Cubic Sun & Moon — `1.8.5`
 - Fresh Moves — `3.1.1`
-- Fungal Orchestral Pack — `3.1`
 - Gentler Weather Sounds — `2.1.0`
-- No Armor + — `1.3`
+- Wynncraft Fancy Professions Materials — `2.2.1`
 - Wynnic Fables & Legends -2- — `2.2.1_VCIT`
+- Wynnphony: Orchestra — `1.0`
 
 ## Other (added files)
 - Bobby World Data — `3.0`

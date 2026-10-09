@@ -304,6 +304,10 @@
       "version": "1.10.170-fabric"
     },
     {
+      "name": "Spatial GUI",
+      "version": "1.7.1-fabric+1.21.11"
+    },
+    {
       "name": "Subtle Effects",
       "version": "1.13.2"
     },
@@ -373,7 +377,7 @@
     },
     {
       "name": "Wynntils",
-      "version": "v4.2.11"
+      "version": "v4.2.13"
     },
     {
       "name": "YDM's Weapon Master",
@@ -420,20 +424,20 @@
       "version": "3.1.1"
     },
     {
-      "name": "Fungal Orchestral Pack",
-      "version": "3.1"
-    },
-    {
       "name": "Gentler Weather Sounds",
       "version": "2.1.0"
     },
     {
-      "name": "No Armor +",
-      "version": "1.3"
+      "name": "Wynncraft Fancy Professions Materials",
+      "version": "2.2.1"
     },
     {
       "name": "Wynnic Fables & Legends -2-",
       "version": "2.2.1_VCIT"
+    },
+    {
+      "name": "Wynnphony: Orchestra",
+      "version": "1.0"
     }
   ],
   "other": [
