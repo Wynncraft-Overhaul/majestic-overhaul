@@ -1,6 +1,6 @@
 {
   "manifest_version": 3,
-  "modpack_version": "5.2.0",
+  "modpack_version": "5.2.1",
   "minecraft_version": "1.21.11",
   "name": "Majestic Overhaul",
   "subtitle": "Universal Modpack",
@@ -1465,7 +1465,7 @@
       "description": "Adds voice acting to NPCs",
       "source": "modrinth",
       "location": "vow",
-      "version": "v2.0.3",
+      "version": "v3.0.0",
       "optional": true,
       "default_enabled": false,
       "category": "SOUND",
