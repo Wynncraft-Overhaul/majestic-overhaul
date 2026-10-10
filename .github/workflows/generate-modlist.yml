@@ -3,10 +3,10 @@ name: Generate modlist
 on:
   push:
     branches:
-      - immersive        # add/adjust other branches you publish from
+      - immersive
     paths:
-      - "universal.json"  # only run when the manifest actually changes
-  workflow_dispatch: {}    # lets you trigger it manually too
+      - "universal.json"
+  workflow_dispatch: {}
 
 permissions:
   contents: write
@@ -22,18 +22,42 @@ jobs:
       - name: Checkout repo
         uses: actions/checkout@v4
         with:
-          ref: ${{ github.ref_name }}   # always build on the current branch tip
+          ref: ${{ github.ref_name }}
 
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
           python-version: "3.12"
 
-      - name: Generate modlist.json / modlist.md
-        run: python3 scripts/generate_modlist.py
+      - name: Generate, commit and push (retries if branch moved)
+        env:
+          BRANCH: ${{ github.ref_name }}
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
-      - name: Commit and push if changed
-        uses: stefanzweifel/git-auto-commit-action@v5
-        with:
-          commit_message: "chore: update modlist [skip ci]"
-          file_pattern: "modlist.json modlist.md"
+          for attempt in 1 2 3 4 5; do
+            echo "Attempt $attempt"
+            git fetch origin "refs/heads/$BRANCH"
+            git reset --hard FETCH_HEAD          # start from the real current tip
+            python3 scripts/generate_modlist.py
+
+            if git diff --quiet -- modlist.json modlist.md; then
+              echo "Modlist already up to date."
+              exit 0
+            fi
+
+            git add modlist.json modlist.md
+            git commit -m "chore: update modlist [skip ci]"
+
+            if git push origin "HEAD:refs/heads/$BRANCH"; then
+              echo "Pushed."
+              exit 0
+            fi
+
+            echo "Push rejected (branch moved), retrying in 15s..."
+            sleep 15
+          done
+
+          echo "Gave up after 5 attempts."
+          exit 1
