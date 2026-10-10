@@ -1,6 +1,6 @@
 {
   "modpack_name": "Majestic Overhaul",
-  "modpack_version": "5.2.0",
+  "modpack_version": "5.2.1",
   "minecraft_version": "1.21.11",
   "mods": [
     {
@@ -333,7 +333,7 @@
     },
     {
       "name": "Voices of Wynn",
-      "version": "v2.0.3"
+      "version": "v3.0.0"
     },
     {
       "name": "Voxy",

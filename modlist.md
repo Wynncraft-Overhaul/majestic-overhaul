@@ -1,6 +1,6 @@
 # Majestic Overhaul — Modlist
 
-Modpack version: `5.2.0`  
+Modpack version: `5.2.1`  
 Minecraft version: `1.21.11`
 
 ## Mods
@@ -86,7 +86,7 @@ Minecraft version: `1.21.11`
 - Video Tape — `4.11.1+1.21.9`
 - View Bobbing Options — `0.4.1+1.21.11`
 - Visuality — `0.7.12+1.21.11`
-- Voices of Wynn — `v2.0.3`
+- Voices of Wynn — `v3.0.0`
 - Voxy — `0.2.16-beta`
 - Wavey Capes — `1.8.2`
 - Windy — `1.1.1+1.21.11-fabric`
