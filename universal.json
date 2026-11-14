@@ -1003,7 +1003,7 @@
       "description": "Enhances rain with particles",
       "source": "modrinth",
       "location": "particle-rain",
-      "version": "v4-beta.10+1.21.11-fabric",
+      "version": "v4.0.3+1.21.11-fabric",
       "optional": true,
       "default_enabled": false,
       "category": "IMMERSIVE",
