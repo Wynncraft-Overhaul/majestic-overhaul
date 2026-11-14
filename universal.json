@@ -1602,7 +1602,7 @@
       "description": "Distant Horizons render distance when outside the Wynncraft map",
       "source": "modrinth",
       "location": "wynnvista",
-      "version": "1.0.2",
+      "version": "2.2.0",
       "optional": true,
       "default_enabled": false,
       "category": "RENDER DISTANCE",
