@@ -62,7 +62,7 @@ Minecraft version: `1.21.11`
 - OctoLib — `0.6.0.8`
 - oωo (owo-lib) — `0.13.0+1.21.11`
 - Particle Core — `0.3.1+1.21.11`
-- Particle Rain — `v4-beta.10+1.21.11-fabric`
+- Particle Rain — `v4.0.3+1.21.11-fabric`
 - Particular — `1.3.2`
 - PlayerAnimationLibrary — `1.1.6`
 - Presence Footsteps — `1.12.3+1.21.11`
