@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 2,
+  "showMessage": true,
+  "maskingEnabled": true,
+  "effectsEnabled": true,
+  "effectSteps": 64,
+  "effectFogModels": true,
+  "effectPackLighting": true,
+  "effectPackClouds": true,
+  "effectPackReflections": true,
+  "effects": {
+    "smoke_plume": true,
+    "nether_fog": true,
+    "sky_islands_void": true,
+    "sky_islands_air": true
+  },
+  "smokePlumeStyle": "REALISTIC",
+  "netherFogStyle": "REALISTIC",
+  "skyIslandsVoidStyle": "REALISTIC",
+  "fixtureEnabled": false,
+  "fixtureSavePath": "",
+  "fixtureOverride": "AUTO",
+  "fixtureCustomRect": ""
+}
