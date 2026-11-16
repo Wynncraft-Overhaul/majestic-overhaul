@@ -91,7 +91,7 @@ Minecraft version: `1.21.11`
 - Wavey Capes — `1.8.2`
 - Windy — `1.1.1+1.21.11-fabric`
 - Wynn Mounts — `0.1.0`
-- Wynn Vista — `2.2.1`
+- Wynn Vista — `2.2.2`
 - WynnAnimated — `1.0.0`
 - Wynncraft Dynamic Weather — `1.2.0-1.21.11`
 - Wynncraft Hide Pets — `1.0.0`
